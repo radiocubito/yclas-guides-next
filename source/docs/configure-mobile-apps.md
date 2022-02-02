@@ -29,7 +29,7 @@ section: content
 
 **Colors**, you can also select the color appearance on your select fonts. 
 
-**Google Maps** , If you want to use google maps in your iOS and Android apps please [follow this instructions](https://guides.yclas.com/#/Publish-options-configure-google-maps-settings?id=get-your-api-key), and insert your maps API key here.
+**Google Maps** , If you want to use google maps in your iOS and Android apps please [follow this instructions](publish-options-configure-google-maps-settings?id=get-your-api-key), and insert your maps API key here.
 
 
 ## How to obtain your API Key

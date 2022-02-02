@@ -64,7 +64,7 @@ The traditional installation is suitable for anyone who wants to use it.
 -   You are all ready to start.
     
 
-Note: To install it, you will need a Database and a Username created in your hosting. Follow [this link](https://guides.yclas.com/#/Yclas-self-hosted-installation-mySQL-database) to learn how to create a MySQL Database.
+Note: To install it, you will need a Database and a Username created in your hosting. Follow [this link](yclas-self-hosted-installation-mysql-database) to learn how to create a MySQL Database.
 
 
 

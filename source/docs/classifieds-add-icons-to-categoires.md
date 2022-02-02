@@ -13,7 +13,7 @@ To make your categories recognisable, it is possible to add an icon to every cat
 
 ## How to do it
 
-Adding icons to your categories is super easy. First of all, you have to create a category. If you are not sure how to do it,  [check out our useful tips](http://guides.yclas.com/#/Classifieds-how-to-add-new-categories-and-manage-them).
+Adding icons to your categories is super easy. First of all, you have to create a category. If you are not sure how to do it,  [check out our useful tips](classifieds-how-to-add-new-categories-and-manage-them).
 
 ### Image icon
 
