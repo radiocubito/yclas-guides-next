@@ -33,39 +33,39 @@ You can get started right away without any technical knowledge. You can create y
 This is a list with everything that you can find on our documentation and guides.
 
 # Home
-- [How to use Yclas support system](Home-how-to-use-yclas-support-system.md)
-- [API documentation](api-documentation.md)
-- [Useful artciles](Useful-articles.md)
+- [How to use Yclas support system](home-how-to-use-yclas-support-system)
+- [API documentation](api-documentation)
+- [Useful artciles](useful-articles)
 
 # Panel
-* [Site & advertisements stats](Panel-site-advertising-stats.md)
-* [Admin keyword shortcuts](Panel-amin-keyword-shortcuts.md)
+* [Site & advertisements stats](panel-site-advertising-stats)
+* [Admin keyword shortcuts](panel-amin-keyword-shortcuts)
 
 # Manage
-- [Classifieds](Classifieds.md) 
-- [Users](Users.md)
-- [Profile](Profile.md)
-- [Orders](Orders.md)
+- [Classifieds](classifieds)
+- [Users](users)
+- [Profile](profile)
+- [Orders](orders)
 
 # Content
-- [Content](Content.md)
+- [Content](content)
 
 # Configure
-- [Settings](settings.md)
-- [Design](Design.md)
-- [Addons](Addons.md)
-- [Integrations](Integrations.md)
+- [Settings](settings)
+- [Design](design)
+- [Addons](addons)
+- [Integrations](integrations)
 
 
 # Tools
-- [Tools](Extras.md)
+- [Tools](extras)
 ---
 # Yclas Self-hosted
-- [Installation](Yclas-self-hosted-installation.md)
-- [License](License.md)
-- [Development](Yclas-self-hosted-development.md)
-- [Technical](Yclas-self-hosted-technical.md)
-- [Technical issues](Technical-issues.md)
+- [Installation](yclas-self-hosted-installation)
+- [License](license)
+- [Development](yclas-self-hosted-development)
+- [Technical](yclas-self-hosted-technical)
+- [Technical issues](technical-issues)
 
 <iframe width="100%" height="400px" src="https://www.youtube.com/embed/Men7xa5PLZM" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
