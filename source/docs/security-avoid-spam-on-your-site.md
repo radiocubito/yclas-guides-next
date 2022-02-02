@@ -27,7 +27,7 @@ Login to your **Admin Panel** ->  **Configuration** -> **Settings > General**  >
 
 ### Black List
 
-Next step is to activate the **Black List**. There's a [guide](Plugins-activate-black-list.md) on how to do that in our documentation.
+Next step is to activate the **Black List**. There's a [guide](plugins-activate-black-list) on how to do that in our documentation.
 
 ### Akismet
 

@@ -15,7 +15,7 @@ When creating a classifieds website you may want to apply a couple of changes to
 Child themes enable you to create a theme that takes all the files from your premium theme except for the files that you modified. 
 For example, you modified your homepage and changed the background color of your child theme, then the child theme will take all the other files from the parent theme. This way, whenever there is a new update to your child theme, it will take all the updated files from the parent theme when it’s updated, except for the files that you modified.
 
-This guide is the **third** of its kind, this is the first guide on  [understanding Yclas themes](Technical-understanding-yclas-themes.md)  and the second guide on  [how to modify or create yclas themes](Technical-modify-or-create-a-theme.md). I recommend reading those two guides as well if you want to modify your site with our classifieds script.
+This guide is the **third** of its kind, this is the first guide on  [understanding Yclas themes](technical-understanding-yclas-themes)  and the second guide on  [how to modify or create yclas themes](technical-modify-or-create-a-theme). I recommend reading those two guides as well if you want to modify your site with our classifieds script.
 
 ## Why use child themes in a classifieds script
 

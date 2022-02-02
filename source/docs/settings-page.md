@@ -5,76 +5,76 @@ extends: _layouts.documentation
 section: content
 ---
 
-[**Getting Started**](README.md)
+[**Getting Started**](readme)
 
- -  -  [**How to Use Yclas Support System**](Home-how-to-use-yclas-support-system.md) 
+ -  -  [**How to Use Yclas Support System**](home-how-to-use-yclas-support-system)
 
-[**Panel**](panel.md)
+[**Panel**](panel)
 -  Available stats and shortcuts
 
-[**Manage classifieds**](Classifieds.md)
+[**Manage classifieds**](classifieds)
 - Learn how to manage, edit, delete. filter ads and categories on your website.
 
-[**Custom fields**](Custom-fields.md)
+[**Custom fields**](custom-fields)
 - Learn how to create and integrade custom fields for PayPall, shipping,currency, and many others.
 
-[**Content**](Content.md)
+[**Content**](content)
 - Learn how to add pages, send automatic emails and newsletters and add an interactive map on your website.
 
-[**Appearance**](Appearance.md)
+[**Appearance**](appearance)
 - Learn how to add a logo or a banner to your website or set up infinite ads, and other appearance features in this guide.
 
-  - [**Yclas Themes**](Themes.md)
-  - [**Widgets**](Widgets.md)
+  - [**Yclas Themes**](themes)
+  - [**Widgets**](widgets)
 
-[**General Settings**](General-Settings.md)
+[**General Settings**](general-settings)
 
    -  In this guide, you'll find all of the general settings that you can configurate in your Admin Panel. You can learn how to change any of your website's settings.
 
-[**Multilingual Classifieds**](Multilingual.md)
+[**Multilingual Classifieds**](multilingual)
 - Activate multilingual classifieds 
 
- [**Security**](Security.md)
+ [**Security**](security)
 - Learn how to secure your website.
 
-[**Advertisement**](Advertisement.md)
+[**Advertisement**](advertisement)
 
 - Find out all the information on advertisements, and how to change their settings and features.
-   - [Search ads by distance](Search-ads-by-distance.md)
+   - [Search ads by distance](search-ads-by-distance)
 
-[**Publish options**](Publish-optiond.md)
+[**Publish options**](publish-optiond)
 - Find out how to activate publish options, comments with different platforms and google maps settings.
 
-[**Payment**](Payment.md)
+[**Payment**](payment)
 - Learn how to work with all available payment gateways 
 
-[**Email Settings**](Email-settings.md)
+[**Email Settings**](email-settings)
 - Learn how to change your email, use the available SMTP services or how to host email with custom domain and other configurations.
 
-[**Plugins**](Plugins.md)
+[**Plugins**](plugins)
 - Learn how to activate your website's blog, forum, FAQ system or message system, how to activate users' black list and many other plugins.
 
-[**Translation**](Translations.md)
+[**Translation**](translations)
 - Find out how to translate your website's content in any langauge.
 
-[**Media Settings**](Media-settings.md)
+[**Media Settings**](media-settings)
 - Learn how to configure image settings, add watermark on them and how to speed up your website by using Cloud Computing Services.
 
-[**Users**](Users.md)
+[**Users**](users)
 - All available features for your users.
 
-[**Extras**](Extras.md)
+[**Extras**](extras)
 - Learn how to import ads, set crons and sitemaps for classifieds websites.
 
-[**Profile**](Profile.md)
+[**Profile**](profile)
 - All available profile features.
-[**API documentation**](api-documentation.md)
+[**API documentation**](api-documentation)
 
-[**Useful articles**](Useful-articles.md)
+[**Useful articles**](useful-articles)
 
-[**Yclas Self-Hosted**](self-hosted.md)
-* [Installation](Yclas-self-hosted-installation.md)
-* [License](License.md)
-* [Development](Yclas-self-hosted-development.md)
-* [Technical](Yclas-self-hosted-technical.md)
-  * [Technical issues](Technical-issues.md)
+[**Yclas Self-Hosted**](self-hosted)
+* [Installation](yclas-self-hosted-installation)
+* [License](license)
+* [Development](yclas-self-hosted-development)
+* [Technical](yclas-self-hosted-technical)
+  * [Technical issues](technical-issues)

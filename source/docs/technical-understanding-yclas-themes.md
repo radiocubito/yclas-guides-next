@@ -171,7 +171,7 @@ We hope this article helps all of you out there who are thinking of having your 
 Best regards,
 Yclas team
 
-Second part of this guide [here](Technical-modify-or-create-a-theme.md)
+Second part of this guide [here](technical-modify-or-create-a-theme)
 
 
 *This guide is only for Yclas Self-hosted.*

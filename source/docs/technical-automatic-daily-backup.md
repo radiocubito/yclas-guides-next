@@ -12,7 +12,7 @@ _This guide is only for  [Yclas Self-hosted](https://yclas.com/)_
 
   From the many support tickets I have covered and issues that were reported by our users I noticed that having automatic backups is of huge importance as we have mentioned before, doing a backup before any update can save you LOTS of time.
 
-We have a guide on [how to do backups](Technical-backup-site), but it’s a tiring manual process.
+We have a guide on [how to do backups](technical-backup-site), but it’s a tiring manual process.
 
 Not pleasant to deal with and the best scenario is that you don’t forget to do the backup or pray that all will work fine while restoring it.
 

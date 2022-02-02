@@ -7,9 +7,9 @@ section: content
 
 # Chat with Sellers
 
- Yclas makes it possible for users to contact sellers before purchasing a product, using the traditional contact form or through our internal [Messaging System](Plugins-message-system.md)
+ Yclas makes it possible for users to contact sellers before purchasing a product, using the traditional contact form or through our internal [Messaging System](plugins-message-system)
 
-In order to advertise directly on Whatsapp, Skype or Telegram you need to create three  [**user custom fields**](Users-create-custom-field-for-users.md):
+In order to advertise directly on Whatsapp, Skype or Telegram you need to create three  [**user custom fields**](users-create-custom-field-for-users):
 
 ## Whatsapp
 

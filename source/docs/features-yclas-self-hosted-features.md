@@ -7,50 +7,50 @@ section: content
 
 In this guide, you can find a list with the exclusive features that Yclas Self-hosted Lite and Yclas Self-hosted Pro offer.
 
-* [Open Source](Features-open-source.md)
+* [Open Source](features-open-source)
 
-* [Use your own server](Features-use-your-own-server.md)
+* [Use your own server](features-use-your-own-server)
 
-* [Basic marketplace management](Basic-market-management.md)
+* [Basic marketplace management](basic-market-management)
 
-* [Support](Features-support.md)
+* [Support](features-support)
 
-- [15 Pro templates](Features-pro-templates.md).  [Demo](https://yclas.com/domain/demo?theme=olson)
+- [15 Pro templates](features-pro-templates).  [Demo](https://yclas.com/domain/demo?theme=olson)
 
-* [15 payment gateways](Features-15-payment-gateways.md)
+* [15 payment gateways](features-15-payment-gateways)
 
-* [Stripe marketplace](Features-stripe-marketplace.md)
+* [Stripe marketplace](features-stripe-marketplace)
 
-* [Escrow marketplace](Features-escrow-marketplace.md)
+* [Escrow marketplace](features-escrow-marketplace)
 
-* [Memberships](Features-membership.md)
+* [Memberships](features-membership)
 
-* [Social login](Features-social-login.md)
+* [Social login](features-social-login)
 
-* [Custom fields](Features-custom-fields.md)
+* [Custom fields](features-custom-fields)
 
-* [User custom fields](User-custom-fields.md)
+* [User custom fields](User-custom-fields)
 
-* [Stock control](Features-stock-control.md)
+* [Stock control](features-stock-control)
 
-* [Coupons](Features-coupons.md)
+* [Coupons](features-coupons)
 
-* [Reviews](Features-reviews.md)
+* [Reviews](features-reviews)
 
-* [Geo-locate users](Features-geo-locate-users.md)
+* [Geo-locate users](features-geo-locate-users)
 
-* [Advanced newsletter](Features-advanced-newsletter.md)
+* [Advanced newsletter](features-advanced-newsletter)
 
-* [Interactive map](Features-interactive-map.md)
+* [Interactive map](features-interactive-map)
 
-* [Import tools](Features-import-tool.md)
+* [Import tools](features-import-tool)
 
-* [Live translation](Features-live-translation.md)
+* [Live translation](features-live-translation)
 
-* [Forum](Features-forum.md)
+* [Forum](features-forum)
 
-* [FAQ](Features--FAQ.md)
+* [FAQ](features--faq)
 
-* [API enabled](Features-api-enabled.md)
+* [API enabled](features-api-enabled)
 
-* [Any new theme developed](Features-any-new-theme-developed.md)
+* [Any new theme developed](features-any-new-theme-developed)

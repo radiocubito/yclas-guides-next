@@ -9,6 +9,6 @@ section: content
 
 In this guide, you can read more about the extras that Yclas offers.
 
-* [Import advertisements](Extras-how-to-import-advertisements.md) 
-* [How to set crons](Extras-how-to-set-crons.md)
-* [Sitemap for a classified website](Extras-create-site-map.md)
+* [Import advertisements](extras-how-to-import-advertisements)
+* [How to set crons](extras-how-to-set-crons)
+* [Sitemap for a classified website](extras-create-site-map)

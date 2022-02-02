@@ -10,10 +10,10 @@ section: content
 In this guide, you can find all of the information on translations and available translation features.
 
 
-*   [Translation](Translation-change-language-of-the-site.md)
+*   [Translation](translation-change-language-of-the-site)
       -    How to change the language of your website.
 
-*   [Live translations](Translation-live-translation.md)
+*   [Live translations](translation-live-translation)
     -    Quickly translate and modify your website.
 
 

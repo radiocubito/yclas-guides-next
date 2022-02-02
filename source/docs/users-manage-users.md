@@ -15,11 +15,11 @@ To manage your website users, login to your **Admin Panel** -> **Users**  ->  **
 
 ## Actions
 
--   **Edit->**  Edit an username, email, description, status, [role](Users-how-do-roles-work.md), rate, password, etc.
+-   **Edit->**  Edit an username, email, description, status, [role](users-how-do-roles-work), rate, password, etc.
 -   **Delete->**  Delete this user permanently.
 -   **View Ads->**  Display all the ads created by this user.
 -   **View Orders->**  Display all the orders placed by this user.
--   **Mark as spam->**  Mark this user as spam. Check out.  [this guide](Plugins-activate-black-list.md)
+-   **Mark as spam->**  Mark this user as spam. Check out.  [this guide](plugins-activate-black-list)
   for more information.
   
   
@@ -27,7 +27,7 @@ To manage your website users, login to your **Admin Panel** -> **Users**  ->  **
  
  
   **Related guides**
-  * [How do roles work?](Users-how-do-roles-work.md)
-  * [How to export users to CSV](Users-how-to-export-users-to-CSV.md)
-  * [How to create custom fields for users](Users-create-custom-field-for-users.md) 
+  * [How do roles work?](users-how-do-roles-work)
+  * [How to export users to CSV](users-how-to-export-users-to-CSV)
+  * [How to create custom fields for users](users-create-custom-field-for-users)
 

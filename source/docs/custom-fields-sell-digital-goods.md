@@ -24,7 +24,7 @@ Now sellers can upload files to their ads from Dropbox or Google Picker and sell
 ## Prerequisites
 
 -   Dropbox  or  Google Picker app is created and configured.
--   [Buyer instructions custom field](Custom-fields-buyer-instructions.md)  is created.
+-   [Buyer instructions custom field](custom-fields-buyer-instructions)  is created.
 -   Seller fills the “Buyer instructions” custom field while posting the ad.
 -   File download custom field  is created.
 -   Seller selects the file while posting the ad.

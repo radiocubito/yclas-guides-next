@@ -8,16 +8,16 @@ section: content
 # Email Settings 📧
 
 
-*   [General email configuration](Email-settings-general-email-configuration.md)
+*   [General email configuration](email-settings-general-email-configuration)
      -   Change your email address or disable the notifications about new ads.
 
-*   [SMTP configuration](Email-settings-SMTP-configuration.md)
+*   [SMTP configuration](email-settings-smtp-configuration)
      -   Learn how to use all of the available SMTP services like **Zoho**, **Mailgun**, **SendPulse** or **Amazon SES.**
 
-*   [ElasticEmail](Email-settings-elasticemail.md)
+*   [ElasticEmail](email-settings-elasticemail)
     - Learn how to create and configure an ElasticEmail account.
 
-*   [Host email with custom domain](Email-settings-host-email-with-custom-domain.md)
+*   [Host email with custom domain](email-settings-host-email-with-custom-domain)
     -  Learn how to send and receive emails associated with your domain by using [Zoho mail](https://www.zoho.com/mail/).
 
-*   [Troubleshooting email errors](Email-settings-troubleshooting-email-errors.md)
+*   [Troubleshooting email errors](email-settings-troubleshooting-email-errors)

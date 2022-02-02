@@ -7,49 +7,49 @@ section: content
 
 # Settings
 
-- [**General**](General-Settings.md)
+- [**General**](general-settings)
 
   Every general setting that you can configurate in the panel.
-  - [Multilingual Mode](multilingual-mode.md)
+  - [Multilingual Mode](multilingual-mode)
 
-- [**Advertisements**](Advertisement.md)
+- [**Advertisements**](advertisement)
 
   Find out all the information on advertisements, how to change their settings and additional features.
-  -    [Search ads by distance](Search-ads-by-distance.md)
+  -    [Search ads by distance](search-ads-by-distance)
 
-- [**Payments**](Payment.md)
+- [**Payments**](payment)
 
   Learn how to earn money online with your website and yo setup the payment gateways.
 
-- [**Media settings**](Media-settings.md)
+- [**Media settings**](media-settings)
 
   Learn how to configure image settings, add watermark and speed up your website by using **Cloud Computing Services**.
 
-- [**Email**](Email-settings.md)
+- [**Email**](email-settings)
 
   Learn how to change your email, how to use the available SMTP services, how to host email with custom domain and other configurations.
 
-- [**Translations**](Translations.md)
+- [**Translations**](translations)
 
   Find out how to translate your website's content in any langauge.
 
-- [**Categories**](Settings-categories.md)
+- [**Categories**](settings-categories)
 
   Learn how to add new categories, how to manage already existing ones and how to configure a category widget.
 
-- [**Locations**](Settings-location.md)
+- [**Locations**](settings-location)
 
   Learn how to add and import locations, how to add interactive maps, how to auto locate visitors and sort ads by distance on your   website.
 
-- [**Custom fields**](Custom-fields.md)
+- [**Custom fields**](custom-fields)
 
   Learn how to create and integrade custom fields for PayPall, shipping, currency, and many others.
 
-- [**User custom fields**](Users-create-custom-field-for-users.md)
+- [**User custom fields**](users-create-custom-field-for-users)
 
   Learn how to create custom fields for your users.
 
-- [**User roles**](Users-how-do-roles-work.md)
+- [**User roles**](users-how-do-roles-work)
 
    Learn how to assign different roles to your users, from translation and content creation to moderation and website administration.
 
@@ -57,23 +57,23 @@ section: content
  
   Any new updates in real time.
 
-- [**Coupons**](Classifieds-coupon-system.md)
+- [**Coupons**](classifieds-coupon-system)
 
   Learn diffrent ways to create coupons. This tools allows you to give special discounts to your customers.
 
-- [**Transactional emails**](Content-automatic-emails-sent-to-users.md)
+- [**Transactional emails**](content-automatic-emails-sent-to-users)
 
   When an user does certain action, for example, register, they receives an automatic email for confirmation. Learn how to manage those type of emails. 
 
-- [**Newsletters**](Content-send-a-newsletter.md)
+- [**Newsletters**](content-send-a-newsletter)
 
  Learn how to create newsletters for your users.
 
-- [**Interactive map**](Content-create-an-interactive-map)
+- [**Interactive map**](content-create-an-interactive-map)
 
   Learn how add an interactive map on your website.
 
-- [**Social Auth**](Plugins-login-using-social-auth)
+- [**Social Auth**](plugins-login-using-social-auth)
 
  Learn how to login with Facebook, Google, Twitter, and other platforms. 
 

@@ -31,10 +31,10 @@ Let’s first go through the payment settings we have here, of course you can ac
 
 -   **Payment Currency:**  Pick the currency you want to get paid with. Make sure that your chosen Payment Gateway supports that currency.
 -   **Featured ads:**  Turn On or Off the option to feature ad.
--   **Featured Plans:**  This feature allows you to give users the option to select between different length of the featured of their ad and pay according to your plans. Follow  [this guide](Payment-featured-plans.md)  for more.
+-   **Featured Plans:**  This feature allows you to give users the option to select between different length of the featured of their ad and pay according to your plans. Follow  [this guide](payment-featured-plans)  for more.
 -   **Bring to top Ad:**  Turn On or Off the option to bring an ad to top of the list.
 -   **To top price:**  The amount you charge for bringing an ad to top.
--   **Stock control:**  [When users limit their stock enable this option](Payment-pay-directly-from-the-ad-option.md).
+-   **Stock control:**  [When users limit their stock enable this option](payment-pay-directly-from-the-ad-option).
 
 ## Payment methods:
 
@@ -53,7 +53,7 @@ With Stripe you can also accept Alipay an Ideal payments using the same platform
 **Requires address to pay for extra security (only Legacy Checkout):**  Users will be asked for their address for more secure payments when using a credit card.
 
 
-If you want to create a marketplace and earn commissions per sale, please follow [this guide](Payment-set-up-marketplace-with-srtipe-connect-express.md)  for more information about Stripe Connect and how it works.
+If you want to create a marketplace and earn commissions per sale, please follow [this guide](payment-set-up-marketplace-with-srtipe-connect-express)  for more information about Stripe Connect and how it works.
 
 ----------
 
@@ -76,7 +76,7 @@ Here you can choose a page that you created to pop up when a client clicks on al
 
 ### Escrow
 
-With escrow the money gets on hold until the buyer receives the item. To configure Escrow follow  [this guide](Payment-marketplace-with-escrow.md)
+With escrow the money gets on hold until the buyer receives the item. To configure Escrow follow  [this guide](payment-marketplace-with-escrow)
 
 
 ----------
@@ -86,7 +86,7 @@ With escrow the money gets on hold until the buyer receives the item. To configu
 **Sandbox:**  Enable testing mode.
 **Account Number**  and  **Secret Word**  can be obtained from your account info at  [2checkout].(https://www.2checkout.com/)
 
-You can find more information about 2checkout configuration  [here](Payment-2checkout-configuration.md)
+You can find more information about 2checkout configuration  [here](payment-2checkout-configuration)
 
 ----------
 
@@ -213,5 +213,5 @@ Note: Only Paypal works with the free Yclas self-hosted version [buy Pro to enab
 
 **Related posts:**
 
--   [2checkout Configuration](Payment-2checkout-configuration.md)
--   [Stripe Connect Express](Payment-set-up-marketplace-with-srtipe-connect-express.md)
+-   [2checkout Configuration](payment-2checkout-configuration)
+-   [Stripe Connect Express](payment-set-up-marketplace-with-srtipe-connect-express)

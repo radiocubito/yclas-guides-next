@@ -13,7 +13,7 @@ Content:
 
 *This guide is only for Yclas Self-hosted.*
 
- *This is the second part of our guide on  [Understanding Yclas Themes](Technical-understanding-yclas-themes.md).* 
+ *This is the second part of our guide on  [Understanding Yclas Themes](technical-understanding-yclas-themes).*
  
 For the sake of understanding this guide better, I will go through the steps one by one.
 

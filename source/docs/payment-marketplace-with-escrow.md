@@ -48,6 +48,6 @@ section: content
 
 **Related posts:**
 
-+ [Buyer Instructions](Custom-fields-buyer-instructions.md)
-+ [How to Setup Payment Gateways](Payment-set-up-payment-gateways.md)
-+ [2checkout Configuration](Payment-2checkout-configuration.md)
++ [Buyer Instructions](custom-fields-buyer-instructions)
++ [How to Setup Payment Gateways](payment-set-up-payment-gateways)
++ [2checkout Configuration](payment-2checkout-configuration)

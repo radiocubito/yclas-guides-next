@@ -52,7 +52,7 @@ To use Google Maps in you mobile apps please also enable [Maps SDK for iOS](http
  
  **Related posts**
 
--   [How to create a map widget?](Widgets-map-widget.md)
--   [How to add an Interactive Map?](Content-create-an-interactive-map.md)
--   [Search ads by distance](Search-ads-by-distance.md)
+-   [How to create a map widget?](widgets-map-widget)
+-   [How to add an Interactive Map?](content-create-an-interactive-map)
+-   [Search ads by distance](search-ads-by-distance)
 

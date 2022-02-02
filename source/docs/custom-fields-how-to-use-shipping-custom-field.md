@@ -11,7 +11,7 @@ section: content
 
 This feature allows users to specify the shipping cost for their products.
 
-If you don’t know how, you can follow  [this guide](Custom-fields-create-custom-fields.md).
+If you don’t know how, you can follow  [this guide](custom-fields-create-custom-fields).
 
 ***Remember:** The **new custom field** MUST be titled **"shipping"** and the **LABEL** must be **'Shipping'**. 
 *Please refer to the example below:*
@@ -36,7 +36,7 @@ Now users can choose if their product is available for shipping, pick up or both
 
 1. What you need to do is to create a custom checkbox field called  **shipping_pickup**,  
 
-*If you don’t know how, you can follow  [this guide](Custom-fields-create-custom-fields.md).*
+*If you don’t know how, you can follow  [this guide](custom-fields-create-custom-fields).*
 
  This field will add an option in the “Publish new” form, titled 'Shipping Pickup'.
 

@@ -8,46 +8,46 @@ section: content
 ## Integrations
 
 ### Mobile app configuration
-* [MobileApp](configure-mobile-apps.md)
+* [MobileApp](configure-mobile-apps)
 
 
 ### Popular
 
-* [Elastic Email](Email-settings-elasticemail.md)
-* [PayPall](Payment-set-up-payment-gateways.md)
-* [Google Analytics](General-add-tracking-codes.md)
-* [Google Maps](Publish-options-configure-google-maps-settings.md)
-* [Setup reCAPTCHA](Security-how-to-set-up-recaptcha-on-your-site.md)
-* [Stripe](Payment-set-up-marketplace-with-srtipe-connect-express.md)
+* [Elastic Email](email-settings-elasticemail)
+* [PayPall](payment-set-up-payment-gateways)
+* [Google Analytics](general-add-tracking-codes)
+* [Google Maps](publish-options-configure-google-maps-settings)
+* [Setup reCAPTCHA](security-how-to-set-up-recaptcha-on-your-site)
+* [Stripe](payment-set-up-marketplace-with-srtipe-connect-express)
 
 ---
 
-* [2Factor.in](Security-two-step-sms-authentication.md)
-* [Algolia](General-Algolia-search.md)
-* [Akismet](Security-avoid-spam-on-your-site.md)
-* [Auto-Data API](auto-data-api.md)
-* [CarQuery](Custom-fields-vehicle-data.md)
-* [ClickaTell](Security-two-step-sms-authentication.md)
-* [Cloudinary](Integrations-cloudinary.md)
-* [Disqus](Publish-options-active-comments-with-disquse.md)
-* [Dropbox](Custom-fields-sell-digital-goods.md)
-* [Google Picker](Custom-fields-sell-digital-goods.md)
-* [Google Authenticator](Security-Two-step-authentication.md)
-* [Aviod spam on your site](Security-avoid-spam-on-your-site.md)
-* [Smartarget](integrations-smartarget.md)
+* [2Factor.in](security-two-step-sms-authentication)
+* [Algolia](general-algolia-search)
+* [Akismet](security-avoid-spam-on-your-site)
+* [Auto-Data API](auto-data-api)
+* [CarQuery](custom-fields-vehicle-data)
+* [ClickaTell](security-two-step-sms-authentication)
+* [Cloudinary](integrations-cloudinary)
+* [Disqus](publish-options-active-comments-with-disquse)
+* [Dropbox](custom-fields-sell-digital-goods)
+* [Google Picker](custom-fields-sell-digital-goods)
+* [Google Authenticator](security-two-step-authentication)
+* [Aviod spam on your site](security-avoid-spam-on-your-site)
+* [Smartarget](integrations-smartarget)
 
 ---
 ## Payments
 
-* [Set up payment gateways](Payment-set-up-payment-gateways.md)
-* [Marketplace with Stripe Connect Express](Payment-set-up-marketplace-with-srtipe-connect-express.md)
-* [2checkout configuration](Payment-2checkout-configuration.md)
-* [Pay directly from the ad option](Payment-pay-directly-from-the-ad-option.md)
-* [Marketplace with Escrow](Payment-marketplace-with-escrow.md)
+* [Set up payment gateways](payment-set-up-payment-gateways)
+* [Marketplace with Stripe Connect Express](payment-set-up-marketplace-with-srtipe-connect-express)
+* [2checkout configuration](payment-2checkout-configuration)
+* [Pay directly from the ad option](payment-pay-directly-from-the-ad-option)
+* [Marketplace with Escrow](payment-marketplace-with-escrow)
 
  ---
 ## Social
 
-* [Facebook](Publish-options-add-facebook-comments.md)
-* [Logbee](Logbee.md)
-* [Twitter](Twitter.md)
+* [Facebook](publish-options-add-facebook-comments)
+* [Logbee](logbee)
+* [Twitter](twitter)

@@ -21,7 +21,7 @@ You got your classified ads website ready to work and you’re thinking about th
 Spreading word of mouth strategies changed a lot since the existence of social media. Now, you have a lot of powerful tools to get your site right at your targeted users screens. Though there are some rules you might want to consider when developing your strategy in spreading the word on your website:
 
 -   Make sure you know where your users are. Is Facebook their popular social media platform? Or are they active on Twitter?
--   Make it easy for them to spread the word; add social media like buttons or integrate a social log in into your classifieds website (this is available in our  [premium themes](Themes-configuration-of-premuim-themes.md)
+-   Make it easy for them to spread the word; add social media like buttons or integrate a social log in into your classifieds website (this is available in our  [premium themes](themes-configuration-of-premuim-themes)
 -   Give them a reason to share. Of course, “free” is the most popular word among classifieds websites, but that is not enough to convince users to share your website. Adding useful content or having something unique on your website will give them motive to share it.
 -   Track referrals, keep checking who is referring to your website and try to find who has the most impact in increasing traffic, then make use of that information.
 
@@ -41,7 +41,7 @@ Research where potential users might be spending time and create a profile there
 
 ### How Yclas helps you with this:
 
-Our classifieds software offers a variety of tools that you can use to get yourself out there without much effort. I would like to mention an important feature - the  [share widget](Widgets-share-widget.md). This widget  **must**  be on your site, it is really essential. For a full list of features what Yclas can offer, you can check our  [classified ads script features](https://yclas.com/features.html)
+Our classifieds software offers a variety of tools that you can use to get yourself out there without much effort. I would like to mention an important feature - the  [share widget](widgets-share-widget). This widget  **must**  be on your site, it is really essential. For a full list of features what Yclas can offer, you can check our  [classified ads script features](https://yclas.com/features.html)
 
 Those are only some ways you may find useful to help you increase traffic and promote a your classifieds website, but I would like to hear your thoughts about this! Post your opinion, give an idea or a creative suggestion in the comment section below.
 

@@ -40,7 +40,7 @@ Big companies such as Microsoft, PayPal, Expedia, Reddit, Steam and  [many other
 
 Giving your customers the ability to share their Bitcoin Wallet Address in their ads and users' profile will be an advantage. You have two possibilities, letting your customers enter their Bitcoin address in their profile information or only on specific ads.
 
-Follow  [this guide](Custom-fields-bitcoin-wallet-address.md)  to find more information about sharing customers bitcoin wallet address in your classifieds website.
+Follow  [this guide](custom-fields-bitcoin-wallet-address)  to find more information about sharing customers bitcoin wallet address in your classifieds website.
 
 ### Bitcoin currency
 

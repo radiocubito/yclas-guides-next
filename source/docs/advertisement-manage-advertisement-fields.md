@@ -23,14 +23,14 @@ This feature makes it possible for you to manage the fields in Ad forms when a u
 -   **Upload File:**  Displays the field File in the Contact form when someone contacts a user for an ad.
 -   **Number of Images:**  The maximum number of images a user can upload when publishing an ad.
 
-If you want to create your own fields and extend the webstie functionality please check [Custom Fields](Custom-fields.md).
+If you want to create your own fields and extend the webstie functionality please check [Custom Fields](custom-fields).
 
 
 **Related posts:**
 
-- [Custom Fields](custom-fields.md)
-- [How to manage advertisements?](classifieds-manage-advertisements.md)
-- [How to change settings for Ads?](advertisement-change-settings-for-ads.md)
+- [Custom Fields](custom-fields)
+- [How to manage advertisements?](classifieds-manage-advertisements)
+- [How to change settings for Ads?](advertisement-change-settings-for-ads)
 
 
 <iframe width="100%" height="400px" src="https://www.youtube.com/embed/uI2vWwiTO5E" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

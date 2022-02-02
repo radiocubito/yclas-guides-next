@@ -75,5 +75,5 @@ order is automatically canceled, and your customer (publisher) and product buyer
 
 **Related posts:**
 
--  [Buyer Instructions](Custom-fields-buyer-instructions.md)
--  [How to Setup Payment Gateways](Payment-set-up-payment-gateways.md)
+-  [Buyer Instructions](custom-fields-buyer-instructions)
+-  [How to Setup Payment Gateways](payment-set-up-payment-gateways)

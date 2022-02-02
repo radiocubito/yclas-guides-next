@@ -19,7 +19,7 @@ You can access these options by logging into **Admin Panel** ->  **Settings**  -
 -   **BBCODE editor on description field:**  BBCODE editor appears in description field.
 -   **Captcha:**  Captcha appears in the form.
 -   **Leave alert before submitting form**: Disable/Enable this option to leave an alert before submitting and publish a new form.
--   **Term of Service:**  If you choose to use terms of service, you can select “Activate”. More details in  [this guide](content-add-pages.md).  [If you need to generate your terms of service or privacy policy click here.](https://www.shareasale.com/r.cfm?b=854385&u=1782794&m=65338)
+-   **Term of Service:**  If you choose to use terms of service, you can select “Activate”. More details in  [this guide](content-add-pages).  [If you need to generate your terms of service or privacy policy click here.](https://www.shareasale.com/r.cfm?b=854385&u=1782794&m=65338)
 -   **Thank page:**  A page that will be displayed to the user after he publishes an Ad.
 -   **Banned words:**  You need to write your banned words separated with coma (,) to enable the service.
 -   **Validate banned words:**  Enables banned words validation. When users enter banned words, they get a warning message in order to replace these words.
@@ -30,8 +30,8 @@ You can access these options by logging into **Admin Panel** ->  **Settings**  -
  
 **Related posts:**
 
--   [How to manage Advertisement Fields?](advertisement-manage-advertisement-fields.md)
--   [How to change settings for Ads?](advertisement-change-settings-for-ads.md)
+-   [How to manage Advertisement Fields?](advertisement-manage-advertisement-fields)
+-   [How to change settings for Ads?](advertisement-change-settings-for-ads)
 
 
 

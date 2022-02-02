@@ -9,7 +9,7 @@ section: content
 
 In this guide, you will find all the necessary information on licenses.
 
-*   [Where to find your license number](License-where-do-you-find-the-license-number.md)
-*   [I bought the hosting plan, how do I get my discount?](License-i-bough-the-hosting-plan-how-do-i-get-my-discount.md)
-*   [Reasons for your license not to work](License-why-is-my-license-not-working.md)
-*   [Troubleshooting license error of child theme activation](License-troubleshooting-license.md)
+*   [Where to find your license number](license-where-do-you-find-the-license-number)
+*   [I bought the hosting plan, how do I get my discount?](license-i-bough-the-hosting-plan-how-do-i-get-my-discount)
+*   [Reasons for your license not to work](license-why-is-my-license-not-working)
+*   [Troubleshooting license error of child theme activation](license-troubleshooting-license)

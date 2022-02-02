@@ -8,7 +8,7 @@ section: content
 
 # Compatible Hosting Providers
 
- In our expereince, sometimes users purchase hosting plans that are not compatible with Yclas and then unexpected errors may occur.  Take a look at the [software requirements](Yclas-self-hosted-installation-software-requirements.md) if you can't find your hosting provider in the list below.
+ In our expereince, sometimes users purchase hosting plans that are not compatible with Yclas and then unexpected errors may occur.  Take a look at the [software requirements](yclas-self-hosted-installation-software-requirements) if you can't find your hosting provider in the list below.
 
 Yclas's team has prepared a list of 16 hosting providers that we tested and they’re proven to work with Yclas. 
 
@@ -37,4 +37,4 @@ RECOMMENDED
 
 We recommend   **Hostpapa**  for US or Europe ,  **inmotion**  if you’re in the US and  **A2 hosting**  if you’re in Europe, Middle-east and North Africa as all of them have great 24/7 tech support available.
 
-If you didn’t find your web hosting then make sure it’s compatible with Yclas by checking the  [software requirements](Yclas-self-hosted-installation-software-requirements.md).
+If you didn’t find your web hosting then make sure it’s compatible with Yclas by checking the  [software requirements](yclas-self-hosted-installation-software-requirements).

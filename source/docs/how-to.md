@@ -7,6 +7,6 @@ section: content
 
 
 # How to
-* [How to contribute](How-to-contribute.md)
-* [How to add map on the homepage](How-to-add-google-maps-to-homepage.md)
+* [How to contribute](how-to-contribute)
+* [How to add map on the homepage](how-to-add-google-maps-to-homepage)
 

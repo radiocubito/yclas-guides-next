@@ -17,7 +17,7 @@ Here we present another cool thing that you can do on your site. You can place a
 
 ## Prerequisites
 
--   [Google Maps](Publish-options-configure-google-maps-settings.md)  configured.
+-   [Google Maps](publish-options-configure-google-maps-settings)  configured.
 
 ## Configure Google Maps on homepage
 
@@ -32,4 +32,4 @@ Here we present another cool thing that you can do on your site. You can place a
   
 **Related post:**
 
-[Why is my map widget not showing anything?](Widgets-map-widget.md)
+[Why is my map widget not showing anything?](widgets-map-widget)

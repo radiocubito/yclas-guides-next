@@ -8,7 +8,7 @@ section: content
 # VAT on checkout
 
 Content:
--   [Configure VAT for features](Custom-fields-eu-vat.md#configure-vat-for-features)
+-   [Configure VAT for features](custom-fields-eu-vat#configure-vat-for-features)
     - EU countries
     - Non EU countries
 -   Configure VAT for sellers
@@ -45,9 +45,9 @@ _Error: Invalid EU Vat Number, please verify number and country match_
 
 ## Configure VAT for sellers
 
-If you don’t know how to enable the Buy Now button,  [here’s how](Payment-pay-directly-from-the-ad-option.md)
+If you don’t know how to enable the Buy Now button,  [here’s how](payment-pay-directly-from-the-ad-option)
 
-Sellers can enter their VAT number and include VAT at checkout when they are selling their products through your website. This can be done in two ways: using  [advertisement custom fields](Custom-fields-create-custom-fields.md)  or  [user custom fields](Users-create-custom-field-for-users.md).
+Sellers can enter their VAT number and include VAT at checkout when they are selling their products through your website. This can be done in two ways: using  [advertisement custom fields](custom-fields-create-custom-fields)  or  [user custom fields](users-create-custom-field-for-users).
 
 At checkout, your website will try to calculate the VAT using the Advertisement VAT number, if it’s missing it will use the User VAT number and if that is missing too, then no VAT will be added on the amount.
 
@@ -77,7 +77,7 @@ If the VAT country and the VAT number match, the checkout page will look like th
 
 ## VAT on automatic emails
 
-Once you configure VAT to be added at checkout, you will be able to include it to the **[automatic emails](Content-automatic-emails-sent-to-users.md)**  _ads-sold_  and  _ads-purchased_.
+Once you configure VAT to be added at checkout, you will be able to include it to the **[automatic emails](content-automatic-emails-sent-to-users)**  _ads-sold_  and  _ads-purchased_.
 
 The variables you can use are:
 

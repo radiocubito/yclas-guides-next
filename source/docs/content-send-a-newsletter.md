@@ -29,4 +29,4 @@ All registered users will get your message as a  **blind copy**  - details of ot
 
 <iframe width="100%" height="400px" src="https://www.youtube.com/embed/finXNuCEUss" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
-If you are not sure how to manage it, check out our guide on [how to congifure ElasticEmail with Yclas](Email-settings-elasticemail.md) 
+If you are not sure how to manage it, check out our guide on [how to congifure ElasticEmail with Yclas](email-settings-elasticemail)

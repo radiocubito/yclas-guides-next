@@ -13,7 +13,7 @@ This means that you can  **easily change the site translation**  to any language
 
 The languages widget let users choose in which language your website will be translated to them. To create this widget, login to your **Admin Panel** -> **Appearance**  ->  **Widgets**  and click to create the Languages Widget.
 
-After that, a list with your selected languages will appear in your website so users can choose their prefered language. For more information, check out  [this guide](Widget-language-widget.md).
+After that, a list with your selected languages will appear in your website so users can choose their prefered language. For more information, check out  [this guide](widget-language-widget).
 
 ## Different languages - the same installation
 
@@ -95,7 +95,7 @@ If you don’t want to have many domains/sub domain and save some money maybe th
 
 **How to configure:**
 
--   You simply do a  [new installation](Yclas-self-hosted-installation-insatallation.md) in a new folder within your website, follow the screenshot below to see how to do it using Softaculous.
+-   You simply do a  [new installation](yclas-self-hosted-installation-insatallation) in a new folder within your website, follow the screenshot below to see how to do it using Softaculous.
 ![](https://raw.githubusercontent.com/yclas/guides/master/images/multilingual.png)
   
   

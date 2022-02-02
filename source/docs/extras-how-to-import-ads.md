@@ -58,6 +58,6 @@ You can now see the imported ads on **Manage** -> **Advertisements**.
 
 **Related posts:**
 
--   [How to use import tool for categories and locations?](Classifieds-how-to-import-tool-for-categories-and-location.md)
+-   [How to use import tool for categories and locations?](classifieds-how-to-import-tool-for-categories-and-location)
 
--   [How to manage advertisements?](Classifieds-manage-advertisements.md)
+-   [How to manage advertisements?](classifieds-manage-advertisements)

@@ -15,48 +15,48 @@ In this guide, you'll find all of the general settings that you can configurate 
 
 ## Content
 
- * [Maintenance Mode](General-Maintenance-mode.md)
+ * [Maintenance Mode](general-maintenance-mode)
    - By activating the maintenance mode you can make changes on your website while it's not visible for any visitors.
 
- * [Bots & Crawlers](General-Allow-or-Disallow-Bots-and-Crawlers.md)
+ * [Bots & Crawlers](general-allow-or-disallow-bots-and-crawlers)
    - Prevent bots from accessing your website's content or give them back their access with a single switch.
 
- * [Change your site name and description](General-change-your-name-site-description.md)
+ * [Change your site name and description](general-change-your-name-site-description)
 
- * [Ads moderation](General-ads-moderation.md)
+ * [Ads moderation](general-ads-moderation)
    - Enable ads moderation and control the amount of ads, their content or to manually avoid spammers.
 
- * [Cookie consent ](General-Cookie-consent.md)
+ * [Cookie consent ](general-cookie-consent)
    - Enable this setting for alerting users about the use of cookies on your website. It is designed to help you quickly comply with cookie laws.
 
- * [User must verify email](General-user-must-verify-email.md)
+ * [User must verify email](general-user-must-verify-email)
    - Enable this setting for requiring users to verify their email addresses after register.
 
- * [Landing Page](General-landing-page.md)
+ * [Landing Page](general-landing-page)
    - Choose what to be displayed on your website's landing page.
 
- * [Activate Access Terms Alert ](General-activate-access-terms-alert.md)
+ * [Activate Access Terms Alert ](general-activate-access-terms-alert)
    - Allow or deny users' access to a certain webpage.
 
- * [Add text in Contacts page ](General-add-text-in-contact-page.md)
+ * [Add text in Contacts page ](general-add-text-in-contact-page)
    - Choose your own welcome message.
 
- * [Allowed Email domains](General-allowed-email-domains.md)
+ * [Allowed Email domains](general-allowed-email-domains)
    - Allow the registration of users that use a specific domain for their email address.
 
- * [Private site ](General-private-site.md)
+ * [Private site ](general-private-site)
    - Enable this option, and only registered users will be able to access your website.
 
- * [Add tracking codes](General-add-tracking-codes.md)
+ * [Add tracking codes](general-add-tracking-codes)
    - Learn how to add Google Analytics to your website.
 
- * [HTML in head element/footer](General-HTML-in-HEAD-element-FOOTER.md)
+ * [HTML in head element/footer](general-html-in-head-element-footer)
    -  Add HTML in  head element or footer.
 
- * [Currency format ](General-currency-format.md)
- * [Change date format ](General-change-date-format.md)
- * [Change time zone ](General-change-time-zone.md)
- * [Notification System](General-Notification-System.md)
+ * [Currency format ](general-currency-format)
+ * [Change date format ](general-change-date-format)
+ * [Change time zone ](general-change-time-zone)
+ * [Notification System](general-notification-system)
    - Enable the notification system on your website.
- * [Algolia Search](General-Algolia-search.md)
+ * [Algolia Search](general-algolia-search)
    - Configure it and bring instant and relevant search to your classfieds website and make content browsing more intuitive.

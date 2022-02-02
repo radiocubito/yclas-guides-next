@@ -8,8 +8,8 @@ section: content
 Dear Yclas user, 
 here you'll find all of the guides on Content configuration for our website. Enjoy!  
 
-* [Add pages](Content-Add-pages.md)
-* [Automatic emails sent to users ](Content-automatic-emails-sent-to-users.md)
-* [Send a Newsletter](Content-send-a-newsletter.md)
-* [CSM Images](Content-CSM-images.md)
-* [Add an Interactive Map](Content-create-an-interactive-map.md)
+* [Add pages](content-add-pages)
+* [Automatic emails sent to users ](content-automatic-emails-sent-to-users)
+* [Send a Newsletter](content-send-a-newsletter)
+* [CSM Images](content-csm-images)
+* [Add an Interactive Map](content-create-an-interactive-map)

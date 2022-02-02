@@ -30,5 +30,5 @@ To  **enable this feature and translate the website**, follow the steps below:
 **Related guides:**
 
 
--   [How to change language of the site?](Translation-change-language-of-the-site.md)
--   [How to have a Multilingual Classifieds](Translations-how-have-amultilingual-classfied.md)
+-   [How to change language of the site?](translation-change-language-of-the-site)
+-   [How to have a Multilingual Classifieds](translations-how-have-amultilingual-classfied)

@@ -9,7 +9,7 @@ section: content
 
 Allowing users to leave comments on ads can result in driving more traffic to your website. 
 
-With Yclas you can add comments with **[Disqus](Publish-options-active-comments-with-disquse.md)** or **[Facebook](Publish-options-add-facebook-comments.md)** comments
+With Yclas you can add comments with **[Disqus](publish-options-active-comments-with-disquse)** or **[Facebook](publish-options-add-facebook-comments)** comments
 
 This guide explains how to give publishers the option to enable or disable comments in their ads:
 

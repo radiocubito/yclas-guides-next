@@ -23,7 +23,7 @@ If you want to use this feature, you need to enable the following two features:
 
  1. Login to your   **Admin Panel** ->  **Integrations** ->  **Google Maps**.
  2.  Fill the mandatory fields : you need to add Google Maps API key and other Google Maps parameters here. Follow [this
-    guide](Publish-options-configure-google-maps-settings.md) to learn
+    guide](publish-options-configure-google-maps-settings) to learn
     how to do that.
   3.  Click  **SAVE**.
 

@@ -63,7 +63,7 @@ To create values,write them down followed by comma (e.g. Paris, London, Madrid, 
 
  The category that the New Custom Field should be applied to.
 
-( see:  [Integrated custom fields into selected categories](Custom-fields-how-to-integrate-your-custom-field-into-selected-categories.md) )
+( see:  [Integrated custom fields into selected categories](custom-fields-how-to-integrate-your-custom-field-into-selected-categories) )
 
 ## 7. **Required:**
 

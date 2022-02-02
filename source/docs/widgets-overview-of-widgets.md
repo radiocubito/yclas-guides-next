@@ -42,31 +42,31 @@ After creating or editing the widgets, changes might not be visible on the site 
     On the page **buttons** enabling users to share the content in the social media will be available.  
     
 -   **Pages**  
-    Displays a banner with links to existing CMS pages. ( check: [How to add pages](Content-Add-pages.md) )
+    Displays a banner with links to existing CMS pages. ( check: [How to add pages](content-add-pages) )
     
 -   **Contact**  
     Shows a contact form in the ad pages so that potential buyers can contact the seller.  
     
 -   **Locations**  
-    Display locations in a banner to make easier to scroll between them and locate the ads. (see: [How to add locations?](Classifieds-add-location.md)
+    Display locations in a banner to make easier to scroll between them and locate the ads. (see: [How to add locations?](classifieds-add-location)
     
 -   **Stats**  
     Displays your site's statistics: number of views, ads and users.  
     
 -   **Categories**  
-    Displays a banner with a list of categories and subcategories for improving navigation between them (see: [How to add categories and manage them?](Classifieds-how-to-add-new-categories-and-manage-them.md) 
+    Displays a banner with a list of categories and subcategories for improving navigation between them (see: [How to add categories and manage them?](classifieds-how-to-add-new-categories-and-manage-them)
     
 -   **RSS**  
     RSS reader to publish news from selected RSS channels.  
     
 -   **Map**  
-    Places Google Maps on your website and shows localisations of ads (see: [Why is my map widget not showing anything?](Widgets-map-widget.md).  
+    Places Google Maps on your website and shows localisations of ads (see: [Why is my map widget not showing anything?](widgets-map-widget).
     
 -   **Disqus**  
-   This widget displays the latest comments by Disqus for your website (see: [How to activate comments with Disqus?](Publish-options-active-comments-with-disquse.md)
+   This widget displays the latest comments by Disqus for your website (see: [How to activate comments with Disqus?](publish-options-active-comments-with-disquse)
     
 -   **Chat**  
-    This widget allows you to chat with your users ( see:  [How to add a chat room to my classifieds website?](Widgets-chat-room.md).  
+    This widget allows you to chat with your users ( see:  [How to add a chat room to my classifieds website?](widgets-chat-room).
     
 -   **Links**  
     With this widget you can create a link network to easily navigate the information on your website.  
@@ -78,22 +78,22 @@ After creating or editing the widgets, changes might not be visible on the site 
     Makes it easy for users to find specific information using the option of advanced search.  
     
 -   **Forum topics**  
-    An easy way to build and establish a bond with your users by offering support and letting them express their opinion (see: [How to add a forum section?](Plugins-forum-section.md)  
+    An easy way to build and establish a bond with your users by offering support and letting them express their opinion (see: [How to add a forum section?](plugins-forum-section)
     
 -   **Interactive Map**  
-    Displays an Interactive Map (see:  [How to add an Interactive Map?](Content-create-an-interactive-map.md)
+    Displays an Interactive Map (see:  [How to add an Interactive Map?](content-create-an-interactive-map)
 -   **User Location**  
     Allows users to change their selected location. Also it’s possible to select their location directly from the map.
 -   **User Search**  
-    Allows users search for other users. Search can also include [users custom fields](Users-create-custom-field-for-users.md).
+    Allows users search for other users. Search can also include [users custom fields](users-create-custom-field-for-users).
 -   **Recently searched**  
     Displays previous user search on your site.
 -   **Coupon**  
     The users can use their coupon using this widget. You just need to add the coupon name and click **Add**.
 -   **Language**  
-    Allowes users to choose in which language your website will be translated. For more information, follow [this guide](Widget-language-widget.md).
+    Allowes users to choose in which language your website will be translated. For more information, follow [this guide](Widget-language-widget).
 -   **Currency Converter**  
-    Users can choose between your selected currencies and have an ad prices converter for their chosen currency. More information  [here](Widgets-how-to-set-the-currency-format.md)
+    Users can choose between your selected currencies and have an ad prices converter for their chosen currency. More information  [here](widgets-how-to-set-the-currency-format)
 -   **Follow**  
     Add social media follow buttons. Insert the URL of your Facebook, Twitter, Instagram, Pinterest, Google+, LinkedIn, Youtube and Flickr page to create the buttons that will make it easier for visitors to follow you on social media direclty from your website.
 -   **Image**  

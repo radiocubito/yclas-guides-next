@@ -45,7 +45,7 @@ By pressing the  **Search**  button they will be redirected to the advanced sear
 
 **Related guides:**
 
--   [Overview of widgets](Widgets-overview.md)
--   [How to change language of the site?](Translation-change-language-of-the-site.md)
--   [Currency Converter Widget](Widgets-currency-widget.md)
--   [Share Widget](Widgets-share-widget.md)
+-   [Overview of widgets](widgets-overview)
+-   [How to change language of the site?](translation-change-language-of-the-site)
+-   [Currency Converter Widget](widgets-currency-widget)
+-   [Share Widget](widgets-share-widget)
