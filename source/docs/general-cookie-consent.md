@@ -1,0 +1,27 @@
+---
+title:
+description:
+extends: _layouts.documentation
+section: content
+---
+
+# Cookie consent 🍪
+
+1. Why to use it
+2. How to use it
+
+Let's start with why you need a cookie consent on your website.
+Cookie consent alert is something that you have seen many times at the top or the bottom of websites. 
+The reason that you should use it it’s because, since 2011, every website that is based in the EU should display that alert to let users know if they are using cookies.
+
+## How to use it
+
+With Yclas, we give you the option to enable the Cookie Consent alert. It will be displayed once for each visitor to let them know that your site uses cookies. 
+You can acitvate it in a few simple steps:
+1.  Login to your **Admin Panel** ->  **Settings**  ->  **General**.
+2.  Scroll down, find and tick the  **Cookie Consent** box to enable this feature.
+3.  Click  **Save**.
+
+
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/bpMZmogGdW8" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
