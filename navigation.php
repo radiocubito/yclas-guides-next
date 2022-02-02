@@ -1,14 +1,30 @@
 <?php
 
 return [
-    'Getting Started' => [
-        'url' => 'docs/getting-started',
+    'Support' => 'docs/home-how-to-use-yclas-support-system',
+    'Guides' => 'docs/readme',
+    'Manage' => [
         'children' => [
-            'Customizing Your Site' => 'docs/customizing-your-site',
-            'Navigation' => 'docs/navigation',
-            'Algolia DocSearch' => 'docs/algolia-docsearch',
-            'Custom 404 Page' => 'docs/custom-404-page',
+            'Classifieds' => 'docs/classifieds',
+            'Users' => 'docs/users',
+            'Orders' => 'docs/orders',
+            'Content' => 'docs/content-new',
         ],
     ],
-    'Jigsaw Docs' => 'https://jigsaw.tighten.co/docs/installation',
+    'Configure' => [
+        'children' => [
+            'Settings' => 'docs/settings',
+            'Design' => 'docs/design',
+            'Addons' => 'docs/addons',
+            'Integrations' => 'docs/integrations',
+        ],
+    ],
+    'Tools' => 'docs/tools',
+    'Yclas Self-hosted' => 'docs/settings?id=yclas-self-hosted',
+    'Installation' => 'docs/yclas-self-hosted-installation',
+    'License' => 'docs/license',
+    'Development' => 'docs/yclas-self-hosted-development',
+    'Technical' => 'docs/yclas-self-hosted-technical',
+    'API Documentation' => 'docs/api-documentation',
+    'Useful articles' => 'docs/useful-articles',
 ];
