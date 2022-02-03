@@ -54,4 +54,4 @@ The video are prepared on  [Yclas](https://yclas.com/)  interface but it will be
   
 **Related posts:**
 
--   [Buyer Instructions](custom-fields-buyer-instructions)
+-   [Buyer Instructions](/docs/custom-fields-buyer-instructions)

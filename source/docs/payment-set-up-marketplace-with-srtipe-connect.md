@@ -47,5 +47,5 @@ You (site owner) set your site to get 3% commission for each sale made via your 
 
 **Related posts:**
 
--   [Buyer Instructions](custom-fields-buyer-instructions)
--   [How to Setup Payment Gateways](payment-set-up-payment-gateways)
+-   [Buyer Instructions](/docs/custom-fields-buyer-instructions)
+-   [How to Setup Payment Gateways](/docs/payment-set-up-payment-gateways)

@@ -28,5 +28,5 @@ Now, Login to your **Admin Panel** ->  **Integrations**  ->  **2checkout**  and 
 
 **Related posts:**
 
-- [How to set up payment gateways](payment-set-up-payment-gateways)
-- [Marketplace with Stripe Connect Express](payment-set-up-marketplace-with-srtipe-connect-express)
+- [How to set up payment gateways](/docs/payment-set-up-payment-gateways)
+- [Marketplace with Stripe Connect Express](/docs/payment-set-up-marketplace-with-srtipe-connect-express)

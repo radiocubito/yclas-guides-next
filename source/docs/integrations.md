@@ -8,46 +8,46 @@ section: content
 ## Integrations
 
 ### Mobile app configuration
-* [MobileApp](configure-mobile-apps)
+* [MobileApp](/docs/configure-mobile-apps)
 
 
 ### Popular
 
-* [Elastic Email](email-settings-elasticemail)
-* [PayPall](payment-set-up-payment-gateways)
-* [Google Analytics](general-add-tracking-codes)
-* [Google Maps](publish-options-configure-google-maps-settings)
-* [Setup reCAPTCHA](security-how-to-set-up-recaptcha-on-your-site)
-* [Stripe](payment-set-up-marketplace-with-srtipe-connect-express)
+* [Elastic Email](/docs/email-settings-elasticemail)
+* [PayPall](/docs/payment-set-up-payment-gateways)
+* [Google Analytics](/docs/general-add-tracking-codes)
+* [Google Maps](/docs/publish-options-configure-google-maps-settings)
+* [Setup reCAPTCHA](/docs/security-how-to-set-up-recaptcha-on-your-site)
+* [Stripe](/docs/payment-set-up-marketplace-with-srtipe-connect-express)
 
 ---
 
-* [2Factor.in](security-two-step-sms-authentication)
-* [Algolia](general-algolia-search)
-* [Akismet](security-avoid-spam-on-your-site)
-* [Auto-Data API](auto-data-api)
-* [CarQuery](custom-fields-vehicle-data)
-* [ClickaTell](security-two-step-sms-authentication)
-* [Cloudinary](integrations-cloudinary)
-* [Disqus](publish-options-active-comments-with-disquse)
-* [Dropbox](custom-fields-sell-digital-goods)
-* [Google Picker](custom-fields-sell-digital-goods)
-* [Google Authenticator](security-two-step-authentication)
-* [Aviod spam on your site](security-avoid-spam-on-your-site)
-* [Smartarget](integrations-smartarget)
+* [2Factor.in](/docs/security-two-step-sms-authentication)
+* [Algolia](/docs/general-algolia-search)
+* [Akismet](/docs/security-avoid-spam-on-your-site)
+* [Auto-Data API](/docs/auto-data-api)
+* [CarQuery](/docs/custom-fields-vehicle-data)
+* [ClickaTell](/docs/security-two-step-sms-authentication)
+* [Cloudinary](/docs/integrations-cloudinary)
+* [Disqus](/docs/publish-options-active-comments-with-disquse)
+* [Dropbox](/docs/custom-fields-sell-digital-goods)
+* [Google Picker](/docs/custom-fields-sell-digital-goods)
+* [Google Authenticator](/docs/security-two-step-authentication)
+* [Aviod spam on your site](/docs/security-avoid-spam-on-your-site)
+* [Smartarget](/docs/integrations-smartarget)
 
 ---
 ## Payments
 
-* [Set up payment gateways](payment-set-up-payment-gateways)
-* [Marketplace with Stripe Connect Express](payment-set-up-marketplace-with-srtipe-connect-express)
-* [2checkout configuration](payment-2checkout-configuration)
-* [Pay directly from the ad option](payment-pay-directly-from-the-ad-option)
-* [Marketplace with Escrow](payment-marketplace-with-escrow)
+* [Set up payment gateways](/docs/payment-set-up-payment-gateways)
+* [Marketplace with Stripe Connect Express](/docs/payment-set-up-marketplace-with-srtipe-connect-express)
+* [2checkout configuration](/docs/payment-2checkout-configuration)
+* [Pay directly from the ad option](/docs/payment-pay-directly-from-the-ad-option)
+* [Marketplace with Escrow](/docs/payment-marketplace-with-escrow)
 
  ---
 ## Social
 
-* [Facebook](publish-options-add-facebook-comments)
-* [Logbee](logbee)
-* [Twitter](twitter)
+* [Facebook](/docs/publish-options-add-facebook-comments)
+* [Logbee](/docs/logbee)
+* [Twitter](/docs/twitter)

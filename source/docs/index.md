@@ -33,39 +33,39 @@ You can get started right away without any technical knowledge. You can create y
 This is a list with everything that you can find on our documentation and guides.
 
 # Home
-- [How to use Yclas support system](home-how-to-use-yclas-support-system)
-- [API documentation](api-documentation)
-- [Useful artciles](useful-articles)
+- [How to use Yclas support system](/docs/home-how-to-use-yclas-support-system)
+- [API documentation](/docs/api-documentation)
+- [Useful artciles](/docs/useful-articles)
 
 # Panel
-* [Site & advertisements stats](panel-site-advertising-stats)
-* [Admin keyword shortcuts](panel-amin-keyword-shortcuts)
+* [Site & advertisements stats](/docs/panel-site-advertising-stats)
+* [Admin keyword shortcuts](/docs/panel-amin-keyword-shortcuts)
 
 # Manage
-- [Classifieds](classifieds)
-- [Users](users)
-- [Profile](profile)
-- [Orders](orders)
+- [Classifieds](/docs/classifieds)
+- [Users](/docs/users)
+- [Profile](/docs/profile)
+- [Orders](/docs/orders)
 
 # Content
-- [Content](content)
+- [Content](/docs/content)
 
 # Configure
-- [Settings](settings)
-- [Design](design)
-- [Addons](addons)
-- [Integrations](integrations)
+- [Settings](/docs/settings)
+- [Design](/docs/design)
+- [Addons](/docs/addons)
+- [Integrations](/docs/integrations)
 
 
 # Tools
-- [Tools](extras)
+- [Tools](/docs/extras)
 ---
 # Yclas Self-hosted
-- [Installation](yclas-self-hosted-installation)
-- [License](license)
-- [Development](yclas-self-hosted-development)
-- [Technical](yclas-self-hosted-technical)
-- [Technical issues](technical-issues)
+- [Installation](/docs/yclas-self-hosted-installation)
+- [License](/docs/license)
+- [Development](/docs/yclas-self-hosted-development)
+- [Technical](/docs/yclas-self-hosted-technical)
+- [Technical issues](/docs/technical-issues)
 
 <iframe width="100%" height="400px" src="https://www.youtube.com/embed/Men7xa5PLZM" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   

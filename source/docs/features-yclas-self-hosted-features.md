@@ -7,50 +7,50 @@ section: content
 
 In this guide, you can find a list with the exclusive features that Yclas Self-hosted Lite and Yclas Self-hosted Pro offer.
 
-* [Open Source](features-open-source)
+* [Open Source](/docs/features-open-source)
 
-* [Use your own server](features-use-your-own-server)
+* [Use your own server](/docs/features-use-your-own-server)
 
-* [Basic marketplace management](basic-market-management)
+* [Basic marketplace management](/docs/basic-market-management)
 
-* [Support](features-support)
+* [Support](/docs/features-support)
 
 - [15 Pro templates](features-pro-templates).  [Demo](https://yclas.com/domain/demo?theme=olson)
 
-* [15 payment gateways](features-15-payment-gateways)
+* [15 payment gateways](/docs/features-15-payment-gateways)
 
-* [Stripe marketplace](features-stripe-marketplace)
+* [Stripe marketplace](/docs/features-stripe-marketplace)
 
-* [Escrow marketplace](features-escrow-marketplace)
+* [Escrow marketplace](/docs/features-escrow-marketplace)
 
-* [Memberships](features-membership)
+* [Memberships](/docs/features-membership)
 
-* [Social login](features-social-login)
+* [Social login](/docs/docs/features-social-login)
 
-* [Custom fields](features-custom-fields)
+* [Custom fields](/docs/features-custom-fields)
 
-* [User custom fields](User-custom-fields)
+* [User custom fields](/docs/user-custom-fields)
 
-* [Stock control](features-stock-control)
+* [Stock control](/docs/features-stock-control)
 
-* [Coupons](features-coupons)
+* [Coupons](/docs/features-coupons)
 
-* [Reviews](features-reviews)
+* [Reviews](/docs/features-reviews)
 
-* [Geo-locate users](features-geo-locate-users)
+* [Geo-locate users](/docs/features-geo-locate-users)
 
-* [Advanced newsletter](features-advanced-newsletter)
+* [Advanced newsletter](/docs/features-advanced-newsletter)
 
-* [Interactive map](features-interactive-map)
+* [Interactive map](/docs/features-interactive-map)
 
-* [Import tools](features-import-tool)
+* [Import tools](/docs/features-import-tool)
 
-* [Live translation](features-live-translation)
+* [Live translation](/docs/features-live-translation)
 
-* [Forum](features-forum)
+* [Forum](/docs/features-forum)
 
-* [FAQ](features--faq)
+* [FAQ](/docs/features--faq)
 
-* [API enabled](features-api-enabled)
+* [API enabled](/docs/features-api-enabled)
 
-* [Any new theme developed](features-any-new-theme-developed)
+* [Any new theme developed](/docs/features-any-new-theme-developed)

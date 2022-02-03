@@ -33,10 +33,10 @@ The site name carries the identity of your whole website and it is complimented 
 
 Although the site's name and description are important elements in your website content, remember that you can always **add more content** to your site with the following tools  🛠️.
 
--   [Overview of widgets](widgets-overview-of-widgets)
--   [Creating a blog](plugins-create-a-blog)
--   [Add an FAQ section](plugins-FAQ-system)
--   [Add a forums section](plugins-forum-section)
+-   [Overview of widgets](/docs/widgets-overview-of-widgets)
+-   [Creating a blog](/docs/plugins-create-a-blog)
+-   [Add an FAQ section](/docs/plugins-FAQ-system)
+-   [Add a forums section](/docs/plugins-forum-section)
 
 We recommend these tools but there's plenty of other options.
 

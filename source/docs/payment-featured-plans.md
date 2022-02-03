@@ -9,7 +9,7 @@ section: content
 
 
 This feature allows you to give users the option to select among different length of their featured ad and pay according to your payment plans.
-If you don’t know how to enable featured ads, please follow [this guide](payment-set-up-payment-gateways)!
+If you don’t know how to enable featured ads, please follow [this guide](/docs/payment-set-up-payment-gateways)!
 
 ## How to create Featured Plans:
 
@@ -47,7 +47,7 @@ The goal here is to give more exposure to featured ads. By default featured ads 
 
 -   **Featured ads slider in the listing page**: Enable slider on the listing page and choose to show featured ads. Go to  **_Appearance -> Theme Options -> Listing -> Display slider in listing_**  and choose **Featured** or **Featured Random.**
 
--   **Featured ads widget**: Create a Featured Ads Widget to show featured ads on Header, Sidebar or Footer.  [Here’s how to create a widget](widgets-overview-of-widgets)
+-   **Featured ads widget**: Create a Featured Ads Widget to show featured ads on Header, Sidebar or Footer.  [Here’s how to create a widget](/docs/widgets-overview-of-widgets)
 
 -   **Sort by featured in the listing page**: Show the featured ads first in the listing page. Go to  **_Settings -> Advertisement -> Listing Options -> Sort by in Listing_**  and choose **Featured.**
 
@@ -58,5 +58,5 @@ Note that the Featured Plans are available only for the Premium Users. When you 
 
 
 **Related posts:**
--   [Marketplace with Stripe Connect Express](payment-set-up-marketplace-with-srtipe-connect-express)
--   [2checkout Configuration](payment-2checkout-configuration)
+-   [Marketplace with Stripe Connect Express](/docs/payment-set-up-marketplace-with-srtipe-connect-express)
+-   [2checkout Configuration](/docs/payment-2checkout-configuration)
