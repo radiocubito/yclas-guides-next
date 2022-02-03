@@ -56,7 +56,7 @@ If you are trying to import geolocations but you can see just empty dropdown men
 
 For  websites hosted on Yclas, you have to login in your Cloudflare account, press the  **Crypto**  tab and disable  **Always use HTTPS**.
 
-If you using  **Yclas Self-Hosted**, please make sure you follow the instructions of [this guide](technical-http-to-https)
+If you using  **Yclas Self-Hosted**, please make sure you follow the instructions of [this guide](/docs/technical-http-to-https)
 
 ### Quick Creator
 
@@ -91,7 +91,7 @@ New locations now will be available to choose in  **Publish New Advertisement** 
 
 ### Import Locations
 
-You can also add locations by importing them. Use  [this example file](https://raw.githubusercontent.com/yclas/guides/master/samples/import_locations_example.csv)  to create yours and simply import locations into your website. For more information, follow  [this guide.](classifieds-how-to-import-tool-for-categories-and-location)
+You can also add locations by importing them. Use  [this example file](https://raw.githubusercontent.com/yclas/guides/master/samples/import_locations_example.csv)  to create yours and simply import locations into your website. For more information, follow  [this guide.](/docs/classifieds-how-to-import-tool-for-categories-and-location)
 
 ## How to add sub-locations
 
@@ -116,8 +116,8 @@ The location widget gives you additional options. You can activate them by loggi
 
 **Related posts:**
 
--   [How to add categories and manage them?](classifieds-how-to-add-new-categories-and-manage-them)
--   [How to use import tool for categories and locations?](classifieds-how-to-import-tool-for-categories-and-location)
+-   [How to add categories and manage them?](/docs/classifieds-how-to-add-new-categories-and-manage-them)
+-   [How to use import tool for categories and locations?](/docs/classifieds-how-to-import-tool-for-categories-and-location)
 
 
 <iframe width="100%" height="400px" src="https://www.youtube.com/embed/ileb1ebLo6Q" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

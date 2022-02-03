@@ -26,5 +26,5 @@ The  **available options**  are:
 
 **Related posts:**
 
--   [How to manage advertisements](advertisement-change-settings-for-ads)
+-   [How to manage advertisements](/docs/advertisement-change-settings-for-ads)
 

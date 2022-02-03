@@ -19,9 +19,9 @@ For efficient email delivery, we highly recommend using a specialized SMTP servi
 
 To have a good deliverabilty of your emails you need to use your own email domain such as info@YOURDOMAIN.com and not something like mywebsite@gmail.com. Using free SMTP serivces like Gmail, Outlook or Yahoo it’s a bad idea since there’s lot of limitations on the amount of emails you can send. Please do not use them.
 
-You can easily use you own domain to send emails by using [Zoho for free](email-settings-host-email-with-custom-domain)
+You can easily use you own domain to send emails by using [Zoho for free](/docs/email-settings-host-email-with-custom-domain)
 
-It’s now mandatory to have your site working using SMTP or  [Elasticemail](email-settings-elasticemail). This guide explains how to set up the SMTP configuration of your website.
+It’s now mandatory to have your site working using SMTP or  [Elasticemail](/docs/email-settings-elasticemail). This guide explains how to set up the SMTP configuration of your website.
 
 Go to  **Settings**  ->  **Email** and scroll down to **SMTP** to specify or enable:
 
@@ -39,7 +39,7 @@ When you finish with this configurations, click  **SAVE**
 ## Zoho
 
 1. Create an account on  [Zoho.com](https://www.zoho.com/signup.html)  
-2.  [Follow the instructions](email-settings-host-email-with-custom-domain)  to verify your domain, add users (email accounts) and create groups.
+2.  [Follow the instructions](/docs/email-settings-host-email-with-custom-domain)  to verify your domain, add users (email accounts) and create groups.
 3. On the step  **Configure Email Delivery**, you need to login to your domain name provider panel and add the following DNS records:
 
 -   Type:  **MX**
@@ -170,9 +170,9 @@ If your website is using TLS (http://):
   
 **Related posts:**
 
--   [Host your email with your custom domain using Zoho Mail](email-settings-host-email-with-custom-domain)
--   [How to Configure ElasticEmail on Yclas](email-settings-elasticemail)
--   [Troubleshooting Email errors](email-settings-troubleshooting-email-errors)
+-   [Host your email with your custom domain using Zoho Mail](/docs/email-settings-host-email-with-custom-domain)
+-   [How to Configure ElasticEmail on Yclas](/docs/email-settings-elasticemail)
+-   [Troubleshooting Email errors](/docs/email-settings-troubleshooting-email-errors)
 
 
 

@@ -14,7 +14,7 @@ When a user of your classified site does certain actions, e.g. register, post an
 
 To see and manage those emails, please loginto  **Admin Panel**  ->  **Settings**  > **Transactional Emails**.
 
-*Note: You need to [add your SMTP configuration](email-settings-smtp-configuration) before activating this feaure.*
+*Note: You need to [add your SMTP configuration](/docs/email-settings-smtp-configuration) before activating this feaure.*
 
 Email templates are already created and translated to multiple languages. You can  **Edit**  them according to your needs by clicking blue button next to the template.
 ![](https://github.com/yclas/guides/blob/master/images/editemail.png)

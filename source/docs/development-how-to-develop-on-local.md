@@ -87,7 +87,7 @@ sudo service apache2 reload
 
 ## Install Yclas Self Hosted and use your Pro license
 
-Now you have reoc.lo activated! The last step is to install Yclas Self-hosted following  [this guide](yclas-self-hosted-installation-insatallation).
+Now you have reoc.lo activated! The last step is to install Yclas Self-hosted following  [this guide](/docs/yclas-self-hosted-installation-insatallation).
 Note that if you used the above reoc.lo.conf file, you have to install Yclas Self-hosted into /var/www/yclas.
 
 To use your premium theme, go to your **Admin Panel** -> **Appearance** -> **Theme**, choose to activate your theme and enter a valid or invalid license number.
@@ -97,6 +97,6 @@ You can now develop your theme on local.
   
 **Related guides:**
 
-* [Vagrant configuration for Yclas Self-hosted](development-vagrant-configuration)
-* [Docker configuration for Yclas Self-hosted](development-docker-configuration)
+* [Vagrant configuration for Yclas Self-hosted](/docs/development-vagrant-configuration)
+* [Docker configuration for Yclas Self-hosted](/docs/development-docker-configuration)
 

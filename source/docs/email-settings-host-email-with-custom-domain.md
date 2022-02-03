@@ -29,5 +29,5 @@ Now you are able to send and receive email with your custom domain. If you need 
   
 **Related posts:**
 
--   [How to configure SMTP](email-settings-smtp-configuration)
--   [How to Configure ElasticEmail on Yclas](email-settings-elasticemail)
+-   [How to configure SMTP](/docs/email-settings-smtp-configuration)
+-   [How to Configure ElasticEmail on Yclas](/docs/email-settings-elasticemail)
