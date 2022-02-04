@@ -13,5 +13,5 @@ section: content
  
 
 Content: 
-* [How to change a theme?](themes-how-to-change-a-theme)
-* [Configuration of premium themes](themes-configuration-of-premuim-themes)
+* [How to change a theme?](/docs/themes-how-to-change-a-theme)
+* [Configuration of premium themes](/docs/themes-configuration-of-premuim-themes)

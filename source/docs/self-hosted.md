@@ -15,10 +15,10 @@ The software can be used for a variety of purposes, from automobiles and real es
 
 **Content**
 
-* [Installation](yclas-self-hosted-installation)
-* [License](license)
-* [Development](yclas-self-hosted-development)
-* [Technical](yclas-self-hosted-technical)
-  * [Technical issues](technical-issues)
+* [Installation](/docs/yclas-self-hosted-installation)
+* [License](/docs/license)
+* [Development](/docs/yclas-self-hosted-development)
+* [Technical](/docs/yclas-self-hosted-technical)
+  * [Technical issues](/docs/technical-issues)
 
 

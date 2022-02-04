@@ -35,14 +35,14 @@ Content:
 
 ## Currency Converter Widget
 
-Give users the option to  [select a different currency](custom-fields-choose-currency)  to sell their ads.
+Give users the option to  [select a different currency](/docs/custom-fields-choose-currency)  to sell their ads.
 
-Create a  [Currency Converter Widget](widgets-how-to-set-the-currency-format)  to let your website’s users and visitors convert the prices to their local curreny.
+Create a  [Currency Converter Widget](/docs/widgets-how-to-set-the-currency-format)  to let your website’s users and visitors convert the prices to their local curreny.
 
 ## Interactive Map
 
-Interactive Map lets users choose their location or the location they want to browse. Follow  [this guide](content-create-an-interactive-map)  to learn how to create an Interactive Map on the homepage of your website.
+Interactive Map lets users choose their location or the location they want to browse. Follow  [this guide](/docs/content-create-an-interactive-map)  to learn how to create an Interactive Map on the homepage of your website.
 
 ## Translation
 
-Let users choose to translate the content of your website in their language by creating a  [Languages Widget](widget-language-widget). You have the option to choose which languages will be available.
+Let users choose to translate the content of your website in their language by creating a  [Languages Widget](/docs/widget-language-widget). You have the option to choose which languages will be available.

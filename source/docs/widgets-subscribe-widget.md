@@ -33,13 +33,13 @@ Yclas offers an email subscriber feature which allows users and visitors to subs
 ## How it works?
 
 An Example: A user visits your site and choose to subscribe to the categories “Apartment” and “House”, in “Barcelona”, in a price range of 0-400.000. 
-When a new advertisement is published to the website, on the category “Apartment” or “House”, in “Barcelona” with a price between 0 and 400.000, user will get an  [automatic email](content-automatic-email)(ads-subscribers) about the ad.
+When a new advertisement is published to the website, on the category “Apartment” or “House”, in “Barcelona” with a price between 0 and 400.000, user will get an  [automatic email](content-automatic-email)(/docs/ads-subscribers) about the ad.
 
 
 <iframe width="100%" height="400px" src="https://www.youtube.com/embed/7glvaDOD17w" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 **Related guides**
-- [Overview of widgets](widgets-overview-of-widgets)
-- [How to change language of the site?](translation-change-language-of-the-site)
-- [Currency Converter Widget](widgets-how-to-set-the-currency-format)
-- [Share Widget](widgets-share-widget)
+- [Overview of widgets](/docs/widgets-overview-of-widgets)
+- [How to change language of the site?](/docs/translation-change-language-of-the-site)
+- [Currency Converter Widget](/docs/widgets-how-to-set-the-currency-format)
+- [Share Widget](/docs/widgets-share-widget)

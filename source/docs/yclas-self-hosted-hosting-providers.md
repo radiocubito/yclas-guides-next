@@ -8,7 +8,7 @@ section: content
 
 # Compatible Hosting Providers
 
- In our expereince, sometimes users purchase hosting plans that are not compatible with Yclas and then unexpected errors may occur.  Take a look at the [software requirements](yclas-self-hosted-installation-software-requirements) if you can't find your hosting provider in the list below.
+ In our expereince, sometimes users purchase hosting plans that are not compatible with Yclas and then unexpected errors may occur.  Take a look at the [software requirements](/docs/yclas-self-hosted-installation-software-requirements) if you can't find your hosting provider in the list below.
 
 Yclas's team has prepared a list of 16 hosting providers that we tested and they’re proven to work with Yclas. 
 

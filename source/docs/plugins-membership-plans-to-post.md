@@ -31,7 +31,7 @@ Steps to follow:
 -   **Price:**  The price that users will be charged to subscribe to the plan.
 -   **Days:**  The number of days that the plan renews.
 -   **Amount Ads:**  The amount of ads that users can publish before their plan expires.
--   **Marketplace Fee:**  If  [Marketplace feature](payment-set-up-marketplace-with-srtipe-connect-express)  is activated then seller is charged this fee instead of the one is configured.
+-   **Marketplace Fee:**  If  [Marketplace feature](/docs/payment-set-up-marketplace-with-srtipe-connect-express)  is activated then seller is charged this fee instead of the one is configured.
 -   **Status:**  If is checked, the plan is activated. Uncheck if you want to deactivate the plan.
 
 ![membership](https://raw.githubusercontent.com/yclas/guides/master/images/membership.png)
@@ -68,7 +68,7 @@ You can find information about all the users subscriptions when you go to your *
 
 ### Recurring Membership Plans
 
-Membership plans paid via  [Stripe payment gateway](payment-set-up-marketplace-with-srtipe-connect-express)  with “Legacy Checkout” enabled and free plans are automatically renewed after the expiration date. Plans purchased with a different payment gateway need to be renewed by the user after the expiration date.
+Membership plans paid via  [Stripe payment gateway](/docs/payment-set-up-marketplace-with-srtipe-connect-express)  with “Legacy Checkout” enabled and free plans are automatically renewed after the expiration date. Plans purchased with a different payment gateway need to be renewed by the user after the expiration date.
 
 ### Cancel Subscriptions
 

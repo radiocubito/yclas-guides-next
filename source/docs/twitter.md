@@ -32,4 +32,4 @@ Here’s how to connect your website to your Twitter account and automatically s
 
   **Related guides:**
 
- -   [How to Auto Post on Social media](publilsh-options-auto-post-on-social-media)
+ -   [How to Auto Post on Social media](/docs/publilsh-options-auto-post-on-social-media)

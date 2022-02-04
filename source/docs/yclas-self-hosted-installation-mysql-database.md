@@ -84,7 +84,7 @@ mysql > grant all on db_name.* to 'db_user'@'localhost' identified by 'db_passwo
 
 ```
 
-*Note: The  _localhost_  field usually doesn’t have to be edited, but you can set it to the specific address.
+*Note: The  _localhost_  field usually doesn’t have to be edited, but you can set it to the specific address.*
 
 The above example grants  **All privileges**, obviously. But you will likely want to limit privileges under many circumstances. These parameters include  **Select, Insert,**  and  **Delete**.
 
@@ -97,7 +97,7 @@ mysql > grant select, insert, delete on db_name.* to 'db_user'@'localhost' ident
 
 via  [lanexa.net](http://www.lanexa.net/2011/08/create-a-mysql-database-username-password-and-permissions-from-the-command-line/)
 
-We hope that you find this information useful! If you want you can read more on **[how to use MySQLi](useful-artciles-how-to-use-mysqli)** in our article on the topic.
+We hope that you find this information useful! If you want you can read more on **[how to use MySQLi](/docs/useful-artciles-how-to-use-mysqli)** in our article on the topic.
 
 
 *This guide is only for Yclas Self-hosted*

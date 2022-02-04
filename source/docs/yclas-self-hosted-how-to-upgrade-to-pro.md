@@ -31,13 +31,13 @@ To upgrade to Yclas Self-hosted PRO and get all the Yclas themes and features,  
 -   Mobile ready
 -   Forever updates of all themes
 -   All Yclas Features:
-    -   [More payment gateways](payment-gateways)
-    -   [Stripe Connect Express](payment-set-up-marketplace-with-srtipe-connect-express)
-    -   [Custom Fields for Advertisements](custom-fields-create-custom-fields)
-    -   [Custom Fields for Users](users-create-custom-field-for-users)
-    -   [Social Login](plugins-login-using-social-auth)
-    -   [Interactive Map](content-create-an-interactive-map)
-    -   [Memberships](plugins-membership-plans-to-post)
-    -   [API enabled (needed for Android and iOS apps)](api-documentation)
-    -   [Infinite scroll (only in some themes)](appearance-set-up-infinite-ads)
+    -   [More payment gateways](/docs/payment-gateways)
+    -   [Stripe Connect Express](/docs/payment-set-up-marketplace-with-srtipe-connect-express)
+    -   [Custom Fields for Advertisements](/docs/custom-fields-create-custom-fields)
+    -   [Custom Fields for Users](/docs/users-create-custom-field-for-users)
+    -   [Social Login](/docs/plugins-login-using-social-auth)
+    -   [Interactive Map](/docs/content-create-an-interactive-map)
+    -   [Memberships](/docs/plugins-membership-plans-to-post)
+    -   [API enabled (needed for Android and iOS apps)](/docs/api-documentation)
+    -   [Infinite scroll (only in some themes)](/docs/appearance-set-up-infinite-ads)
     -   Advanced newsletter

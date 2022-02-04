@@ -13,13 +13,13 @@ Other ideas :  **_birthday_**,  **_province_**,  **_phone number_**,  **_address
 
 ## Tricks
 
-1. **PayPal email for sellers->**  Create this user Custom Field so on the user registration form, users will see this new field to enter their  **PayPal account email address**  that will be used to get paid from their ads, if a different PayPal email address is not set in the advertisement. For more information follow  [this guide](custom-fields-PayPal-email-for-users).
+1. **PayPal email for sellers->**  Create this user Custom Field so on the user registration form, users will see this new field to enter their  **PayPal account email address**  that will be used to get paid from their ads, if a different PayPal email address is not set in the advertisement. For more information follow  [this guide](/docs/custom-fields-PayPal-email-for-users).
     
 2. **Chat with the seller->**  Using this option in your site users can enter their **Whatsapp** phone number, **Skype** Id and **Telegram** username into their user profile account. 
 
-This way users will be able to contact sellers directly just by clicking on the icon of the service  **Whatsapp**,  **Skype**  or  **Telegram**.  [Here](users-chat-with-sellers)  are the instructions to follow to enable this feature.
+This way users will be able to contact sellers directly just by clicking on the icon of the service  **Whatsapp**,  **Skype**  or  **Telegram**.  [Here](/docs/users-chat-with-sellers)  are the instructions to follow to enable this feature.
     
-3.  **Verified User->**  The admins and moderators of the site have the option to mark a trustworthy user as verified. Verified users will get a verified badge next to their username. More information  [here](users-verified-user).
+3.  **Verified User->**  The admins and moderators of the site have the option to mark a trustworthy user as verified. Verified users will get a verified badge next to their username. More information  [here](/docs/users-verified-user).
     
 
 ## How to create custom fields for users
@@ -40,5 +40,5 @@ Login to your **Admin Panel** ->  **Users**  ->  **User Custom Fields** ->  **Ne
   
 **Related posts:**
 
--   [How to create Custom Fields?](custom-fields-create-custom-fields)
--   [How to use shipping custom field](custom-fields-how-to-use-shipping-custom-field)
+-   [How to create Custom Fields?](/docs/custom-fields-create-custom-fields)
+-   [How to use shipping custom field](/docs/custom-fields-how-to-use-shipping-custom-field)

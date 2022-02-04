@@ -9,6 +9,6 @@ section: content
 
 In this guide, you will find all of the information on development.
 
-*   [Local development](development-how-to-develop-on-local)
-*   [Vagrant configuration for Yclas Self-hosted](development-vagrant-configuration)
-*   [Docker configuration for Yclas Self-hosted](development-docker-configuration)
+*   [Local development](/docs/development-how-to-develop-on-local)
+*   [Vagrant configuration for Yclas Self-hosted](/docs/development-vagrant-configuration)
+*   [Docker configuration for Yclas Self-hosted](/docs/development-docker-configuration)

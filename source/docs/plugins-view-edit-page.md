@@ -11,7 +11,7 @@ section: content
 
 First of all, you need to have pages activated on your website. 
 
-*If you don’t know how to activate the pages, you can follow the steps in [this guide*](plugins-forum-section)*.
+*If you don’t know how to activate the pages, you can follow the steps in [this guide*](/docs/plugins-forum-section)*.
 
 So, if you have pages activated and topics created, you are able to manage these topics.
 

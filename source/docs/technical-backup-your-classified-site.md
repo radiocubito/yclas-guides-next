@@ -17,7 +17,7 @@ Content:
 -   Plesk Backups
 
 
- **UPDATE:  [Automatic daily backups](technical-automatic-daily-backup)
+ **UPDATE:  [Automatic daily backups](/docs/technical-automatic-daily-backup)**
 
 
 **This is a bit advanced “How To”**

@@ -13,7 +13,7 @@ This means that you can  **easily change the site translation**  to any language
 
 The languages widget let users choose in which language your website will be translated to them. To create this widget, login to your **Admin Panel** -> **Appearance**  ->  **Widgets**  and click to create the Languages Widget.
 
-After that, a list with your selected languages will appear in your website so users can choose their prefered language. For more information, check out  [this guide](widget-language-widget).
+After that, a list with your selected languages will appear in your website so users can choose their prefered language. For more information, check out  [this guide](/docs/widget-language-widget).
 
 ## Different languages - the same installation
 

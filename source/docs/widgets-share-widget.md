@@ -41,6 +41,6 @@ Here’s a list with all the available social media. Next to each social media y
  
 **Related guides**
 
-- [Overview of widgets](widgets-overview-of-widgets)
-- [How to change language of the site?](translation-change-language-of-the-site)
-- [Currency Converter Widget](widgets-how-to-set-the-currency-format)
+- [Overview of widgets](/docs/widgets-overview-of-widgets)
+- [How to change language of the site?](/docs/translation-change-language-of-the-site)
+- [Currency Converter Widget](/docs/widgets-how-to-set-the-currency-format)

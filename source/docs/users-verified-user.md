@@ -13,7 +13,7 @@ A verified user would be considerate a more trustworthy user. Once a user is ver
 Follow these steps to verify a user:
 
 1.  Login to your **Admin panel**.
-2.  Create a new custom field named " **verifiedbadge** "  ( [How to create a custom field](custom-fields-create-custom-fields)  )
+2.  Create a new custom field named " **verifiedbadge** "  ( [How to create a custom field](/docs/custom-fields-create-custom-fields)  )
 3.  Go to **Configure -> Settings - > Custom Fields**  ->  **New Field**.
 4.  Enter  **verifiedbadge** as the new field's name, choose  **Checkbox** as a type  and tick the  **Searchable** option.  You have to fill the fields Label and Tooltip and press  **Save**.
 

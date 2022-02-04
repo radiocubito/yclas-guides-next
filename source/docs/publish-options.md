@@ -9,8 +9,8 @@ section: content
 
 In this guide, you can find all of the publish options and their configuration.
 
-*   [Configure publish options](advertisement-configure-publilsh-options)
-*   [Activate comments with Disqus](publish-options-active-comments-with-disquse)
-*   [Add Facebook comments](publish-options-add-facebook-comments)
-*   [Configure Google maps settings](publish-options-configure-google-maps-settings)
-*   [Auto post on social media](publilsh-options-auto-post-on-social-media)
+*   [Configure publish options](/docs/advertisement-configure-publilsh-options)
+*   [Activate comments with Disqus](/docs/publish-options-active-comments-with-disquse)
+*   [Add Facebook comments](/docs/publish-options-add-facebook-comments)
+*   [Configure Google maps settings](/docs/publish-options-configure-google-maps-settings)
+*   [Auto post on social media](/docs/publilsh-options-auto-post-on-social-media)

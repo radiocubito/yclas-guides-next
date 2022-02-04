@@ -43,4 +43,4 @@ We understand that there are countless businesses that can be listed in a busine
 -   Premium and refreshing themes
 -   Professional support to give your website a completely different interface and feel.
 
-**_Update_** [Custom fields](custom-fields-create-custom-fields) are now available with our  [premium themes](https://selfhosted.yclas.com/), ready for you to customize according to your preferences.
+**_Update_** [Custom fields](/docs/custom-fields-create-custom-fields) are now available with our  [premium themes](https://selfhosted.yclas.com/), ready for you to customize according to your preferences.

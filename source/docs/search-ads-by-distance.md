@@ -23,7 +23,7 @@ If you want to use this feature, you need to enable the following two features:
 
  1. Login to your   **Admin Panel** ->  **Integrations** ->  **Google Maps**.
  2.  Fill the mandatory fields : you need to add Google Maps API key and other Google Maps parameters here. Follow [this
-    guide](publish-options-configure-google-maps-settings) to learn
+    guide](/docs/publish-options-configure-google-maps-settings) to learn
     how to do that.
   3.  Click  **SAVE**.
 
@@ -36,7 +36,7 @@ If you want to use this feature, you need to enable the following two features:
 2. You need to have a **SSL certificate** installed on your website if you want to use this option. 
      - If you need to get a new SSL certificate for your website, please follow [this guide](https://yclas.com/faq/ssl-encryption.html).
      - If your website is NOT hosted on yclas.com, then you need to follow [this
-    guide](technical-http-to-https).
+    guide](/docs/technical-http-to-https).
     
 3. Tick the option box to enable this function.
 4. Click **Save**.

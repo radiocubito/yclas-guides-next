@@ -55,6 +55,6 @@ What you can do with those users is to mark them as inactive in order to avoid s
 
 You may also be interested in:
 
--   [How to configure SMTP](email-settings-smtp-configuration)
--   [How to Configure ElasticEmail on Yclas](email-settings-elasticemail)
--   [Troubleshooting Email errors](email-settings-troubleshooting-email-errors)
+-   [How to configure SMTP](/docs/email-settings-smtp-configuration)
+-   [How to Configure ElasticEmail on Yclas](/docs/email-settings-elasticemail)
+-   [Troubleshooting Email errors](/docs/email-settings-troubleshooting-email-errors)

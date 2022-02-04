@@ -120,8 +120,8 @@ Available currencies will be: EUR, CAD, CNY, NOK, PHP, USD
 
 You may also be interested in:
 
--   [Overview of widgets](widgets-overview)
--   [How to set the currency format?](general-currency-format)
--   [Choose Language Widget](widgets-langauge-widget)
--   [Image Widget](widgets-image-widget)
--   [How to add a banner](appearance-how-to-add-a-banner)
+-   [Overview of widgets](/docs/widgets-overview)
+-   [How to set the currency format?](/docs/general-currency-format)
+-   [Choose Language Widget](/docs/widgets-langauge-widget)
+-   [Image Widget](/docs/widgets-image-widget)
+-   [How to add a banner](/docs/appearance-how-to-add-a-banner)

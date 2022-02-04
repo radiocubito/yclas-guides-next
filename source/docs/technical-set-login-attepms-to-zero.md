@@ -35,4 +35,4 @@ Now you will be are able to login into your website.
   
 **Related posts:**
 
--   [How do I create a MySQL database?](useful-artciles-how-to-use-mysqli)
+-   [How do I create a MySQL database?](/docs/useful-artciles-how-to-use-mysqli)
