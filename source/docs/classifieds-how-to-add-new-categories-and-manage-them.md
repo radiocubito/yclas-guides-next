@@ -42,7 +42,7 @@ While adding categories, you should remember that only 2 levels of categories wi
 
 ### Import Categories
 
-Go to  **Admin Panel**  ->  **Settings**  ->  **Categories**, select “Import” and choose your csv file ([example](https://raw.githubusercontent.com/yclas/guides/master/samples/import_categories_example.csv)).
+Go to  **Admin Panel**  ->  **Settings**  ->  **Categories**, select “Import” and choose your csv file ([example](/assets/samples/import_categories_example.csv)).
 
 ## How to manage categories
 
