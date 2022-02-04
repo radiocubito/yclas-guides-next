@@ -13,7 +13,7 @@ Content:
 
 Here we present another cool thing that you can do on your site. You can place a  **full width Google map**  at your homepage like this:
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/how-to-map.png)
+![](/assets/images/how-to-map.png)
 
 ## Prerequisites
 

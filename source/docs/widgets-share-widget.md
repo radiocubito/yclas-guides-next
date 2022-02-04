@@ -31,10 +31,10 @@ Here’s a list with all the available social media. Next to each social media y
 
 **Example:**
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/widgets%20share.jpg)
+![](/assets/images/widgets%20share.jpg)
 
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/widgets%20share1.jpg)
+![](/assets/images/widgets%20share1.jpg)
 
 
 <iframe width="100%" height="400px" src="https://www.youtube.com/embed/Ji_WRBRwIvM" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

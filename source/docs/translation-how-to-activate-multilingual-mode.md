@@ -17,14 +17,14 @@ section: content
 
 Once enabled you will see on your website a language selector.
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/multilingual-configuration.png)
+![](/assets/images/multilingual-configuration.png)
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/multilingual-selector.png)
+![](/assets/images/multilingual-selector.png)
 
 **Translate categories and locations:**
 
 Once the multilingual mode is enabled you can update your categories and locations to translate their names and descriptions.
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/multilingual-translate-categories-locations.png)
+![](/assets/images/multilingual-translate-categories-locations.png)
 
 *A new feature is included in the 3.5 version that makes it possible for you to set your website in multilingual.*

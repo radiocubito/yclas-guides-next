@@ -104,7 +104,7 @@ If you don’t want to have many domains/sub domain and save some money maybe th
 
 -   You simply do a  [new installation](https://docs.yclas.com/install-self-hosted/)  at a new folder within your website, follow the screenshot below to see how to do it using Softaculous.
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/multilingual%20(1).png)
+![](/assets/images/multilingual%20(1).png)
 
 
 *This guide is only for Yclas Self-Hosted!*

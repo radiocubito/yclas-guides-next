@@ -13,4 +13,4 @@ This features allolws you to show a notice to disable Adblock when its detected.
 2.  Acitvate the **Adblock detector** by checking the box on the right side of the page. 
 3. Click **Save**.
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/adblock.png)
+![](/assets/images/adblock.png)

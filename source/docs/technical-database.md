@@ -13,4 +13,4 @@ Basically, this is a detailed description of the database tables created during 
 
 You can check [the full database description](https://github.com/yclas/yclas/wiki/Database-Description).
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/Database.png)
+![](/assets/images/Database.png)

@@ -22,7 +22,7 @@ This feature offers the option to choose which categories you want to hide from 
 
 Keep in mind that choosing to hide a parent category will affect all the subcategories of that category.
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/hide%20categories.jpg)
+![](/assets/images/hide%20categories.jpg)
 
 
 

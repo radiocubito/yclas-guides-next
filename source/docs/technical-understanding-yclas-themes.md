@@ -87,7 +87,7 @@ We use  **bootstrap framework**  (Bootstrap 2 http://getbootstrap.com/2.3.2/, Bo
 
 Let’s consider following image. This image is a screenshot of our homepage. As you can see there are 4 main sectors  **HEADER**,  **MAIN CONTENT**, Placeholder-**LEFT**  (widgets Placeholder),  **FOOTER**.
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/Demo-Open-Classifieds-1.png)
+![](/assets/images/Demo-Open-Classifieds-1.png)
 
 
 Please note that the header, footer, widget-placeholders are static parts of mark-up, they don’t change the content.

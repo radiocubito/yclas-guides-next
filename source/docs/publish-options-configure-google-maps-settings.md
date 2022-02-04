@@ -44,7 +44,7 @@ To use Google Maps in you mobile apps please also enable [Maps SDK for iOS](http
 
 
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/googlemapssettings2.png)
+![](/assets/images/googlemapssettings2.png)
 
 
 <iframe width="100%" height="400px" src="https://www.youtube.com/embed/HkgirwUTl74" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

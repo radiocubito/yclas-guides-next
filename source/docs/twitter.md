@@ -12,7 +12,7 @@ Here’s how to connect your website to your Twitter account and automatically s
 1. Go to  [https://apps.twitter.com/](https://apps.twitter.com/).
 
 2. Click  **Create New App**.
-![](https://raw.githubusercontent.com/yclas/guides/master/images/autopost1.png)
+![](/assets/images/autopost1.png)
 3. Fill the fields and click  **Create your Twitter application**.
 
 4. Go to the  **Permissions**  tab, set  _Application Type_  to  **Read and Write**  and Then press Update this Twitter application’s settings.

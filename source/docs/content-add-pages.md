@@ -29,7 +29,7 @@ After deleting cache (go to  **Tools**  >  **Cache**  ->  **Delete All**, your s
 
 If you want the links to every page to always be accessible, for instance, in the sidebar then use the  **Pages widget**. To activate it click  **Design > Widgets**  in the left sidebar of the Panel. Choose the widget  **‘Pages’**  and hit  **Create**. Choose the place where it will be displayed - its title - and save changes.
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/pages.png)
+![](/assets/images/pages.png)
 
 ## Terms of Service
 

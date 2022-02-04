@@ -30,7 +30,7 @@ Here’s how to connect your website to your Twitter account and automatically s
 1. Go to  [https://apps.twitter.com/](https://apps.twitter.com/)
 
 2. Click  **Create New App**.
-![](https://raw.githubusercontent.com/yclas/guides/master/images/autopost1.png)
+![](/assets/images/autopost1.png)
 3. Fill the fields and click  **Create your Twitter application**.
 
 4. Go to the  **Permissions**  tab, set  _Application Type_  to  **Read and Write**  and Then press Update this Twitter application’s settings.
@@ -60,7 +60,7 @@ Facebook auto post allows you to configure your site to automatically post to a 
 
 2. Click  **Add a New App**.
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/sc5.png)
+![](/assets/images/sc5.png)
 
 3. Fill the  **Display Name**  with your website name, choose the category that you website corresponds and press  **Create App ID**.
 
@@ -72,7 +72,7 @@ Facebook auto post allows you to configure your site to automatically post to a 
 
 6. Choose your created App in the  **Application**  field.
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/sc7.png)
+![](/assets/images/sc7.png)
 
 
 7. Get your Access Token:
@@ -82,7 +82,7 @@ Facebook auto post allows you to configure your site to automatically post to a 
 -   Click on  **Get Token**  and select  **Get User Access Token**. “Get Token” button is changed to your page name.
 -   Select the permissions as indicated below and press  **Get Access Token**:
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/sc8.png)
+![](/assets/images/sc8.png)
 
 -   Press  **Get Token**  again and select your Facebook page.
 -   Click on your page name (the same button) and select  **Request publish_pages**.
@@ -93,21 +93,21 @@ Facebook auto post allows you to configure your site to automatically post to a 
 -   Click on  **Get Token**  and select  **Get User Access Token**.
 -   Check the fields as described in the image below, click the  **Get Access Token**  button again and select your Facebook page
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/sc9.png)
+![](/assets/images/sc9.png)
 **If you want to post to your Facebook group**
 
 -   Click on  **Get Token**  and select  **Get User Access Token**.
 -   Check the fields as described in the image below, click the  **Get Access Token**  button again and select your Facebook page.
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/sc10.png)
+![](/assets/images/sc10.png)
 
 8. The created Access Token expires in an hour, so you need to create another one. On the same page click to the icon on the left of the Access Token and press  **Open in Access Token Tool**.
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/sk11.png)
+![](/assets/images/sk11.png)
 
 9. Click  **Extend Access Token**
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/sk12.png)
+![](/assets/images/sk12.png)
 
 10. The new long-lived access token will appear below. Copy, login to your website **Admin Panel**, go to  **Settings -> Advertisement -> Social**  and paste the key into the  **Facebook Access Token**  field. You won’t have to renew the access token again.
 

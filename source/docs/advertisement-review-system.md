@@ -19,7 +19,7 @@ To enable the review system follow the steps below:
 
  Then, go to your website, click on an ad and you can see that the option of leaving a review appeared as shown in the below screenshot.
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/leave%20a%20review.png)
+![](/assets/images/leave%20a%20review.png)
   
 When the user adds any feedback, the number of written reviews and awarded stars will appear under the title of the ad.
 

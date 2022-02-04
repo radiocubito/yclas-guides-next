@@ -21,7 +21,7 @@ The Search Widget adds a form to your classifieds website header, sidebar or foo
 
 3. Configure the **Search Widget**.
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/search%20widget.jpg)
+![](/assets/images/search%20widget.jpg)
 
 -   **Where do you want the widget displayed?:**  Select between the available options, sidebar, header, footer, publish new page or inactive, depends on what your selected theme offers.
 -   **Title displayed:**  Type the title of the search form. Leave empty for no title.

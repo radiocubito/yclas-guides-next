@@ -28,7 +28,7 @@ There are three ways to offer coupons: Create single coupon, bulk creation of un
 
 Login to your **Admin Panel**, go on  **Settings**  ->  **Coupons**  and click  **New**.
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/Coupon%20create.jpg)
+![](/assets/images/Coupon%20create.jpg)
 
 
 Fill the fields and click  **Submit**.

@@ -20,7 +20,7 @@ If you don’t know how to enable featured ads, please follow [this guide](/docs
 
 From now on, when a user wants to mark theird ad as featured, by clicking on the option, they will be redirected to the checkout page to choose the featured plan they want to buy.
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/featured-plans1.png)
+![](/assets/images/featured-plans1.png)
 
 ## How to mark ads as Featured
 

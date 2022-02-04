@@ -40,7 +40,7 @@ It’s really simple to create and use this widget:
 6.  Enter the currency of your site on  **Choose the default currency**  field. Use this field ONLY in case you are using a different currency than your local one and make sure that the prices of the ads have the same currency.
 7.  Click  **Save Changes**.
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/currency%20conventor%20widget.png)
+![](/assets/images/currency%20conventor%20widget.png)
 
 ## Currencies to display
 

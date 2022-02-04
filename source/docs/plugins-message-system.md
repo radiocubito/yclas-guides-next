@@ -38,7 +38,7 @@ On advertisement’s page, click  **Send Message**. A contact form will appear i
 
 If your message has been sent, you will be able to see it on your  **Messages**.
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/message-system3.png)
+![](/assets/images/message-system3.png)
 
 
 If you are a seller and someone contacts you regarding an ad of yours, you will see a notification when you log in to the website.

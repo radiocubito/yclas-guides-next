@@ -39,4 +39,4 @@ Luckily I have not tried the restore option, but looks awesome.
 
 My recommendation is to take the  [ninja plan for $5 month](https://mbsy.co/CodeGuard/17761100)  and exclude the “media” files such as images or css from the backup if you already do monthly backups.  You get 5GB, use it wisely.
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/hosting.png)
+![](/assets/images/hosting.png)

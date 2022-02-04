@@ -11,7 +11,7 @@ As your website advertisements amount increases, it can be a challenge to manage
 
 To access the ads management page, go to  **Admin Panel** ->  **Advertisements**. You will see a list of  **all advertisements**  that are published on your site. The newest are on the top. Only 10 ads will be displayed. To go to older ones, navigate among the pages of the list.
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/advertisement.jpg)
+![](/assets/images/advertisement.jpg)
 
 On the list you see the  **name**,  **hits**,  **status**,  **published**,  **created**. Below the name of the ad, you have the  **category** and  **location**  displayed. You can also search for ads by using the **Search** field. On the right side you have buttons representing different available actions. Just click the one that you need and confirm when the system asks if you’re sure. The following options are available:
 
@@ -25,7 +25,7 @@ On the list you see the  **name**,  **hits**,  **status**,  **published**,  **cr
 -   **Stats->**  Display the stats of the ad.
 
 At the top of the page, you have some tabs that let you filter or sort the ads:
-![](https://raw.githubusercontent.com/yclas/guides/master/images/ads%20options.jpg)
+![](/assets/images/ads%20options.jpg)
 
 -   **All Ads->**  Display all the ads, active and expired ones.
 -   **Spam->**  Display only spam ads.

@@ -35,7 +35,7 @@ You can find an example of the correct CSV format [here](/assets/samples/import_
 3.  Click  **Import**.
 4.  Upload CSV files for your locations.
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/imaport%20location.jpg)
+![](/assets/images/imaport%20location.jpg)
 
 
 <iframe width="100%" height="400px" src="https://www.youtube.com/embed/j0S41gnstw0" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

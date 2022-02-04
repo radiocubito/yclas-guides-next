@@ -30,7 +30,7 @@ section: content
 2.  Choose  **Settings**  ->  **Locations**.
 3.  Select  **Import Geonames Locations**.
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/Import%20location.jpg)
+![](/assets/images/Import%20location.jpg)
 
 ![](https://github.com/yclas/guides/blob/master/images/import%20location%20small.jpg)
 

@@ -24,19 +24,19 @@ Now, eWallet is enabled, and your users can make transactions as sending money b
 
 Go to the user profile and click on send money.
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/send-money.png)
+![](/assets/images/send-money.png)
 
 ### Send money to any user logged as an admin
 
 Go to the user profile and click on send money.
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/send-money-admin.png)
+![](/assets/images/send-money-admin.png)
 
 ### Check current balance
 
 Click on user profile.
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/check-current-balance.png)
+![](/assets/images/check-current-balance.png)
 
 ### Transaction history
 
@@ -51,9 +51,9 @@ You can let users add money to their eWallet.
 3.  Go to  **Configure** -> **Addons** -> **eWallet**  ->  **Set your money packages**.
 4.  Click  **Save**.
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/add-money-1.png)
+![](/assets/images/add-money-1.png)
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/add-money-2.png)
+![](/assets/images/add-money-2.png)
 
 ## Mark order as received
 
@@ -65,11 +65,11 @@ You can send a reminder to the buyer to mark an order as received n days after t
 2.  Go to  **Configure** -> **Addons** -> **eWallet**  ->  **Mark as received reminder** and **Auto mark unreceived orders as received**.
 4.  Click  **Save**.
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/mark-as-received-1.png)
+![](/assets/images/mark-as-received-1.png)
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/mark-as-received-2.png)
+![](/assets/images/mark-as-received-2.png)
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/mark-as-received-3.png)
+![](/assets/images/mark-as-received-3.png)
 
 ## Gamification
 
@@ -79,7 +79,7 @@ You can let users earn money for specific actions within your marketplace.
 2.  Go to  **Configure** -> **Addons** -> **eWallet**  ->  **Enable gamification**.
 4.  Click  **Save**.
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/gamification.png)
+![](/assets/images/gamification.png)
 
 
 <iframe width="100%" height="400px" src="https://www.youtube.com/embed/ydMm3J3sZic" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

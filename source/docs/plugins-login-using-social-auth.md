@@ -13,7 +13,7 @@ section: content
 1.  Open in a new window the  **[Google Developers Console](https://cloud.google.com/console#/project)**.
 2.  Select a  **Project**  on the top and choose  **New  project**.
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/login1.png)
+![](/assets/images/login1.png)
 
   
 1.  Choose a Project name and press  **Create**.  
@@ -26,7 +26,7 @@ section: content
 -   Authorized Javascript origins: Your site URL here. ex: https://yclas.com/
 -   Authorized redirect URI: ex: https://yclas.com/social/login/1?hauth.done=Google.
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/login2.png)
+![](/assets/images/login2.png)
 
 10. Click  **Create**.  
 11. Now you have to verify (register) your domain name. Go to  **Google Console Developers**  ->  **Credentials**, choose the last tab,  **Domain verification**  and follow the steps there.  
@@ -50,20 +50,20 @@ This social login  **might change depending on Facebook**.
 1. Go to  [Facebook for developers](https://developers.facebook.com/apps/).
 2. Click  **Add a New App**.
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/login3.png)
+![](/assets/images/login3.png)
 
 3. Fill the fields  **Display Name**  and  **Contact Email**.
 4. Press  **Create App ID**.
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/login4.png)
+![](/assets/images/login4.png)
 
 5. Choose  **Set Up Facebook Login**  on Add Product page.
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/login5.png)
+![](/assets/images/login5.png)
 
 6. Choose  **Other**  on the Quickstart page.
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/login6.png)
+![](/assets/images/login6.png)
 
 7. Choose  **Facebook Login -> Settings**  on the left menu.
 8. Enable  **Client OAuth Login**  and  **Web OAuth Login**  and fill the fields:  
@@ -77,17 +77,17 @@ https://yourdomain.com/social/login/1?hauth_done=Facebook
 
 7. Click  **Save Changes**.
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/login7.png)
+![](/assets/images/login7.png)
 
 8. Choose  **Settings -> Advanced**  and enable  **Social Discovery**  and  **Allow API Access to App Settings**.
 9. On the header switch  **OFF**  to  **ON**.
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/login8.png)
+![](/assets/images/login8.png)
 
 10. Choose a category and click  **Confirm**.
 11. Choose  **Settings -> Basic**  and copy your App ID and App Secret.
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/login9.png)
+![](/assets/images/login9.png)
 
 12. Go to https://yourdomain.com/oc-panel/addons/sociallogin
 13. Set  **Facebook =**  **TRUE**.

@@ -19,7 +19,7 @@ From there you have to follow the instructions:
 
 Now, Login to your **Admin Panel** ->  **Integrations**  ->  **2checkout**  and fill  **Merchant Code**  and  **Secret Word**  fields. You can find these values in your 2checkout dashboard (see the image below).
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/2checkout.png)
+![](/assets/images/2checkout.png)
 
 *This guide will teach you how to configure your 2checkout account so that it works with your Yclas website.*
 

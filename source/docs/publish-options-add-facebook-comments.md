@@ -20,16 +20,16 @@ This feature requires  two steps  one on  **Facebook side**  and one on  **Yclas
 1.  First, please access https://developers.facebook.com on your preferred computer device.
 2.  Click on  **Apps**.  (register as a developer if you haven’t already)
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/fb1.png)
+![](/assets/images/fb1.png)
 
 
 3. Click on  **New App**  and name it whatever you want.
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/fb2.png)
+![](/assets/images/fb2.png)
 
 4.  **Copy the App ID**  that shows up after creation.
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/fb3.png)
+![](/assets/images/fb3.png)
 
 ## Yclas side
 

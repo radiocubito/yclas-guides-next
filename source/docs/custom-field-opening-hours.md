@@ -9,7 +9,7 @@ section: content
 
 Allow users to specify the opening hours for an ad.
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/opening-hours-1.png)
+![](/assets/images/opening-hours-1.png)
 
 This guide explains how to give publishers the option to specify the opening hours in their ads:
 
@@ -21,7 +21,7 @@ This guide explains how to give publishers the option to specify the opening hou
 
 With **openinghours** custom field created, publishers have the option to specify the opening hours in their ads.
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/opening-hours-2.png)
+![](/assets/images/opening-hours-2.png)
 
 
 

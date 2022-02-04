@@ -19,7 +19,7 @@ Let’s say you have published an ad with two images. This is how it is displaye
 
 If you want to change the primary image,  click “Edit” on the ad then select **“Primary Image”**  on the image you want to mark as primary.
 
- ![](https://raw.githubusercontent.com/yclas/guides/master/images/listings22.jpg)
+ ![](/assets/images/listings22.jpg)
 
 
 

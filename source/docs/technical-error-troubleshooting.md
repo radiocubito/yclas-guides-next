@@ -9,7 +9,7 @@ section: content
 
 **Have you seen this page?**
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/1.png)
+![](/assets/images/1.png)
 
 
 Don’t worry,  it is not as complicated as it may seems.
@@ -18,7 +18,7 @@ Don’t worry,  it is not as complicated as it may seems.
 
 To troubleshoot, please login to your   **Admin Panel**  >  **Tools**  >  **Logs**, then you will see something like:
 
-![](https://raw.githubusercontent.com/yclas/guides/master/images/internal-server-error-1.png)
+![](/assets/images/internal-server-error-1.png)
 
 Here are the error logs that happened in the application and a bit of explanation of what’s going on.
 
