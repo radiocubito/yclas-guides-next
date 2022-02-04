@@ -15,7 +15,7 @@ Smartarget has 20 apps that helps websites, especially eCommerce, to have a bett
 
 2. Configure your app and get your Smartarget ID.
 
-![upload1](https://raw.githubusercontent.com/yclas/guides/master/images/smartarget.png)
+![upload1](/assets/images/smartarget.png)
 
 3. Go to your **Yclas Admin panel -> Integrations -> Smartarget**.
 

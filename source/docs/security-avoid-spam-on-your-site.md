@@ -21,7 +21,7 @@ The best option is to moderate the ads. With this, you make sure you don’t get
 
 Login to your **Admin Panel** ->  **Configuration** -> **Settings > General**  > Opens your general site's settings. Set the Moderation option on **“Moderation On”**.
 
-![moderation](https://raw.githubusercontent.com/yclas/guides/master/images/moderation.png)
+![moderation](/assets/images/moderation.png)
 
 
 

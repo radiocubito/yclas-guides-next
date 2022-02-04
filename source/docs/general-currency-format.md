@@ -19,7 +19,7 @@ One of the most commonly asked question by our users is how to deal with the  cu
 
 You can go to  **Settings**  >  **General**  >  **Regional configuration**  and select your preferred currency. Once you press  **Save**, then the currency will show next to each amount.
 
-![currency](https://raw.githubusercontent.com/yclas/guides/master/images/currency.jpg)
+![currency](/assets/images/currency.jpg)
 
 ## List of currency formats
 

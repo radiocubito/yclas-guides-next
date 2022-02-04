@@ -34,6 +34,6 @@ Now Auto-Data API is enabled, and the required fields are created. You, the car 
 2.  **Make:** select the Brand to make all of its generations available in the "Generation" dropdown menu.
 3.  **Model:** select the generation of the car.
 
-![carad](https://raw.githubusercontent.com/yclas/guides/master/images/auto-data-1.png)
+![carad](/assets/images/auto-data-1.png)
 
-![carad1](https://raw.githubusercontent.com/yclas/guides/master/images/auto-data-2.png)
+![carad1](/assets/images/auto-data-2.png)

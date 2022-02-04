@@ -73,9 +73,9 @@ Now CarQuery is enabled and the required fields are created. You, the car dealer
 2.  **Make:**  select the manufacturer to make all of its models available in the “Model” dropdown menu.
 3.  **Model:**  select the model of the car.
 
-![carad](https://raw.githubusercontent.com/yclas/guides/master/images/carad.png)
+![carad](/assets/images/carad.png)
 
-![carad1](https://raw.githubusercontent.com/yclas/guides/master/images/carad1.png)
+![carad1](/assets/images/carad1.png)
 
 
 

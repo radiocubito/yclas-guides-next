@@ -17,7 +17,7 @@ Follow these steps to verify a user:
 3.  Go to **Configure -> Settings - > Custom Fields**  ->  **New Field**.
 4.  Enter  **verifiedbadge** as the new field's name, choose  **Checkbox** as a type  and tick the  **Searchable** option.  You have to fill the fields Label and Tooltip and press  **Save**.
 
-![verifieduser](https://raw.githubusercontent.com/yclas/guides/master/images/verifieduser.png)
+![verifieduser](/assets/images/verifieduser.png)
 
 After the custom field is created, you can edit it direclty from **Manage** -> **Users** -> **Edit**  and update it in the user's profile. 
 

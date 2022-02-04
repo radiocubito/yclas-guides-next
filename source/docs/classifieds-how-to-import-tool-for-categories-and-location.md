@@ -24,7 +24,7 @@ We have the solution for you. You can use an easy import tool to add all of your
 3.  Click  **Import**.
 4.  Upload CSV files for your categories.
 
-![import-categories](https://raw.githubusercontent.com/yclas/guides/master/images/import%20categories.jpg)
+![import-categories](/assets/images/import%20categories.jpg)
 
 You can find an example of the correct CSV format [here](/assets/samples/import_categories_example.csv)
 

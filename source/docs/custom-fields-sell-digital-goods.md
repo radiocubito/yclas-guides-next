@@ -59,7 +59,7 @@ If this feature is properly configured, the result should be this:
 ![](https://github.com/yclas/guides/blob/master/images/newcustomfield4.png)
 
 4. Copy your  **API key**  and paste it to your website  **Admin Panel** ->  **Configure**  ->  **Integrations**  ->  **Google Picker**  ->  **Google Picker API Key** .[](https://github.com/yclas/guides/blob/master/images/ncs5.png)
-![Google picker](https://raw.githubusercontent.com/yclas/guides/master/images/google%20picker.png)
+![Google picker](/assets/images/google%20picker.png)
 
 5. Choose  **Credentials**  on the left sidebar and click  **Create Credentials**  ->  **OAuth Client ID**.
 6. Click  **Configure consent screen**.

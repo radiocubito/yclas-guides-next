@@ -35,7 +35,7 @@ You can use this easy import tool to add all of your users with a press of a but
 -   Go to  **Tools**  >  **Import Users**.
 -   Click  **Choose File**  to select your CVS file and then press  **Upload**.
 
-![import users](https://raw.githubusercontent.com/yclas/guides/master/images/import%20users.png)
+![import users](/assets/images/import%20users.png)
 
 -   Click  on **Process**  in the right box, named "**Process Queue**".
 

@@ -19,7 +19,7 @@ section: content
 7. The new forum section is already displayed on your website.
 
 
-![first forum](https://raw.githubusercontent.com/yclas/guides/master/images/fisrt%20forum.png)
+![first forum](/assets/images/fisrt%20forum.png)
 
 
 With our latest release, we added the option to have a fully functional forum section within your classifieds website. 

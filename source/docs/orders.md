@@ -56,11 +56,11 @@ You can login to your **Admin panel** ->then under **Manage**, you can see the c
 -  **Id Coupon->** - This field enables you to use a coupon for your order.
 
 
-![order111](https://raw.githubusercontent.com/yclas/guides/master/images/order111.png)
+![order111](/assets/images/order111.png)
 
 
 When you use the scroll , you can see the rest of the fields for your order. Also, the options  **Edit** , **Mark as paid** or **See order**.
-![order2](https://raw.githubusercontent.com/yclas/guides/master/images/order2.png)
+![order2](/assets/images/order2.png)
 
 
 # Update your order
@@ -72,4 +72,4 @@ You can update your order at any time. You have to go to your **Admin panel** ->
 
 If you want to find a particular order you can use the filter option at the top of the page. 
 
-![filter option1](https://raw.githubusercontent.com/yclas/guides/master/images/filter%20option1.png)
+![filter option1](/assets/images/filter%20option1.png)

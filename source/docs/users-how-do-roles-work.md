@@ -20,16 +20,16 @@ Follow the steps:
  -  Click  **New** button then fill in all of the necessary infromation including **Role**.  Choose between:  translator,  moderator and  admin.
  -  Click  **Submit**.
 
-![newuser](https://raw.githubusercontent.com/yclas/guides/master/images/newuser.png)
+![newuser](/assets/images/newuser.png)
 
 **b)**  If you want to  **Edit**  an already created user's profile.  
 1. When you click on **Edit**, the selected user's profile will open and you'll be able to change any information and settings.  
 
-![useredit](https://raw.githubusercontent.com/yclas/guides/master/images/useredit.png)
+![useredit](/assets/images/useredit.png)
 
 2. To edit a user's assigned role, click on **Role** and select another role from the list.   
 
-![userrole](https://raw.githubusercontent.com/yclas/guides/master/images/userroles.png)
+![userrole](/assets/images/userroles.png)
   
   ## Roles and functions
     

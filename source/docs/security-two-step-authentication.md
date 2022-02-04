@@ -16,7 +16,7 @@ This feature gives you and your users two-factor authentication. You can protect
 3.  Activate  **Google Authenticator**.
 4.  Click  **Save**.
 
-![2step](https://raw.githubusercontent.com/yclas/guides/master/images/2step.png)
+![2step](/assets/images/2step.png)
 
 ## How to enable the two-step authentication on your profile:
 
@@ -26,12 +26,12 @@ This feature gives you and your users two-factor authentication. You can protect
 4.  Run the app on your mobile phone, click  **Set up account**  from the options and  **scan the QR code**.
 5.  In the “2 Step Authentication” section, scan the QR code. 
 
-![editprofile](https://raw.githubusercontent.com/yclas/guides/master/images/editprofile.png)
+![editprofile](/assets/images/editprofile.png)
 
 6. Once the QR code is scanned, you will see the account created with a verification code. (There’s no need to write down or memorize the verification code because it changes every 30 seconds.)
 7. Now you will be redirected to enter the verification code and press “Send”. If the code is valid 2 Step Authentication will be enabled, otherwise you will have to scan QR code and enter the verification code again.
 
-![2step1](https://raw.githubusercontent.com/yclas/guides/master/images/2step1.png)
+![2step1](/assets/images/2step1.png)
 
 ## How to use it:
 

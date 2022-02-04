@@ -26,7 +26,7 @@ A thumb is a small image resized to fit certain elements.
 -   **Thumb height**  (in pixels): This is the height of the thumb.
 -   **Thumb width**  (in pixels): This is the width of the thumb.
 
-![thumwater](https://raw.githubusercontent.com/yclas/guides/master/images/thumbwater.png)
+![thumwater](/assets/images/thumbwater.png)
 
 
 -   **Watermark path:**  Relative path to the image to use as watermark.
@@ -34,7 +34,7 @@ A thumb is a small image resized to fit certain elements.
 -   **Watermark position:**  You can select where you want the watermark to be placed.
 -   **Disallow nude pictures:**  Restrict likely nude pictures that are being uploaded to your server.
     
- ![waterpath](https://raw.githubusercontent.com/yclas/guides/master/images/watermakrpath.png)   
+ ![waterpath](/assets/images/watermakrpath.png)
  
  
 <iframe width="100%" height="400px" src="https://www.youtube.com/embed/sIZS11AzmjA" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

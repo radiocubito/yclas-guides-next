@@ -11,7 +11,7 @@ Yclas gives you the option to  **_view_**  and  **_edit_**  the orders made in y
 
 When orders placed by users, they will appear on  the **Admin Panel**. From there, you can click on **Classifieds**  then go to ->  **Orders**.  _Note that only the administrator of the website has access to that area!_
 
-![orders](https://raw.githubusercontent.com/yclas/guides/master/images/orders.jpg)
+![orders](/assets/images/orders.jpg)
 
 
 
@@ -19,7 +19,7 @@ Here, you can view the orders made in your website as well as their details:  **
 
 You can also edit these details by clicking on the button displayed below:
 
-![orderedit](https://raw.githubusercontent.com/yclas/guides/master/images/order%20edit1.jpg)
+![orderedit](/assets/images/order%20edit1.jpg)
 
 Next to the **Edit** button, you have the options to **Mark as paid** or **See order**. 
 

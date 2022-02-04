@@ -16,7 +16,7 @@ section: content
 
 While Maintenance Mode is being activated, anyone who tries to access your website will see following page:
 
-![maintain](https://raw.githubusercontent.com/yclas/guides/master/images/Maintain.jpg)
+![maintain](/assets/images/Maintain.jpg)
 
 They'll be able to see the whole website only by logging in.
 

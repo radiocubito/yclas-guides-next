@@ -66,7 +66,7 @@ Facebook auto post allows you to configure your site to automatically post to a 
 
 4. Choose  **App Review**  on the left sidevar and enable the option to make your App public.
 
-![]([https://raw.githubusercontent.com/yclas/guides/master/images/sc6.png](https://raw.githubusercontent.com/yclas/guides/master/images/sc6.png)
+![]([/assets/images/sc6.png](/assets/images/sc6.png)
 
 5. Visit the  [Facebook Graph API Explorer page](https://developers.facebook.com/tools/explorer/)
 

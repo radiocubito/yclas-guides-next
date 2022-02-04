@@ -19,7 +19,7 @@ Integrate Pinterest into your website!
 
 If you still don't know how to find your App ID, App Secret or Board, read more [here](https://developers.pinterest.com/docs/api/overview/?)
 
-![Pinterest](https://raw.githubusercontent.com/yclas/guides/master/images/pinterest.png)
+![Pinterest](/assets/images/pinterest.png)
 
 If you still don't know how to find your App ID, App Secret or Board, read more [here](https://developers.pinterest.com/docs/api/overview/?)
 

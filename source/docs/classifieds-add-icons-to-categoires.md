@@ -34,5 +34,5 @@ If you decide to change or delete your image, kindly click the red button with *
 3.  Select an icon from the library.
 4.  Click  **Submit**.
 
-![iconfont](https://raw.githubusercontent.com/yclas/guides/master/images/iconfont.png)
+![iconfont](/assets/images/iconfont.png)
   

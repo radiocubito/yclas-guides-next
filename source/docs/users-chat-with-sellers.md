@@ -19,11 +19,11 @@ In order to advertise directly on Whatsapp, Skype or Telegram you need to create
 
 Now users can enter their  **phone number**  and use Whatsapp for messaging and advertising.
 
-![customfield](https://raw.githubusercontent.com/yclas/guides/master/images/customfield.png)
+![customfield](/assets/images/customfield.png)
 
 **Remember:**  It’s important to enter  **whatsapp**  in the name field while creating the custom field.
 
-![whatsapp](https://raw.githubusercontent.com/yclas/guides/master/images/whatsapp.png)
+![whatsapp](/assets/images/whatsapp.png)
 
 
 ## Skype
@@ -48,7 +48,7 @@ Users can enter their  **telegram username**  to this field on register page or 
 
 ## The result.
 
-![messageusers](https://raw.githubusercontent.com/yclas/guides/master/images/messageusers.png)
+![messageusers](/assets/images/messageusers.png)
 
 ![](/assets/images/chat-seller.png)
 

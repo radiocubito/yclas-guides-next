@@ -13,7 +13,7 @@ section: content
 ### Site Stats
 **Site Statistics** are available in your **Admin Panel -> Stats**. You will be able to view the following: **number of ads**, **contact details**, **new users**, **paid orders**, **sales** and **visits** to your site.
 
-![Stats](https://raw.githubusercontent.com/yclas/guides/master/images/stas.png)
+![Stats](/assets/images/stas.png)
 
 
 ### Advertisement Stats
@@ -21,4 +21,4 @@ section: content
 
 You can view this by logging in to your **Admin Panel** -> **Click Profile dropdown menu** -> **My Advertisements** -> **Click Stats**
 
-![Ads](https://raw.githubusercontent.com/yclas/guides/master/images/advertisement.png)
+![Ads](/assets/images/advertisement.png)

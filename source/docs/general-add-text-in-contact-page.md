@@ -17,7 +17,7 @@ To do this, just  follow these simple steps:
 ![](/assets/images/contact%20page%20final.png)
 - **Save** the changes, and you are ready.
 
-![contact page display](https://raw.githubusercontent.com/yclas/guides/master/images/contact%20page%20display.png)
+![contact page display](/assets/images/contact%20page%20display.png)
 
 
 

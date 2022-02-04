@@ -34,7 +34,7 @@ Steps to follow:
 -   **Marketplace Fee:**  If  [Marketplace feature](/docs/payment-set-up-marketplace-with-srtipe-connect-express)  is activated then seller is charged this fee instead of the one is configured.
 -   **Status:**  If is checked, the plan is activated. Uncheck if you want to deactivate the plan.
 
-![membership](https://raw.githubusercontent.com/yclas/guides/master/images/membership.png)
+![membership](/assets/images/membership.png)
 
 ### Subscription Expire
 
@@ -46,7 +46,7 @@ To enable or disable this option, go to back to **Configure**  ->  **Addons** ->
 
 With this option enabled, when users mark an ad as sold, they will have one extra ad on their membership.
 
-![Mark as sold](https://raw.githubusercontent.com/yclas/guides/master/images/extra-ad-on-mark-as-sold.png)
+![Mark as sold](/assets/images/extra-ad-on-mark-as-sold.png)
 
 To enable or disable this option, go to back to **Configure**  ->  **Addons** ->  **Subscriptions / Memberships**  ->  **Give extra ad on mark as sold**. You can check the box to enable this feature.
 
@@ -54,7 +54,7 @@ To enable or disable this option, go to back to **Configure**  ->  **Addons** ->
 
 When users click to  **Publish new ad**, they will be redirected to the pricing page where they can choose among the membership plans. Once they subscribe and pay, they will be able to post.
 
-![pricing](https://raw.githubusercontent.com/yclas/guides/master/images/pricing.png)
+![pricing](/assets/images/pricing.png)
 
 Users can find information about their subscription at the bottom of the  **Edit profile**  page.
 

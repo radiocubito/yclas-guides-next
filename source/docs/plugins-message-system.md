@@ -30,10 +30,10 @@ Now, buyers can contact the seller through the messaging system.
 
 On advertisement’s page, click  **Send Message**. A contact form will appear in a popup window, where you can write your message to the seller, the price you want to pay for the productc or service of an ad, and fill out the captcha field.
 
-![messagesystem](https://raw.githubusercontent.com/yclas/guides/master/images/messagesystem.png)
+![messagesystem](/assets/images/messagesystem.png)
 
 
-![messagesystem1](https://raw.githubusercontent.com/yclas/guides/master/images/messagesystem1.png)
+![messagesystem1](/assets/images/messagesystem1.png)
 
 
 If your message has been sent, you will be able to see it on your  **Messages**.
@@ -66,4 +66,4 @@ You will see that the messages will no longer appear in your inbox.
 
 There’s an additional option to enable sellers to create custom orders, which means sellers can create a custom order when negotiating a price in the messaging system and let the buyer pay the order created. To enable this option, check the box that’s displayed next to the option.
 
-![customorder](https://raw.githubusercontent.com/yclas/guides/master/images/custom-order.png)
+![customorder](/assets/images/custom-order.png)

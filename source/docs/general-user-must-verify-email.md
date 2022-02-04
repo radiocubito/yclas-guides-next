@@ -9,7 +9,7 @@ section: content
 
 The **“User must verify email”** option could be useful if you want to require users to verify their email addresses after register.
 
-![Email verification](https://raw.githubusercontent.com/yclas/guides/master/images/user-must-verify-email.png)
+![Email verification](/assets/images/user-must-verify-email.png)
 
 Follow the steps above to require email verification:
 

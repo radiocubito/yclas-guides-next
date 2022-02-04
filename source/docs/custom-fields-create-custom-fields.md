@@ -22,7 +22,7 @@ To create a new field, login to your **Admin Panel** ->  **Classifieds**  ->  **
 
 Then click  **New Field**  button on the right corner.
 
-![customfiledcreate](https://raw.githubusercontent.com/yclas/guides/master/images/customfieldcreate.png) 
+![customfiledcreate](/assets/images/customfieldcreate.png)
 
 
 This is a  **New Custom Field**  screen. There are 10 options in total.

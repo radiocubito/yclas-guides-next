@@ -31,7 +31,7 @@ So you’ve registered your site with Google and now you want to activate it, ju
 5.  Place your website’s ‘Secret Key’ in the  **reCAPTCHA Secret Key**  input box. v2 of recaptcha.
 6.  Click the  **Save**  button.
 
-![recaptcha](https://raw.githubusercontent.com/yclas/guides/master/images/recaptcha.png)
+![recaptcha](/assets/images/recaptcha.png)
 
 ![recaptcha3](https://user-images.githubusercontent.com/55290441/80510750-d2e27900-8983-11ea-9a13-3eca197471c9.png)
 

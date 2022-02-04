@@ -24,7 +24,7 @@ You can integrate Clickatell or 2Factor.in service providers.
 6.  If your Clickatell integration is a two-way messaging type, paste your Two-way phone number into the  **Clickatell Phone Number**  field.
 7.  Click  **Save**.
 
-![clickatel](https://raw.githubusercontent.com/yclas/guides/master/images/clickatel.png)
+![clickatel](/assets/images/clickatel.png)
 
 Now customers that set a **phone number** in the profile will have the two-step sms authentication.
 

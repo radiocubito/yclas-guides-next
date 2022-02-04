@@ -16,7 +16,7 @@ The **Home**  page (with slider and selection of categories),  **Listing**  page
 3.  Find the field **Landing page** and choose between  **Home**,  **Listing**  or  **Users**
 4.  Click  **Save**.
 
-![landing page](https://raw.githubusercontent.com/yclas/guides/master/images/landing%20page.png)
+![landing page](/assets/images/landing%20page.png)
 
 
 <iframe width="100%" height="400px" src="https://www.youtube.com/embed/nPIkekJakTQ" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
