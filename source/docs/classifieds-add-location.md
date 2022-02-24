@@ -91,7 +91,7 @@ New locations now will be available to choose in  **Publish New Advertisement** 
 
 ### Import Locations
 
-You can also add locations by importing them. Use  [this example file](/assets/samples/import_locations_example.csv)  to create yours and simply import locations into your website. For more information, follow  [this guide.](/docs/classifieds-how-to-import-tool-for-categories-and-location)
+You can also add locations by importing them. Use  [this example file](/assets/samples/import_locations_example.zip)  to create yours and simply import locations into your website. For more information, follow  [this guide.](/docs/classifieds-how-to-import-tool-for-categories-and-location)
 
 ## How to add sub-locations
 

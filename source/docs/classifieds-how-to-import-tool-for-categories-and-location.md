@@ -26,7 +26,7 @@ We have the solution for you. You can use an easy import tool to add all of your
 
 ![import-categories](/assets/images/import%20categories.jpg)
 
-You can find an example of the correct CSV format [here](/assets/samples/import_categories_example.csv)
+You can find an example of the correct CSV format [here](/assets/samples/import_categories_example.zip)
 
   ## Import Locations
 

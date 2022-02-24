@@ -56,7 +56,7 @@ Login into your **Admin Panel**, go to  **Settings**  ->  **Coupons**, click on 
 ![coupon8](https://user-images.githubusercontent.com/55290441/80603323-eb609b00-8a38-11ea-953d-05415bf4a713.png)
 
 
-You can use this tool for example if your provider sends you the coupons.  [Here’s a sample CSV file](/assets/samples/import_coupons_example.csv).
+You can use this tool for example if your provider sends you the coupons.  [Here’s a sample CSV file](/assets/samples/import_coupons_example.zip).
 
 ## Edit Coupons
 
