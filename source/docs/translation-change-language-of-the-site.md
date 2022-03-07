@@ -7,8 +7,8 @@ section: content
 
 # How to change the language of your site?
 Content:
--   How to change language
--   Available locales
+- How to change language
+- Available locales
 
 
 ## How to change language

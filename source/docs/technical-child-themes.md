@@ -28,13 +28,13 @@ There are a couple of reasons why you should use child themes when applying modi
 
 ## How to use child themes
 
--   Go to your FTP or file manager, navigate to /themes/
--   Create a new folder there with a name you choose for your child theme
--   Navigate to the parent theme that you want to do modifications on
--   Copy the init.php file and paste it in your child theme folder
--   Paste the below code in the top of your init.php file
--   Login to your admin panel
--   Activate your child theme
+- Go to your FTP or file manager, navigate to /themes/
+- Create a new folder there with a name you choose for your child theme
+- Navigate to the parent theme that you want to do modifications on
+- Copy the init.php file and paste it in your child theme folder
+- Paste the below code in the top of your init.php file
+- Login to your admin panel
+- Activate your child theme
 
 **Here is an example of what you will see on your child theme init.php file:**
 

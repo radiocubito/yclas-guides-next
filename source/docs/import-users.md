@@ -31,13 +31,13 @@ Now it’s possible to import users with custom fields. All you need to do is to
 
 You can use this easy import tool to add all of your users with a press of a button. You simply need to follow those steps:
 
--   Log into your  **Admin Panel**.
--   Go to  **Tools**  >  **Import Users**.
--   Click  **Choose File**  to select your CVS file and then press  **Upload**.
+- Log into your  **Admin Panel**.
+- Go to  **Tools**  >  **Import Users**.
+- Click  **Choose File**  to select your CVS file and then press  **Upload**.
 
 ![import users](/assets/images/import%20users.png)
 
--   Click  on **Process**  in the right box, named "**Process Queue**".
+- Click  on **Process**  in the right box, named "**Process Queue**".
 
 Now, you can see the imported users on  **Manage**  ->  **Users**.
 

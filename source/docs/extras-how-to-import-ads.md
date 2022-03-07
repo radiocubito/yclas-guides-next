@@ -45,10 +45,10 @@ For example, if you have a custom field called “currency_name” in your site,
 
 You can use this easy import tool to add all of your ads with a press of a button. You simply need to follow those steps:
 
--   Log into your  **Admin Panel**.
--   Go to  **Tools**  >  **Import Ads**.
--   Click on  **Choose File**  to select your CVS file and then press  **Upload**.
--   Now click on **Process**  on the **Process Queue** box which is displayed on the right side of the page.
+- Log into your  **Admin Panel**.
+- Go to  **Tools**  >  **Import Ads**.
+- Click on  **Choose File**  to select your CVS file and then press  **Upload**.
+- Now click on **Process**  on the **Process Queue** box which is displayed on the right side of the page.
 
 You can now see the imported ads on **Manage** -> **Advertisements**.
 
@@ -58,6 +58,6 @@ You can now see the imported ads on **Manage** -> **Advertisements**.
 
 **Related posts:**
 
--   [How to use import tool for categories and locations?](/docs/classifieds-how-to-import-tool-for-categories-and-location)
+- [How to use import tool for categories and locations?](/docs/classifieds-how-to-import-tool-for-categories-and-location)
 
--   [How to manage advertisements?](/docs/classifieds-manage-advertisements)
+- [How to manage advertisements?](/docs/classifieds-manage-advertisements)

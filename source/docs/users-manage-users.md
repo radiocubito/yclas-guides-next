@@ -15,11 +15,11 @@ To manage your website users, login to your **Admin Panel** -> **Users**  ->  **
 
 ## Actions
 
--   **Edit->**  Edit an username, email, description, status, [role](/docs/users-how-do-roles-work), rate, password, etc.
--   **Delete->**  Delete this user permanently.
--   **View Ads->**  Display all the ads created by this user.
--   **View Orders->**  Display all the orders placed by this user.
--   **Mark as spam->**  Mark this user as spam. Check out.  [this guide](/docs/plugins-activate-black-list)
+- **Edit->**  Edit an username, email, description, status, [role](/docs/users-how-do-roles-work), rate, password, etc.
+- **Delete->**  Delete this user permanently.
+- **View Ads->**  Display all the ads created by this user.
+- **View Orders->**  Display all the orders placed by this user.
+- **Mark as spam->**  Mark this user as spam. Check out.  [this guide](/docs/plugins-activate-black-list)
   for more information.
   
   

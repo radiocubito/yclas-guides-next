@@ -15,7 +15,7 @@ In this guide, you can read all of the information on configuring media settings
 
 *   [Add watermark](/docs/media-settings-add-watermark)
 
-     -    Activate the watermark and use it on all of the images on your site.
+     -  Activate the watermark and use it on all of the images on your site.
 
 *   [Configure Amazon S3](/docs/media-settings-amazon-s3)
 

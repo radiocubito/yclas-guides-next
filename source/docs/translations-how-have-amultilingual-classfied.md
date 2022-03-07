@@ -20,15 +20,15 @@ After that, a list with your selected languages will appear in your website so u
 
 **Pros**:
 
--   Easy to activate.
--   Share the same users and ads database.
--   The same domain.
--   The same theme license.
+- Easy to activate.
+- Share the same users and ads database.
+- The same domain.
+- The same theme license.
 
 **Cons:**
 
--   Ads don’t have language attribute, this means you can not filter by language.
--   Categories and locations are not filter by language either, so once you write a category name it would be the same for all languages.
+- Ads don’t have language attribute, this means you can not filter by language.
+- Categories and locations are not filter by language either, so once you write a category name it would be the same for all languages.
 
 **I don’t like this option at all**. As a better alternatives and also better for SEO, we recommend the  **3 other options**.
 How to configure:
@@ -46,17 +46,17 @@ This is probably the best option, imagine you have: MyDomain.com, and you want t
 
 **Pros**:
 
--   Better SEO per domain language, MAKES A HUGE difference.
--   You can use the same design.
--   Users are not confused or lost between languages.
--   If you want, you can add a localized server for the domain extension, so the domain is in the language of the country.
+- Better SEO per domain language, MAKES A HUGE difference.
+- You can use the same design.
+- Users are not confused or lost between languages.
+- If you want, you can add a localized server for the domain extension, so the domain is in the language of the country.
 
 **Cons:**
 
--   You need a license for each domain for your premium theme.
--   You need different domain names (that cost money).
--   Separate administration of the site, software updates and moderation.
--   Maybe more expenses on hosting.
+- You need a license for each domain for your premium theme.
+- You need different domain names (that cost money).
+- Separate administration of the site, software updates and moderation.
+- Maybe more expenses on hosting.
 
   
 
@@ -66,16 +66,16 @@ If you don’t want to have many domains and you want to save some money then th
 
 **Pros**:
 
--   It’s better SEO per domain language.
--   You can use the same design.
--   The user will not be confused nor lost between the two different languages.
--   Same domain / hosting.
--   If you want, you can add a localized server for the sub-domain, so the sub-domain is in the language of the country.
--   1 license works on as many subdomains as you want.
+- It’s better SEO per domain language.
+- You can use the same design.
+- The user will not be confused nor lost between the two different languages.
+- Same domain / hosting.
+- If you want, you can add a localized server for the sub-domain, so the sub-domain is in the language of the country.
+- 1 license works on as many subdomains as you want.
 
 **Cons:**
 
--   Separate administration of the site, software updates and moderation
+- Separate administration of the site, software updates and moderation
 
   
 
@@ -85,17 +85,17 @@ If you don’t want to have many domains/sub domain and save some money maybe th
 
 **Pros**:
 
--   You can use the same design, theme and license.
--   The same domain / hosting.
--   The same license.
+- You can use the same design, theme and license.
+- The same domain / hosting.
+- The same license.
 
 **Cons:**
 
--   Separate administration of the site, software updates and moderation.
+- Separate administration of the site, software updates and moderation.
 
 **How to configure:**
 
--   You simply do a  [new installation](yclas-self-hosted-installation-insatallation) in a new folder within your website, follow the screenshot below to see how to do it using Softaculous.
+- You simply do a  [new installation](yclas-self-hosted-installation-insatallation) in a new folder within your website, follow the screenshot below to see how to do it using Softaculous.
 ![](/assets/images/multilingual.png)
   
   

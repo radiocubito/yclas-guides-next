@@ -8,12 +8,12 @@ section: content
 # Website Content localization
 
 Content:
--   Show relevant advertisements
-    -   Prerequisites
-    -   Workflow
--   Currency Converter Widget
--   Interactive Map
--   Translation
+- Show relevant advertisements
+    - Prerequisites
+    - Workflow
+- Currency Converter Widget
+- Interactive Map
+- Translation
 
 ## Show relevant advertisements
 

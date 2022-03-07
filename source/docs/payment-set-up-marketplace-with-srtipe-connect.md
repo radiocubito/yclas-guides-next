@@ -15,7 +15,7 @@ You (site owner) set your site to get 3% commission for each sale made via your 
 
 ### Prerequisites
 
--   Configure your site to user Stripe Connect, see below for more details.
+- Configure your site to user Stripe Connect, see below for more details.
 
 ### Site configuration
 
@@ -47,5 +47,5 @@ You (site owner) set your site to get 3% commission for each sale made via your 
 
 **Related posts:**
 
--   [Buyer Instructions](/docs/custom-fields-buyer-instructions)
--   [How to Setup Payment Gateways](/docs/payment-set-up-payment-gateways)
+- [Buyer Instructions](/docs/custom-fields-buyer-instructions)
+- [How to Setup Payment Gateways](/docs/payment-set-up-payment-gateways)

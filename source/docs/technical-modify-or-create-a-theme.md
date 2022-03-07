@@ -9,7 +9,7 @@ section: content
 # How to modify or create a Theme?
 
 Content:
--   [I bought a Kamaleon premium theme and I want to modify it.]
+- [I bought a Kamaleon premium theme and I want to modify it.]
 
 *This guide is only for Yclas Self-hosted.*
 
@@ -36,8 +36,8 @@ Once you do all that, you have your own custom theme and you can modify any file
 
 Finally, just a quick reminder:
 
--   /themes/THEMENAME/views/ contains the php files with most of the HTML
--   Not all the views are in all the themes, if one is not present in your theme you can copy it from /themes/default/views/
--   /themes/THEMENAME/css/ and /themes/THEMENAME/js/ contains the CSS/JS styles of the site.
+- /themes/THEMENAME/views/ contains the php files with most of the HTML
+- Not all the views are in all the themes, if one is not present in your theme you can copy it from /themes/default/views/
+- /themes/THEMENAME/css/ and /themes/THEMENAME/js/ contains the CSS/JS styles of the site.
 
 We hope that you find this information useful.

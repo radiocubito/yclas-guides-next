@@ -21,13 +21,13 @@ In the quick category creator, add the name of the category, hit  **enter**  on 
 
 3.  **Fill in the fields:**
 
--   **Name->**  Choose a name for the category that will be displayed in a listing, e.g. “Jobs”, “Apartments”. Basically, this field is the most important, the rest are kind of optional.
--   **Order->**  You can choose the order in which the subcategories will be displayed within a parent category. It’s not obligatory - later you can just use “drag & drop” to change the order.
--   **Parent->**  Here you can choose and create main and sub categories. If you choose “Home Category”, that category will become the main one. If a category is choosen as “Parent”, everything within that category is a subcategory.
--   **Seoname->**  A seoname will be auto-generated based on the name of category, but you can change it if you want it to be different.
--   **Description->**  You can add a few words about what is available in this category.
+- **Name->**  Choose a name for the category that will be displayed in a listing, e.g. “Jobs”, “Apartments”. Basically, this field is the most important, the rest are kind of optional.
+- **Order->**  You can choose the order in which the subcategories will be displayed within a parent category. It’s not obligatory - later you can just use “drag & drop” to change the order.
+- **Parent->**  Here you can choose and create main and sub categories. If you choose “Home Category”, that category will become the main one. If a category is choosen as “Parent”, everything within that category is a subcategory.
+- **Seoname->**  A seoname will be auto-generated based on the name of category, but you can change it if you want it to be different.
+- **Description->**  You can add a few words about what is available in this category.
 -  **Icon Font->** Change your design with symblos and glyphs instead of letters or numbers.
--   **Price->**  If you want people to pay for posting in this category, set your price here. Leave blank if it’s free to post.
+- **Price->**  If you want people to pay for posting in this category, set your price here. Leave blank if it’s free to post.
 
 4. Click  **SUBMIT**.
 

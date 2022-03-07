@@ -7,8 +7,8 @@ section: content
 
 # Useful Statistics about your site and advertisements
 Content:
--   Site Stats
--   Advertisement Stats
+- Site Stats
+- Advertisement Stats
 
 There is a variety of tools available in our classified software. 
 

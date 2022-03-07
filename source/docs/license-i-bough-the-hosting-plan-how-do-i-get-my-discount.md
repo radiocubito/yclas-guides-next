@@ -15,9 +15,9 @@ So it is a very good deal.
 
 **Once you do the purchase,  [contact us](https://yclas.com/contact/)  with the following information:**
 
--   The  **e-mail**  you are going to use for purchase.
--   Your  **domain**.
--   Your  **Order ID**, which you can find in your receipt.
+- The  **e-mail**  you are going to use for purchase.
+- Your  **domain**.
+- Your  **Order ID**, which you can find in your receipt.
 
 You can send the above information through the following contact page:
 

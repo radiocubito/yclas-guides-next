@@ -7,10 +7,10 @@ section: content
 
 # How to create Custom Fields?
 
--   Create New Field
--   Edit Custom Field
--   Video 
--   Tricks
+- Create New Field
+- Edit Custom Field
+- Video
+- Tricks
 
 *Note that custom fields are available only on the sites hosted on  [Yclas.com](https://yclas.com/)  and on  [Yclas Self-Hosted Pro](https://selfhosted.yclas.com/themes/yclas-self-hosted-pro.html)*.
  

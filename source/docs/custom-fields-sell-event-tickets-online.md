@@ -9,23 +9,23 @@ section: content
 # Sell event tickets online
 Content:
 -  How it works
--   Prerequisites
--   Create the Event Date field
+- Prerequisites
+- Create the Event Date field
 
 Now sellers can publish an event date to their ads and sell tickets. With this feature, users can sort listings by event date, and a Calendar view is available and buy a ticketed event.
 
 ## How it works
 
--   Seller selects an event date posting his ad.
--   Buyer clicks the Buy Now button and buys a ticketed event.
--   The confirmation email is sent to the buyer, which includes the Order ID and Product ID.
+- Seller selects an event date posting his ad.
+- Buyer clicks the Buy Now button and buys a ticketed event.
+- The confirmation email is sent to the buyer, which includes the Order ID and Product ID.
 
 ## Prerequisites
 
--   **Buy Now button** has to be activated.
+- **Buy Now button** has to be activated.
 -  **Stock Control** has to be activated.
--   **Event date custom field** has to be created.
--   Seller selects the event date while posting the ad.
+- **Event date custom field** has to be created.
+- Seller selects the event date while posting the ad.
 
 ## Create the Event Date field
 
@@ -41,7 +41,7 @@ Done! You can now go to the Publish new page to see the result and your users ca
 
 You can also change the default listing sorting to the event date.
 
--   **Sort by event date in the listing page**: Go to  **_Settings -> Advertisement -> Listing Options -> Sort by in Listing_  and choose Event Date**.
+- **Sort by event date in the listing page**: Go to  **_Settings -> Advertisement -> Listing Options -> Sort by in Listing_  and choose Event Date**.
 
 
 

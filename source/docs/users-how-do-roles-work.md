@@ -35,30 +35,30 @@ Follow the steps:
     
  **Normal  users**  have access to:
 
--   messages
--   myads
--   profile
+- messages
+- myads
+- profile
 
    **Translators**  can access:
 
--   content
--   messages
--   myads
--   profile
--   translations
+- content
+- messages
+- myads
+- profile
+- translations
 
   
 **Moderators**  can access:
 
--   blog
--   category
--   content
--   location
--   menu
--   messages
--   myads
--   profile
--   translations
+- blog
+- category
+- content
+- location
+- menu
+- messages
+- myads
+- profile
+- translations
 
   
 **Admins**  can access all of the areas and functions.

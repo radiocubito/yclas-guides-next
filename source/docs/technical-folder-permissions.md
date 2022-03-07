@@ -14,9 +14,9 @@ This is useful if you are getting an error of folder not writable. It works too 
 
 Please, make sure that at least these folders have correct permissions and ownership:
 
--   /oc/cache
--   /oc/logs
--   /images
+- /oc/cache
+- /oc/logs
+- /images
 
 Example on how to do it:
 

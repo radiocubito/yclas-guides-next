@@ -25,14 +25,14 @@ Steps to follow:
 3.  Fill the fields.
 4.  Click  **Submit**.
 
--   **Name:**  The name of the plan.
--   **Seoname:**  Friendly name for url.
--   **Description:**  Enter a description for the plan.
--   **Price:**  The price that users will be charged to subscribe to the plan.
--   **Days:**  The number of days that the plan renews.
--   **Amount Ads:**  The amount of ads that users can publish before their plan expires.
--   **Marketplace Fee:**  If  [Marketplace feature](/docs/payment-set-up-marketplace-with-srtipe-connect-express)  is activated then seller is charged this fee instead of the one is configured.
--   **Status:**  If is checked, the plan is activated. Uncheck if you want to deactivate the plan.
+- **Name:**  The name of the plan.
+- **Seoname:**  Friendly name for url.
+- **Description:**  Enter a description for the plan.
+- **Price:**  The price that users will be charged to subscribe to the plan.
+- **Days:**  The number of days that the plan renews.
+- **Amount Ads:**  The amount of ads that users can publish before their plan expires.
+- **Marketplace Fee:**  If  [Marketplace feature](/docs/payment-set-up-marketplace-with-srtipe-connect-express)  is activated then seller is charged this fee instead of the one is configured.
+- **Status:**  If is checked, the plan is activated. Uncheck if you want to deactivate the plan.
 
 ![membership](/assets/images/membership.png)
 

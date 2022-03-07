@@ -7,8 +7,8 @@ section: content
 
 # How to add a watermark?
 Content:
--   Yclas.com
--   Yclas Self-hosted
+- Yclas.com
+- Yclas Self-hosted
 
 We all want our classifieds advertisements to stand out from the competition. An important part of those advertisements are the pictures that users upload to your classified ads website. This are unique pictures that your customers upload.  **If you don’t want others to clone those pictures and preserve their origin, you can activate the watermark on the pictures options**.
 

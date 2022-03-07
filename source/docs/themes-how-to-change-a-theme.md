@@ -9,9 +9,9 @@ section: content
 
 Content:
 
--   Changing theme - steps to follow
--   Buying new themes and installation
--   Modifying themes
+- Changing theme - steps to follow
+- Buying new themes and installation
+- Modifying themes
 
 
 ## Changing theme

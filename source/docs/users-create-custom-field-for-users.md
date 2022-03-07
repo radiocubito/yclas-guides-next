@@ -40,5 +40,5 @@ Login to your **Admin Panel** ->  **Users**  ->  **User Custom Fields** ->  **Ne
   
 **Related posts:**
 
--   [How to create Custom Fields?](/docs/custom-fields-create-custom-fields)
--   [How to use shipping custom field](/docs/custom-fields-how-to-use-shipping-custom-field)
+- [How to create Custom Fields?](/docs/custom-fields-create-custom-fields)
+- [How to use shipping custom field](/docs/custom-fields-how-to-use-shipping-custom-field)

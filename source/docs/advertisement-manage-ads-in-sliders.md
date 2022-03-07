@@ -17,10 +17,10 @@ The slider is considered one of the main parts in a classifieds site homepage, i
  
 The  **available options**  are:
 
--   **Latest ads:**  It shows the last ads published at your website.
--   **Featured ads:**  Displays ads that you chose to be featured.
--   **Featured Ads Random:**  Displays ads which are featured in random order.
--   **Popular Ads last month:**  Displays ads with most clicks/views during the past month.
+- **Latest ads:**  It shows the last ads published at your website.
+- **Featured ads:**  Displays ads that you chose to be featured.
+- **Featured Ads Random:**  Displays ads which are featured in random order.
+- **Popular Ads last month:**  Displays ads with most clicks/views during the past month.
 
 
 <iframe width="100%" height="400px" src="https://www.youtube.com/embed/dNboEQvGkpI" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -29,5 +29,5 @@ The  **available options**  are:
 
 **Related posts:**
 
--   [How to manage advertisements](/docs/advertisement-change-settings-for-ads)
+- [How to manage advertisements](/docs/advertisement-change-settings-for-ads)
 

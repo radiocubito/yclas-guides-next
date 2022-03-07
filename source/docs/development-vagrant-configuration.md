@@ -12,18 +12,18 @@ section: content
 
 ### What is installed
 
--   Official Ubuntu Server 14.04 LTS (Trusty Tahr) builds
+- Official Ubuntu Server 14.04 LTS (Trusty Tahr) builds
     
--   Apache2
+- Apache2
     
--   PHP 7
-    -   cURL
-    -   GD
-    -   mysqli
-    -   mcrypt
--   MySQL 5.5
+- PHP 7
+    - cURL
+    - GD
+    - mysqli
+    - mcrypt
+- MySQL 5.5
     
--   Installation file for the latest Yclas Self Hosted
+- Installation file for the latest Yclas Self Hosted
 
 ### Instructions
 

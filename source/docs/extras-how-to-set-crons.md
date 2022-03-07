@@ -40,18 +40,18 @@ If you want to  **add a New Crontab** clik on **New**.
 
 The function needs to be a static method.
 
--   **Name:**  The name of the crontab.
--   **Period:**  When this command will be executed.
--   **Callback:**  The command you want to execute.
--   **Params:**  The parameters the function receives.
--   **Description:**  Description of the crontab.
--   **Date Started:**  Date and time the last execution started.
--   **Date Finished:**  Date and time the last execution finished.
--   **Date Next:**  Date and time of the next execution.
--   **Times Executed:**  How many times this crontab executed.
--   **Output:**  The message returns.
--   **Running:**  Checked if crontab is running.
--   **Active:**  Checked if crontab is active.
+- **Name:**  The name of the crontab.
+- **Period:**  When this command will be executed.
+- **Callback:**  The command you want to execute.
+- **Params:**  The parameters the function receives.
+- **Description:**  Description of the crontab.
+- **Date Started:**  Date and time the last execution started.
+- **Date Finished:**  Date and time the last execution finished.
+- **Date Next:**  Date and time of the next execution.
+- **Times Executed:**  How many times this crontab executed.
+- **Output:**  The message returns.
+- **Running:**  Checked if crontab is running.
+- **Active:**  Checked if crontab is active.
 
 
 

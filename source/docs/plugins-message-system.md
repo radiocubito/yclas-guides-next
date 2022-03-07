@@ -8,10 +8,10 @@ section: content
 # How to use our messaging system
 
 Content:
--   How to enable Messaging System
--   How it works
--   Spam
--   Delete
+- How to enable Messaging System
+- How it works
+- Spam
+- Delete
 
 
 This new feature makes the communication between sellers and buyers regarding an ad much more easy.

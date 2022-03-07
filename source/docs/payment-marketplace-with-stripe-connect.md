@@ -15,8 +15,8 @@ You (site owner) set your site to get 3% commission for each sale made via your 
 
 ### Prerequisites
 
--   Configure your site to user Stripe Connect, see below
--   Your customer needs to have a different Stripe account to receive payments.
+- Configure your site to user Stripe Connect, see below
+- Your customer needs to have a different Stripe account to receive payments.
 
 ### Payment flow
 
@@ -54,4 +54,4 @@ The video are prepared on  [Yclas](https://yclas.com/)  interface but it will be
   
 **Related posts:**
 
--   [Buyer Instructions](/docs/custom-fields-buyer-instructions)
+- [Buyer Instructions](/docs/custom-fields-buyer-instructions)

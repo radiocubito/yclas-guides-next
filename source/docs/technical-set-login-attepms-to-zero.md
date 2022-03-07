@@ -16,9 +16,9 @@ Sometimes you either forget or mistype your password. Almost all of the web serv
 
 If your website is made with the Yclas Self-hosted script, then it works as stated below:
 
-**-   After 3 Failed Login attempts:**  _Login has been temporarily disabled due to too many unsuccessful login attempts. Please try again in a minute._
+**- After 3 Failed Login attempts:**  _Login has been temporarily disabled due to too many unsuccessful login attempts. Please try again in a minute._
     
--   **After 5 Failed Login attempts:**  _Login has been temporarily disabled due to too many unsuccessful login attempts. Please try again in 24 hours._
+- **After 5 Failed Login attempts:**  _Login has been temporarily disabled due to too many unsuccessful login attempts. Please try again in 24 hours._
     
 
 If you have access to phpmyadmin, there is nothing to worry about!  **Follow these steps to set login attempts to 0:**
@@ -35,4 +35,4 @@ Now you will be are able to login into your website.
   
 **Related posts:**
 
--   [How do I create a MySQL database?](/docs/useful-artciles-how-to-use-mysqli)
+- [How do I create a MySQL database?](/docs/useful-artciles-how-to-use-mysqli)

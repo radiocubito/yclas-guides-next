@@ -7,14 +7,14 @@ section: content
 
 # How to add locations?
 
--   Introduction
-    -   Geonames
-    -   Quick Creator
-    -   Manual method
-    -   Import Locations
--   How to add sub-locations
--   How to manage locations
--   Locations widget
+- Introduction
+    - Geonames
+    - Quick Creator
+    - Manual method
+    - Import Locations
+- How to add sub-locations
+- How to manage locations
+- Locations widget
 
 **Locations**  makes it possible to segregate ads by place or city. Thanks to this users can narrow their search ads within their geographical territory.
 
@@ -70,12 +70,12 @@ At the quick location creator, add the name of the location, hit  enter  on your
 2. Press ‘**New location**’ button.
 3. Fill  **in the fields:**
 
--   **Name->**  Choose a name for the location that will be displayed, eg. city or city quarter. Basically, this field is the most important, the rest is kind of optional.
+- **Name->**  Choose a name for the location that will be displayed, eg. city or city quarter. Basically, this field is the most important, the rest is kind of optional.
 
--   **Parent->**  Choose under one of the existing main locations, where the new location will be displayed. Choosing the Home Location while make it the main location. Locations can be easily moved to other parent locations.
+- **Parent->**  Choose under one of the existing main locations, where the new location will be displayed. Choosing the Home Location while make it the main location. Locations can be easily moved to other parent locations.
 
--   **Seoname->**  A seoname will be auto-generated based on the name, but you can change it if you want it to be different.
--   **Description->**  You can add a few words about the place.
+- **Seoname->**  A seoname will be auto-generated based on the name, but you can change it if you want it to be different.
+- **Description->**  You can add a few words about the place.
 
 It’s possible to add manually the Latitude and Longitude of the location or enter the name of the location and find latitude & longitude automatically.
 
@@ -116,8 +116,8 @@ The location widget gives you additional options. You can activate them by loggi
 
 **Related posts:**
 
--   [How to add categories and manage them?](/docs/classifieds-how-to-add-new-categories-and-manage-them)
--   [How to use import tool for categories and locations?](/docs/classifieds-how-to-import-tool-for-categories-and-location)
+- [How to add categories and manage them?](/docs/classifieds-how-to-add-new-categories-and-manage-them)
+- [How to use import tool for categories and locations?](/docs/classifieds-how-to-import-tool-for-categories-and-location)
 
 
 <iframe width="100%" height="400px" src="https://www.youtube.com/embed/ileb1ebLo6Q" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

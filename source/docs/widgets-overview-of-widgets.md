@@ -7,10 +7,10 @@ section: content
 
 # Overview of widgets
 Content:
--   Available widgets
+- Available widgets
   -  How to create Widgets
-    -   Links Widget
-    -   User Search Widget
+    - Links Widget
+    - User Search Widget
 
 **Widgets**  are useful elements of interface that will help you to navigate and give additional options to your site. You can select which one you want to activate and embed it on your website. There is no limit for adding widgets per page.
 
@@ -26,79 +26,79 @@ After creating or editing the widgets, changes might not be visible on the site 
 
  ## Available widgets
 
--   **Ads**  
+- **Ads**
     Helps you to place a banner on your site with the Latest Ads, Popular Ads, last month or Featured Ads. You can regulate how many ads are being displayed.  
     
--   **Featured Ads**  
+- **Featured Ads**
    Only featured ads will be displayed.  
     
--   **Subscribe**  
+- **Subscribe**
     Subscribe for categories functions that give your users the option to subscribe and get an email whenever a new advertisement appears in the category or locations they choose. They can select also price range in which they are interested.  
     
--   **Text**  
+- **Text**
     Places a banner on your site in which you can display whatever you want: it can be text or HTML code.  
     
--   **Share**  
+- **Share**
     On the page **buttons** enabling users to share the content in the social media will be available.  
     
--   **Pages**  
+- **Pages**
     Displays a banner with links to existing CMS pages. ( check: [How to add pages](/docs/content-add-pages) )
     
--   **Contact**  
+- **Contact**
     Shows a contact form in the ad pages so that potential buyers can contact the seller.  
     
--   **Locations**  
+- **Locations**
     Display locations in a banner to make easier to scroll between them and locate the ads. (see: [How to add locations?](/docs/classifieds-add-location)
     
--   **Stats**  
+- **Stats**
     Displays your site's statistics: number of views, ads and users.  
     
--   **Categories**  
+- **Categories**
     Displays a banner with a list of categories and subcategories for improving navigation between them (see: [How to add categories and manage them?](/docs/classifieds-how-to-add-new-categories-and-manage-them)
     
--   **RSS**  
+- **RSS**
     RSS reader to publish news from selected RSS channels.  
     
--   **Map**  
+- **Map**
     Places Google Maps on your website and shows localisations of ads (see: [Why is my map widget not showing anything?](/docs/widgets-map-widget).
     
--   **Disqus**  
+- **Disqus**
    This widget displays the latest comments by Disqus for your website (see: [How to activate comments with Disqus?](/docs/publish-options-active-comments-with-disquse)
     
--   **Chat**  
+- **Chat**
     This widget allows you to chat with your users ( see:  [How to add a chat room to my classifieds website?](/docs/widgets-chat-room).
     
--   **Links**  
+- **Links**
     With this widget you can create a link network to easily navigate the information on your website.  
     
--   **Tools**  
+- **Tools**
     Enables you to use admin Tools to editing ads.  
     
--   **Search**  
+- **Search**
     Makes it easy for users to find specific information using the option of advanced search.  
     
--   **Forum topics**  
+- **Forum topics**
     An easy way to build and establish a bond with your users by offering support and letting them express their opinion (see: [How to add a forum section?](/docs/plugins-forum-section)
     
--   **Interactive Map**  
+- **Interactive Map**
     Displays an Interactive Map (see:  [How to add an Interactive Map?](/docs/content-create-an-interactive-map)
--   **User Location**  
+- **User Location**
     Allows users to change their selected location. Also it’s possible to select their location directly from the map.
--   **User Search**  
+- **User Search**
     Allows users search for other users. Search can also include [users custom fields](/docs/users-create-custom-field-for-users).
--   **Recently searched**  
+- **Recently searched**
     Displays previous user search on your site.
--   **Coupon**  
+- **Coupon**
     The users can use their coupon using this widget. You just need to add the coupon name and click **Add**.
--   **Language**  
+- **Language**
     Allowes users to choose in which language your website will be translated. For more information, follow [this guide](/docs/widget-language-widget).
--   **Currency Converter**  
+- **Currency Converter**
     Users can choose between your selected currencies and have an ad prices converter for their chosen currency. More information  [here](/docs/widgets-how-to-set-the-currency-format)
--   **Follow**  
+- **Follow**
     Add social media follow buttons. Insert the URL of your Facebook, Twitter, Instagram, Pinterest, Google+, LinkedIn, Youtube and Flickr page to create the buttons that will make it easier for visitors to follow you on social media direclty from your website.
--   **Image**  
+- **Image**
     Uses the URL of an image to show it as a responsive image on your website.
--   **Blog Posts**  
+- **Blog Posts**
     Diplays the latest blog posts of your website in a widget.
     
 

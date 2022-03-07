@@ -11,13 +11,13 @@ section: content
 
 The  **MySQLi extension provides various benefits**  with respect to its predecessor, the most prominent of which (according to the PHP website), are:
 
--   An object-oriented interface
--   Support for prepared statements
--   Support for multiple statements
--   Support for transactions
--   Enhanced debugging support
--   Embedded server support
--   Powerful Functionality
+- An object-oriented interface
+- Support for prepared statements
+- Support for multiple statements
+- Support for transactions
+- Enhanced debugging support
+- Embedded server support
+- Powerful Functionality
 
 If you installed with  **Yclas Self Hosted 2.1.4 or higher**  you are already using MySQLi. There is nothing to do here - you are already using it.
 

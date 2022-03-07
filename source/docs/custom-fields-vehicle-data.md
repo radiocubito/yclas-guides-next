@@ -7,11 +7,11 @@ section: content
 
 # Vehicle Data 🚗 
 Content:
--   Quick configuration
--   Manual configuration
-    -   Enable CarQuery
+- Quick configuration
+- Manual configuration
+    - Enable CarQuery
     -  Create the custom fields
--   How it works
+- How it works
 
 
 Vehicle Data can be used in a car dealer website, a marketplace or any classifieds website where people can buy and sell cars. 

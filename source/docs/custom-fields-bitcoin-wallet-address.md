@@ -8,8 +8,8 @@ section: content
 
 # Bitcoin wallet address 💰 
 Content:
--   Bitcoin address on user profile and ads
--   Bitcoin address on each ad
+- Bitcoin address on user profile and ads
+- Bitcoin address on each ad
 
 Give your classifieds website users the ability to share their Bitcoin address in their ads and user profile page. 
 

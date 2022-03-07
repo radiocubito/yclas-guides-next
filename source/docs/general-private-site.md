@@ -21,9 +21,9 @@ Follow the steps above to make your site private:
 Now, if you logout, and try to visit your site,  a message will pop out stating that this website is private and you need to log in in order to see its content. This is what should be displayed:
 ![private site 411](/assets/images/priavte%20site%20411.jpg)
 
--   Registered users can login using the login form on the bottom of the page.
+- Registered users can login using the login form on the bottom of the page.
     
--   Unregister users can request access to your site by clicking  **Request Access**  and filling the form with their Name and Email. An email with this information will be sent to the administrator in order to use it and create a new user (**Panel -> Users -> Users -> New**).
+- Unregister users can request access to your site by clicking  **Request Access**  and filling the form with their Name and Email. An email with this information will be sent to the administrator in order to use it and create a new user (**Panel -> Users -> Users -> New**).
 
 The content of the page that is displayed to unregistered users is editable. 
 You can **create a new page** through your panel. Go to **Settings -> General**, choose this page on **Private Site landing page content** and click **Save**

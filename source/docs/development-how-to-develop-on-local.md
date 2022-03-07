@@ -8,9 +8,9 @@ section: content
 # How to develop on local
 
 Content:
--   Requirements
--   Vhost
--   Install Yclas Self Hosted and use your premium theme
+- Requirements
+- Vhost
+- Install Yclas Self Hosted and use your premium theme
 
 
 If you want to develop your theme on local, you can do it by using reoc.lo as a hostname. By doing that, you will not be required an extra license to develop your theme locally.
@@ -21,18 +21,18 @@ If you want to develop your theme on local, you can do it by using reoc.lo as a 
 
 First, you have to check the requirements for running Yclas Self Hosted:
 
--   A computer that has a working internet connection
--   An internet browser
--   A web hosting that supports:
-    -   Apache 2+
-    -   PHP 7.4+
-    -   Short Tags
-    -   GD support
-    -   Imagick
-    -   mod_rewrite
-    -   Gettext
-    -   Curl
-    -   MySQL 5+
+- A computer that has a working internet connection
+- An internet browser
+- A web hosting that supports:
+    - Apache 2+
+    - PHP 7.4+
+    - Short Tags
+    - GD support
+    - Imagick
+    - mod_rewrite
+    - Gettext
+    - Curl
+    - MySQL 5+
 
 ## Vhost
 

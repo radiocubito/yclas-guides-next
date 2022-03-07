@@ -16,9 +16,9 @@ To setup Zoho Mail, please refer to the steps below :
 3.  **Create your account**  and verify your existing contact email address.
 4.  **Verify your domain**  following one of these ways:
 
--   Add CNAME record
--   Add TXT record
--   Upload an HTML file
+- Add CNAME record
+- Add TXT record
+- Upload an HTML file
 
 Find more about this step  [here](https://www.zoho.com/mail/help/adminconsole/domain-verification.html).
 
@@ -29,5 +29,5 @@ Now you are able to send and receive email with your custom domain. If you need 
   
 **Related posts:**
 
--   [How to configure SMTP](/docs/email-settings-smtp-configuration)
--   [How to Configure ElasticEmail on Yclas](/docs/email-settings-elasticemail)
+- [How to configure SMTP](/docs/email-settings-smtp-configuration)
+- [How to Configure ElasticEmail on Yclas](/docs/email-settings-elasticemail)

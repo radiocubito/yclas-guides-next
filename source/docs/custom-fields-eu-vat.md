@@ -8,15 +8,15 @@ section: content
 # VAT on checkout
 
 Content:
--   [Configure VAT for features](/docs/custom-fields-eu-vat#configure-vat-for-features)
+- [Configure VAT for features](/docs/custom-fields-eu-vat#configure-vat-for-features)
     - EU countries
     - Non EU countries
--   Configure VAT for sellers
+- Configure VAT for sellers
     - Advertisement VAT number
     - User VAT number
--   The checkout page
--   VAT on automatic emails
--   VAT for non EU countries
+- The checkout page
+- VAT on automatic emails
+- VAT for non EU countries
 
 
 Yclas allows you to include VAT to the orders. When users purchase Featured Ads, To Top, Pay to Post or Membership plans the VAT will be added at checkout. You can also configure your website in a way that users can simply add their VAT number and the VAT will be added automatically at the checkout.
@@ -81,15 +81,15 @@ Once you configure VAT to be added at checkout, you will be able to include it t
 
 The variables you can use are:
 
--   **[VAT.COUNTRY]**
+- **[VAT.COUNTRY]**
 
 Includes the two-letter country code.
 
--   **[VAT.NUMBER]**
+- **[VAT.NUMBER]**
 
 Includes the VAT number.
 
--   **[VAT.PERCENTAGE]**
+- **[VAT.PERCENTAGE]**
 
 The VAT rate based on the seller VAT number.
 

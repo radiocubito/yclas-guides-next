@@ -7,10 +7,10 @@ section: content
 
 # How to add tracking codes 💡
 
--   Why you should use Google Analytics
--   Adding the Analytics Tracking ID
-    -   Quick method
-    -   Manual method
+- Why you should use Google Analytics
+- Adding the Analytics Tracking ID
+    - Quick method
+    - Manual method
 
 ## Why you should use Google Analytics
 

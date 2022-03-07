@@ -8,16 +8,16 @@ section: content
 # Currency Converter Widget
 
 Content:
--   Get an API Key
--   Create Currency Converter Widget
--   Currencies to display
-    -   Major Currencies
-    -   European Currencies
-    -   Skandi Currencies
-    -   Asian Currencies
-    -   American Currencies
--   More currencies
--   Examples
+- Get an API Key
+- Create Currency Converter Widget
+- Currencies to display
+    - Major Currencies
+    - European Currencies
+    - Skandi Currencies
+    - Asian Currencies
+    - American Currencies
+- More currencies
+- Examples
 
 If you want your website users and visitors to be able to convert currencies then this is the widget for you. As the title says, this is the widget which users can use to choose between your selected currencies and have ads prices converted to their chosen currency.
 
@@ -85,7 +85,7 @@ AED, ALL, BDT, BGN, CAD, CNY, CZK, DKK, EUR, GBP, INR, HRK, HUF, IDR, JPY, NOK, 
 
 ## Examples
 
--   An example of input:
+- An example of input:
     
     ```
       european,american
@@ -95,7 +95,7 @@ AED, ALL, BDT, BGN, CAD, CNY, CZK, DKK, EUR, GBP, INR, HRK, HUF, IDR, JPY, NOK, 
 
 Available currencies will be: ALL, BGN, BYR, CZK, DKK, EUR, GBP, HRK, HUF, ISK, NOK, RON, RUB, SEK, UAH, USD, CAD, MXN, BRL, ARS, CRC, COP and CLP.
 
--   For input:
+- For input:
     
     ```
       asian,EUR,USD
@@ -105,7 +105,7 @@ Available currencies will be: ALL, BGN, BYR, CZK, DKK, EUR, GBP, HRK, HUF, ISK, 
 
 Available currencies will be: JPY, HKD, SGD, TWD, KRW, PHP, IDR, INR, CNY, MYR, THB, EUR and USD.
 
--   For input:
+- For input:
     
     ```
       EUR,CAD,CNY,NOK,PHP,USD
@@ -120,8 +120,8 @@ Available currencies will be: EUR, CAD, CNY, NOK, PHP, USD
 
 You may also be interested in:
 
--   [Overview of widgets](/docs/widgets-overview)
--   [How to set the currency format?](/docs/general-currency-format)
--   [Choose Language Widget](/docs/widgets-langauge-widget)
--   [Image Widget](/docs/widgets-image-widget)
--   [How to add a banner](/docs/appearance-how-to-add-a-banner)
+- [Overview of widgets](/docs/widgets-overview)
+- [How to set the currency format?](/docs/general-currency-format)
+- [Choose Language Widget](/docs/widgets-langauge-widget)
+- [Image Widget](/docs/widgets-image-widget)
+- [How to add a banner](/docs/appearance-how-to-add-a-banner)

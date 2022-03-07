@@ -8,8 +8,8 @@ section: content
 # Subscribe Widget
 
 Content:
--   Configuration
--   How it works?
+- Configuration
+- How it works?
 
 Yclas offers an email subscriber feature which allows users and visitors to subscribe and get an email whenever a new advertisement based on their filters is placed.
 
@@ -22,13 +22,13 @@ Yclas offers an email subscriber feature which allows users and visitors to subs
 3. Configure the Subsccribe Widget:
 4. Click  **Save changes**.
 
--   **Where do you want the widget displayed?:**  Select between the available options, sidebar, header, footer, publish new page or inactive.
--   **Categories:**  Choose True to let users choose the category or categories they want to subscribed to.
--   **Locations:**  If enabled, users can choose a location to subscribe to.
--   **Price:**  Set to True to let users to pick a price range for the ads they will be notified for.
--   **Subscribe title displayed:**  This is the title of the search form. Leave empty for no title.
--   **Minimum/Maximum Price:**  Enter the minimum and maximum price users can choose for the price range.
--   **Increment Step:**  Select the increment step of the price range bar. Default vaule is “100”.
+- **Where do you want the widget displayed?:**  Select between the available options, sidebar, header, footer, publish new page or inactive.
+- **Categories:**  Choose True to let users choose the category or categories they want to subscribed to.
+- **Locations:**  If enabled, users can choose a location to subscribe to.
+- **Price:**  Set to True to let users to pick a price range for the ads they will be notified for.
+- **Subscribe title displayed:**  This is the title of the search form. Leave empty for no title.
+- **Minimum/Maximum Price:**  Enter the minimum and maximum price users can choose for the price range.
+- **Increment Step:**  Select the increment step of the price range bar. Default vaule is “100”.
 
 ## How it works?
 

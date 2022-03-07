@@ -22,16 +22,16 @@ To troubleshoot, please login to your   **Admin Panel**  >  **Tools**  >  **Logs
 
 Here are the error logs that happened in the application and a bit of explanation of what’s going on.
 
--   If you can’t access to your panel, probably your MySQL server is gone. Contact your hosting provider.
--   If you can’t access to your site, contact your hosting provider as well.
+- If you can’t access to your panel, probably your MySQL server is gone. Contact your hosting provider.
+- If you can’t access to your site, contact your hosting provider as well.
 
   
 **If you can’t access your error log**  follow these steps:
 
--   Open in your editor  **/oc/bootstrap.php**  (accessed from file manager or FTP).
--   Search for  **=== ‘reoc.lo’**  and replace it with  **!== ‘reoc.lo’**.
--   Now you should see the error with some debug information in the footer.
--   Revert the changes on the bootstrap.php file.
+- Open in your editor  **/oc/bootstrap.php**  (accessed from file manager or FTP).
+- Search for  **=== ‘reoc.lo’**  and replace it with  **!== ‘reoc.lo’**.
+- Now you should see the error with some debug information in the footer.
+- Revert the changes on the bootstrap.php file.
 
 **If you still don’t see any error at your logs**, you can check the error log at your hosting.
 

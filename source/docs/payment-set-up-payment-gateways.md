@@ -7,34 +7,34 @@ section: content
 
 # How to Setup Payment Gateways
 Content:
--   Payment methods
-    -   Stripe
-    -   Paypal
-    -   Alternative payment
-    -   Escrow
-    -   2checkout
-    -   Authorize.net
-    -   Paymill
-    -   Alipay
-    -   Bitpay
-    -   Omise
-    -   Paytabs
-    -   PayFast
-    -   Mercadopago
-    -   Mollie
-    -   Zenith GlobalPAY
-    -   Payline
-    -   Razorpay
+- Payment methods
+    - Stripe
+    - Paypal
+    - Alternative payment
+    - Escrow
+    - 2checkout
+    - Authorize.net
+    - Paymill
+    - Alipay
+    - Bitpay
+    - Omise
+    - Paytabs
+    - PayFast
+    - Mercadopago
+    - Mollie
+    - Zenith GlobalPAY
+    - Payline
+    - Razorpay
 
 
 Let’s first go through the payment settings we have here, of course you can access payment settings by logging into your **Admin Panel -> Settings  ->  Payments**  :
 
--   **Payment Currency:**  Pick the currency you want to get paid with. Make sure that your chosen Payment Gateway supports that currency.
--   **Featured ads:**  Turn On or Off the option to feature ad.
--   **Featured Plans:**  This feature allows you to give users the option to select between different length of the featured of their ad and pay according to your plans. Follow  [this guide](/docs/payment-featured-plans)  for more.
--   **Bring to top Ad:**  Turn On or Off the option to bring an ad to top of the list.
--   **To top price:**  The amount you charge for bringing an ad to top.
--   **Stock control:**  [When users limit their stock enable this option](/docs/payment-pay-directly-from-the-ad-option).
+- **Payment Currency:**  Pick the currency you want to get paid with. Make sure that your chosen Payment Gateway supports that currency.
+- **Featured ads:**  Turn On or Off the option to feature ad.
+- **Featured Plans:**  This feature allows you to give users the option to select between different length of the featured of their ad and pay according to your plans. Follow  [this guide](/docs/payment-featured-plans)  for more.
+- **Bring to top Ad:**  Turn On or Off the option to bring an ad to top of the list.
+- **To top price:**  The amount you charge for bringing an ad to top.
+- **Stock control:**  [When users limit their stock enable this option](/docs/payment-pay-directly-from-the-ad-option).
 
 ## Payment methods:
 
@@ -213,5 +213,5 @@ Note: Only Paypal works with the free Yclas self-hosted version [buy Pro to enab
 
 **Related posts:**
 
--   [2checkout Configuration](/docs/payment-2checkout-configuration)
--   [Stripe Connect Express](/docs/payment-set-up-marketplace-with-srtipe-connect-express)
+- [2checkout Configuration](/docs/payment-2checkout-configuration)
+- [Stripe Connect Express](/docs/payment-set-up-marketplace-with-srtipe-connect-express)

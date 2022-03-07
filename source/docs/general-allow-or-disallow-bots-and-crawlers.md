@@ -22,9 +22,9 @@ Therefore, the web bots/crawlers return these results to their respective search
 
 There are many reasons why webmasters and developers might want to block robots from indexing on their sites, and these include (but are not limited to):
 
--   The fact that, not all bots are good – some are bad and can crash your system.
--   The fact that, granting bots access can generally leave a site exposed and vulnerable.
--   Privacy, copyrights and legal issues.
+- The fact that, not all bots are good – some are bad and can crash your system.
+- The fact that, granting bots access can generally leave a site exposed and vulnerable.
+- Privacy, copyrights and legal issues.
 
 However, allowing bots/crawlers to navigate your website has its advantages; particularly with regards to a great SEO (Search Engine Optimization) campaign. 
 

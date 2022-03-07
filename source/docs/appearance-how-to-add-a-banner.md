@@ -35,7 +35,7 @@ Monetize your Yclas website by adding commercial banners. Banners can be added t
 3.  Insert the HTML code to:
     
      - **Design** -> **Theme Options** -> **Header/Footer banner**
-    -   **Design**  ->  **Widgets**  -> create a  **Text Widget**  that allows HTML
+    - **Design**  ->  **Widgets**  -> create a  **Text Widget**  that allows HTML
 
 **To add your ads.txt file in Yclas Cloud**
 

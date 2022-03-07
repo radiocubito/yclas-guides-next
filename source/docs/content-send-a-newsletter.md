@@ -11,11 +11,11 @@ section: content
 
 **To send a message**  fill in the form:
 
--   **To**: choose from one of the following options who should receive the message.
--   **From:**  write your name that will be displayed as sender.
--   **From Email:**  type email that will be displayed for recipients - all replies will be directed to this address.
--   **Subject:**  topic of the message.
--   **Message:**  body of the email, you can use formatting.
+- **To**: choose from one of the following options who should receive the message.
+- **From:**  write your name that will be displayed as sender.
+- **From Email:**  type email that will be displayed for recipients - all replies will be directed to this address.
+- **Subject:**  topic of the message.
+- **Message:**  body of the email, you can use formatting.
 
 If you need to configure advanced settings, choose  **Email Settings**  to configure your email options.
 

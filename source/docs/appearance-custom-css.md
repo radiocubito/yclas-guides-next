@@ -8,7 +8,7 @@ section: content
 # How to use Custom CSS
 
 Content:
--   Adding Custom CSS
+- Adding Custom CSS
 
 The Custom CSS can be used for changing the visual aspects of your site. You can modify fonts, colors, backgrounds, padding, margins, floats, etc.
 

@@ -12,10 +12,10 @@ First, you need to create an account on  [2checkout](https://www.2checkout.com/)
 
 From there you have to follow the instructions:
 
--   Select the  **Pricing Currency**  you want to use.
--   Select  **Refund Policy**  and  **Privacy Policy**.
--   Choose  **Header Redirect (Your URL)**.
--   Enter http://yourdomain.com/twocheckout/pay/null/ in  **Approved URL**  field.
+- Select the  **Pricing Currency**  you want to use.
+- Select  **Refund Policy**  and  **Privacy Policy**.
+- Choose  **Header Redirect (Your URL)**.
+- Enter http://yourdomain.com/twocheckout/pay/null/ in  **Approved URL**  field.
 
 Now, Login to your **Admin Panel** ->  **Integrations**  ->  **2checkout**  and fill  **Merchant Code**  and  **Secret Word**  fields. You can find these values in your 2checkout dashboard (see the image below).
 

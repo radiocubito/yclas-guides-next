@@ -9,12 +9,12 @@ section: content
 
 # Bitcoin Integration ₿
 Content:
--   What is Bitcoin?
--   Why to implement Bitcoin payments in my classifieds website?
--   How to use Bitcoin with Yclas
-    -   Bitcoin wallet address on ads and user profiles
-    -   Bitcoin currency
-    -   Setup a payment gateway for Bitcoin
+- What is Bitcoin?
+- Why to implement Bitcoin payments in my classifieds website?
+- How to use Bitcoin with Yclas
+    - Bitcoin wallet address on ads and user profiles
+    - Bitcoin currency
+    - Setup a payment gateway for Bitcoin
 
 
 

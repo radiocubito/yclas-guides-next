@@ -14,9 +14,9 @@ section: content
 
 You should receive  **two e-mails**  from us:
 
--   An email thanking you for your purchase.
+- An email thanking you for your purchase.
 
--   Another email with the purchase receipt as indicated in the screenshots below.  **Please check the spam folder in your e-mail**  if you can’t find one of these emails.  
+- Another email with the purchase receipt as indicated in the screenshots below.  **Please check the spam folder in your e-mail**  if you can’t find one of these emails.
 
 As you can see in those e-mails, the first one has your  **log in information**  for your portal here. And the second e-mail has your  **license number.**
 

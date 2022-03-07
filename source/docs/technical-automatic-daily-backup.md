@@ -22,18 +22,18 @@ Since now 1 month ago I am using  [CodeGuard](https://mbsy.co/CodeGuard/17761100
 
 **Things I love so far**
 
--   Was really easy to setup.
--   They do a daily backup.
--   Notification every time there’s a modification on the files (get an email).
--   MySQL backups for 1 DB.
--   Restore your website from any point. 
--   Great support.
+- Was really easy to setup.
+- They do a daily backup.
+- Notification every time there’s a modification on the files (get an email).
+- MySQL backups for 1 DB.
+- Restore your website from any point.
+- Great support.
 
 **Whats' not that great**
 
--   If your website is huge will be a bit expensive, but if it’s huge you are making money right?
--   You need to pay by card and in USD, with paypal a bit more complex.
--   $5 for each extra site.
+- If your website is huge will be a bit expensive, but if it’s huge you are making money right?
+- You need to pay by card and in USD, with paypal a bit more complex.
+- $5 for each extra site.
 
 Luckily I have not tried the restore option, but looks awesome.
 

@@ -54,13 +54,13 @@ You just have to follow the normal automatic update steps listed below:
 
 7. Delete all files in your website folder  **except**  the following:
 
--   robots.txt
--   /oc/config/auth.php
--   /oc/config/database.php
--   .htaccess
--   /images/
--   /themes/default/css/web-custom.css if you have custom CSS
--   and check in /themes/ if you have a custom them do not delete it
+- robots.txt
+- /oc/config/auth.php
+- /oc/config/database.php
+- .htaccess
+- /images/
+- /themes/default/css/web-custom.css if you have custom CSS
+- and check in /themes/ if you have a custom them do not delete it
 
 8.  **Now upload to your folder all the files**  we extracted earlier, except for the files we mentioned in the previous step and the “/install” folder.
 

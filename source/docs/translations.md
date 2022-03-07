@@ -11,10 +11,10 @@ In this guide, you can find all of the information on translations and available
 
 
 *   [Translation](/docs/translation-change-language-of-the-site)
-      -    How to change the language of your website.
+      -  How to change the language of your website.
 
 *   [Live translations](/docs/translation-live-translation)
-    -    Quickly translate and modify your website.
+    -  Quickly translate and modify your website.
 
 
  

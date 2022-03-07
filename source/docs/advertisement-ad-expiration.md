@@ -7,8 +7,8 @@ section: content
 
 # Ad expiration
 Content:
--   All ads expire after n days
--   Custom expiration date
+- All ads expire after n days
+- Custom expiration date
 
 ## All ads expire after n days
 
@@ -36,7 +36,7 @@ Here are the steps you need to follow to give the sellers the option to choose a
 
 **Related posts:**
 
--   [How to configure Publish Options](/docs/advertisement-configure-publilsh-options)
+- [How to configure Publish Options](/docs/advertisement-configure-publilsh-options)
 
 
 <iframe width="100%" height="400px" src="https://www.youtube.com/embed/PACG4kkVlHk" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -9,10 +9,10 @@ section: content
 
 
 *   [General email configuration](/docs/email-settings-general-email-configuration)
-     -   Change your email address or disable the notifications about new ads.
+     - Change your email address or disable the notifications about new ads.
 
 *   [SMTP configuration](/docs/email-settings-smtp-configuration)
-     -   Learn how to use all of the available SMTP services like **Zoho**, **Mailgun**, **SendPulse** or **Amazon SES.**
+     - Learn how to use all of the available SMTP services like **Zoho**, **Mailgun**, **SendPulse** or **Amazon SES.**
 
 *   [ElasticEmail](/docs/email-settings-elasticemail)
     - Learn how to create and configure an ElasticEmail account.

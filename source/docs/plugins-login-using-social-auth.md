@@ -22,9 +22,9 @@ section: content
 4.  Now you need to enter a  **Product name**  and you can fill any of the other optional fields you want. Click  **Save**.  
 5.  After that, you will be redirected to create client ID.
 
--   Application type: Web application.
--   Authorized Javascript origins: Your site URL here. ex: https://yclas.com/
--   Authorized redirect URI: ex: https://yclas.com/social/login/1?hauth.done=Google.
+- Application type: Web application.
+- Authorized Javascript origins: Your site URL here. ex: https://yclas.com/
+- Authorized redirect URI: ex: https://yclas.com/social/login/1?hauth.done=Google.
 
 ![](/assets/images/login2.png)
 

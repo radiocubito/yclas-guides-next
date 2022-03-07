@@ -29,21 +29,21 @@ If you click on the **See order** button, you'll be redirected to the checkout p
 
 ## How to edit orders?
 
--   **Id Product:**
+- **Id Product:**
     1.  **_Post in paid category_**
     2.  **_Top up ad_**
     3.  **_Feature ad_**
     4.  **_Buy product_**
--   **Paymethod:**  You can change the payment method of this order.
--   **Amount:**  The amount of this order.
--   **Currency:**  Which currency is used for this order.
--   **Pay Date:**  In this field you can edit the date user paid.
--   **Created:** The date and time your order was placed.
--   **Status:**
-    -   0 = not paid
-    -   1 = paid
-    -   5 = refused payment
-    -   99 = refunded
+- **Paymethod:**  You can change the payment method of this order.
+- **Amount:**  The amount of this order.
+- **Currency:**  Which currency is used for this order.
+- **Pay Date:**  In this field you can edit the date user paid.
+- **Created:** The date and time your order was placed.
+- **Status:**
+    - 0 = not paid
+    - 1 = paid
+    - 5 = refused payment
+    - 99 = refunded
 
 
 <iframe width="100%" height="400px" src="https://www.youtube.com/embed/DLloz_nOV6U" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -26,17 +26,17 @@ If your hosting provider doesn’t support Softaculous don’t worry! **Scroll d
 
 Another way to install this version is 1 file installation. Follow the steps one by one:
 
--   Download  [install-yclas.php](https://raw.githubusercontent.com/yclas/yclas/master/install-yclas.php)
+- Download  [install-yclas.php](https://raw.githubusercontent.com/yclas/yclas/master/install-yclas.php)
     
--   Upload it to the root of your domain or wherever you want to install Yclas.
+- Upload it to the root of your domain or wherever you want to install Yclas.
     
--   Click  Download.
+- Click  Download.
     
--   Follow the steps that will appear on your screen.
+- Follow the steps that will appear on your screen.
     
--   Log in to your Admin Panel, create some Categories and Locations.
+- Log in to your Admin Panel, create some Categories and Locations.
     
--   You are all ready to start.
+- You are all ready to start.
     
 
  [Video Guide](www.youtube.com/watch?v=L2-b8r8DAfU%5D%29) 
@@ -49,19 +49,19 @@ Another way to install this version is 1 file installation. Follow the steps one
 
 The traditional installation is suitable for anyone who wants to use it.
 
--   [Download](https://yclas.com/self-hosted.html)
+- [Download](https://yclas.com/self-hosted.html)
     
--   Unpack
+- Unpack
 
--   Upload all files to the root of your domain
+- Upload all files to the root of your domain
     
--   Run the installation in http://yourdomain.com/
+- Run the installation in http://yourdomain.com/
     
--   Follow the steps
+- Follow the steps
     
--   Login in Admin Panel, create some Categories and Locations
+- Login in Admin Panel, create some Categories and Locations
     
--   You are all ready to start.
+- You are all ready to start.
     
 
 Note: To install it, you will need a Database and a Username created in your hosting. Follow [this link](/docs/yclas-self-hosted-installation-mysql-database) to learn how to create a MySQL Database.
@@ -74,9 +74,9 @@ Note: To install it, you will need a Database and a Username created in your hos
 
 **Traditional installation**
 
--   Download the compressed file, either from the link in your e-mail or from your account.
+- Download the compressed file, either from the link in your e-mail or from your account.
     
--   Uncompress the folder /themes/.
+- Uncompress the folder /themes/.
     
--   Go to the Admin Panel, Design > Themes and select the theme.
+- Go to the Admin Panel, Design > Themes and select the theme.
     

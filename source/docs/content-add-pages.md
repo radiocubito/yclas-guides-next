@@ -15,11 +15,11 @@ Follow these steps:
 
 2. When you are creating the new page, make sure to fill  **in the following fields:**
 
--   **Title**: choose the title of the page e.g. Terms of Service.
--   **Locale**: select from the list of available locales, you can select the one you’re currently using. Make sure it’s the correct one; otherwise, the page won’t be displayed.
--   **Description**: paste here the content of the page. You can use formatting, include images etc. To paste  **html switch**  to  **Source mode**  - click last button in the text editor (view source).
--   **Seotitle**
--   **Status**: make sure that the box is checked, only then the site will be active.
+- **Title**: choose the title of the page e.g. Terms of Service.
+- **Locale**: select from the list of available locales, you can select the one you’re currently using. Make sure it’s the correct one; otherwise, the page won’t be displayed.
+- **Description**: paste here the content of the page. You can use formatting, include images etc. To paste  **html switch**  to  **Source mode**  - click last button in the text editor (view source).
+- **Seotitle**
+- **Status**: make sure that the box is checked, only then the site will be active.
 
 3. Click  **CREATE**
 

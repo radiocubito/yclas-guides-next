@@ -15,7 +15,7 @@ section: content
 - [**Advertisements**](/docs/advertisement)
 
   Find out all the information on advertisements, how to change their settings and additional features.
-  -    [Search ads by distance](/docs/search-ads-by-distance)
+  -  [Search ads by distance](/docs/search-ads-by-distance)
 
 - [**Payments**](/docs/payment)
 

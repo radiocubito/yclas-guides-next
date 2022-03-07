@@ -16,12 +16,12 @@ Currently you get free $200 per month for maps usage , please see [Google Maps P
 3.  Click  **SAVE**.
 
 
--   **Google Maps API Key** (step-by-step below ⤵️)
--   **Google map style**: Custom Google Maps styling.
--   **Google map zoom level**: Google map default zoom level. It will be applied on the map in the Publish New page and Ad page.
--   **Map latitude coordinates**: Google map default latitude coordinates. It affects the map in the Publish New page. (You can get lat and long here https://www.latlong.net/)
--   **Map longitude coordinates**: Google map default longitude coordinates. It affects the map in the Publish New page.
--   **Auto locate distance**: Sets maximum distance of closest suggested locations to the visitor.
+- **Google Maps API Key** (step-by-step below ⤵️)
+- **Google map style**: Custom Google Maps styling.
+- **Google map zoom level**: Google map default zoom level. It will be applied on the map in the Publish New page and Ad page.
+- **Map latitude coordinates**: Google map default latitude coordinates. It affects the map in the Publish New page. (You can get lat and long here https://www.latlong.net/)
+- **Map longitude coordinates**: Google map default longitude coordinates. It affects the map in the Publish New page.
+- **Auto locate distance**: Sets maximum distance of closest suggested locations to the visitor.
 
 ## Get your API Key
 
@@ -31,13 +31,13 @@ Currently you get free $200 per month for maps usage , please see [Google Maps P
 4.  Copy the API Key into your admin panel,  **Settings**  ->  **Advertisement**  ->  **Google Maps**  and click  **Save**.
 5.  Then back to the APIs Console, click  **Library**  on the left menu, under  **Google Maps APIs**  find and enable:
 
--   [Maps Static API](https://console.cloud.google.com/apis/library/static-maps-backend.googleapis.com)
--   [Geocoding API](https://console.cloud.google.com/apis/library/geocoding-backend.googleapis.com)
--   [Maps JavaScript API](https://console.cloud.google.com/apis/library/maps-backend.googleapis.com)
--   [Directions API](https://console.cloud.google.com/apis/library/directions-backend.googleapis.com)
--   [Geolocation API](https://console.cloud.google.com/apis/library/geolocation.googleapis.com)
--   [Places API ](https://console.cloud.google.com/apis/library/places-backend.googleapis.com)
--   [Distance Matrix API](https://console.cloud.google.com/apis/library/distance-matrix-backend.googleapis.com)
+- [Maps Static API](https://console.cloud.google.com/apis/library/static-maps-backend.googleapis.com)
+- [Geocoding API](https://console.cloud.google.com/apis/library/geocoding-backend.googleapis.com)
+- [Maps JavaScript API](https://console.cloud.google.com/apis/library/maps-backend.googleapis.com)
+- [Directions API](https://console.cloud.google.com/apis/library/directions-backend.googleapis.com)
+- [Geolocation API](https://console.cloud.google.com/apis/library/geolocation.googleapis.com)
+- [Places API ](https://console.cloud.google.com/apis/library/places-backend.googleapis.com)
+- [Distance Matrix API](https://console.cloud.google.com/apis/library/distance-matrix-backend.googleapis.com)
 
 To use Google Maps in you mobile apps please also enable [Maps SDK for iOS](https://console.cloud.google.com/marketplace/product/google/maps-ios-backend.googleapis.com) and [Maps SDK for Android](https://console.cloud.google.com/apis/library/maps-android-backend.googleapis.com)
 
@@ -52,7 +52,7 @@ To use Google Maps in you mobile apps please also enable [Maps SDK for iOS](http
  
  **Related posts**
 
--   [How to create a map widget?](/docs/widgets-map-widget)
--   [How to add an Interactive Map?](/docs/content-create-an-interactive-map)
--   [Search ads by distance](/docs/search-ads-by-distance)
+- [How to create a map widget?](/docs/widgets-map-widget)
+- [How to add an Interactive Map?](/docs/content-create-an-interactive-map)
+- [Search ads by distance](/docs/search-ads-by-distance)
 

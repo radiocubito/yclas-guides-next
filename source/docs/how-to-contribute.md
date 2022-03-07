@@ -8,15 +8,15 @@ section: content
 # How to contribute?
 
 Content: 
--   Get Started
--   Using Jekyll (Basic Usage)
-    -   Add a page
-    -   Add a post
-    -   Change theme’s design
-    -   Liquid
-    -   Configuration
-    -   Build locally
-    -   Git Push
+- Get Started
+- Using Jekyll (Basic Usage)
+    - Add a page
+    - Add a post
+    - Change theme’s design
+    - Liquid
+    - Configuration
+    - Build locally
+    - Git Push
 
 This guide explains how to contribute to our documentation!
 

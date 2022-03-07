@@ -7,8 +7,8 @@ section: content
 
 # Choose currency on Ads
 Content:
--   Create the Currency custom field
--   Available currencies
+- Create the Currency custom field
+- Available currencies
 
 If you want to create an international website or just let the sellers of your website show and sell items in their currency, you can do it by creating the **Currency custom field** as described below.
 

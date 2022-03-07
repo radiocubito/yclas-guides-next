@@ -8,8 +8,8 @@ section: content
 # Search Widget
 
 Content:
--   Configuration
--   How it works
+- Configuration
+- How it works
 
 The Search Widget adds a form to your classifieds website header, sidebar or footer. With the Search Widget created users can search for ads from any page in your site.
 
@@ -23,10 +23,10 @@ The Search Widget adds a form to your classifieds website header, sidebar or foo
 
 ![](/assets/images/search%20widget.jpg)
 
--   **Where do you want the widget displayed?:**  Select between the available options, sidebar, header, footer, publish new page or inactive, depends on what your selected theme offers.
--   **Title displayed:**  Type the title of the search form. Leave empty for no title.
--   **Advanced option:**  Set to True to enable categories and locations selection in the search form.
--   **Custom fields in search:**  Set to True to let users filter by custom fields.
+- **Where do you want the widget displayed?:**  Select between the available options, sidebar, header, footer, publish new page or inactive, depends on what your selected theme offers.
+- **Title displayed:**  Type the title of the search form. Leave empty for no title.
+- **Advanced option:**  Set to True to enable categories and locations selection in the search form.
+- **Custom fields in search:**  Set to True to let users filter by custom fields.
 
   
 
@@ -45,7 +45,7 @@ By pressing the  **Search**  button they will be redirected to the advanced sear
 
 **Related guides:**
 
--   [Overview of widgets](/docs/widgets-overview)
--   [How to change language of the site?](/docs/translation-change-language-of-the-site)
--   [Currency Converter Widget](/docs/widgets-currency-widget)
--   [Share Widget](/docs/widgets-share-widget)
+- [Overview of widgets](/docs/widgets-overview)
+- [How to change language of the site?](/docs/translation-change-language-of-the-site)
+- [Currency Converter Widget](/docs/widgets-currency-widget)
+- [Share Widget](/docs/widgets-share-widget)

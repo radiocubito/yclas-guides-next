@@ -7,14 +7,14 @@ section: content
 
 # How to backup your classified site?
 Content:
--   Manual Backup
-    -   1. Files
-    -   2. Database
--   Restoring Backup
+- Manual Backup
+    - 1. Files
+    - 2. Database
+- Restoring Backup
       - 1. Restoring Files
       - 2. Restoring Database
--   cPanel Backups
--   Plesk Backups
+- cPanel Backups
+- Plesk Backups
 
 
  **UPDATE:  [Automatic daily backups](/docs/technical-automatic-daily-backup)**
@@ -30,8 +30,8 @@ Normally, your hosting has their own backup tools. But if your hosting doesn’t
 
 We need to backup 2 different things:
 
--   **Files**, like your images, theme, etc.
--   **Database**, where the actual data is stored, like ads, users, categories, etc.
+- **Files**, like your images, theme, etc.
+- **Database**, where the actual data is stored, like ads, users, categories, etc.
 
 ## Manual Backup
 
@@ -43,12 +43,12 @@ Depending on the tool, you need to select all the files and compress them, or if
 
 You don’t need to download everything. These are the unique files for your installation that you will need later for restoring:
 
--   robots.txt
--   .htaccess
--   images/
--   oc/config/auth.php
--   oc/config/database.php
--   And /themes if you customized your themes
+- robots.txt
+- .htaccess
+- images/
+- oc/config/auth.php
+- oc/config/database.php
+- And /themes if you customized your themes
 
 **NEVER LOSE THESE FILES.**
 
@@ -58,13 +58,13 @@ This is probably the most important part of the process: always have backups of 
 
 **Using phpmyadmin:**
 
--   Login to your phpmyadmin from your hosting panel.
--   Select the database where Yclas is installed.
--   Go to export
--   Export method Custom
--   Select all the tables (normally they start with oc3_)
--   Compression zip
--   Go to the bottom of the page, click Go.
+- Login to your phpmyadmin from your hosting panel.
+- Select the database where Yclas is installed.
+- Go to export
+- Export method Custom
+- Select all the tables (normally they start with oc3_)
+- Compression zip
+- Go to the bottom of the page, click Go.
 
 **Manually:**
 
@@ -85,27 +85,27 @@ NOTE: Be sure you have a functional backup before restoring.
 
 Unless there is an easier way at your hosting then I recommend the next to restore files:
 
--   Delete all the files except fir the the /images/ folder
--   Download [install-yclas.php](https://raw.githubusercontent.com/yclas/yclas/master/install-yclas.php)
--   Upload and execute at your browser: yourdomain/install-yclas.php
--   Download it and you will get redirected to the isntallation process but do not install
--   Delete from the downloaded files from the folder /install/
--   Replace them from your backup to the site of these files
-    -   robots.txt
-    -   .htaccess
-    -   oc/config/auth.php
-    -   oc/config/database.php
-    -   And if you have any custom theme
+- Delete all the files except fir the the /images/ folder
+- Download [install-yclas.php](https://raw.githubusercontent.com/yclas/yclas/master/install-yclas.php)
+- Upload and execute at your browser: yourdomain/install-yclas.php
+- Download it and you will get redirected to the isntallation process but do not install
+- Delete from the downloaded files from the folder /install/
+- Replace them from your backup to the site of these files
+    - robots.txt
+    - .htaccess
+    - oc/config/auth.php
+    - oc/config/database.php
+    - And if you have any custom theme
 
 ### 2. Restoring Database
 
 **Using phpmyadmin:**
 
--   Login to your phpmyadmin from your hosting panel.
--   Select the database where Yclas is installed.
--   If theres data select all the tables and delete them, since the data will be wrong if you are restoring…
--   Go to import
--   Select your zipped file
+- Login to your phpmyadmin from your hosting panel.
+- Select the database where Yclas is installed.
+- If theres data select all the tables and delete them, since the data will be wrong if you are restoring…
+- Go to import
+- Select your zipped file
 
 **Manually:**
 

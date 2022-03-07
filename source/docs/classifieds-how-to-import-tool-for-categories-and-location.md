@@ -8,8 +8,8 @@ section: content
 # How to use import tool for categories and locations?
 **Content:**
 
--   Import Categories
--   Import Locations
+- Import Categories
+- Import Locations
 
 You are building a large scale  **classifieds website**  with lots of categories and locations, but you’re having a problem with adding them all in without spending so much time typing each one out.
 

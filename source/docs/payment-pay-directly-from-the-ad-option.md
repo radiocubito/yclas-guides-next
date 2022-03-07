@@ -8,8 +8,8 @@ section: content
 # Pay directly from the ad option
 
 Content:
--   How to activate Buy Now button
--   Limiting stock amount
+- How to activate Buy Now button
+- Limiting stock amount
 
 Did you know that sellers posting ads of their products in your classified site are allowed to get  **direct payments**  through PayPal for the goods they’re offering? Thanks to this feature, customers and sellers can  **complete the transaction**  on your site, which makes your site a kind of a selling platform.
 

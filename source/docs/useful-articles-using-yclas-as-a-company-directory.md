@@ -7,11 +7,11 @@ section: content
 
 # Using Yclas as a Company Directory
 Content:
--   Location Based Listings
--   Paid Listings
--   Custom Fields
--   Unlimited Categories
--   Apart from above features there are a few more features that might help you in using Yclas as a business directory
+- Location Based Listings
+- Paid Listings
+- Custom Fields
+- Unlimited Categories
+- Apart from above features there are a few more features that might help you in using Yclas as a business directory
 
 The basic features provided by this free classifieds script are enough to get on with a good looking free or paid business directory.
 
@@ -36,11 +36,11 @@ We understand that there are countless businesses that can be listed in a busine
 
 ## Apart from the above features there are a few more  that might help you in using Yclas as a business directory
 
--   Customisable header
--   Flexible sidebar
--   Post adverts/listings with or without registration
--   Adsense and other CPC/CPM ready
--   Premium and refreshing themes
--   Professional support to give your website a completely different interface and feel.
+- Customisable header
+- Flexible sidebar
+- Post adverts/listings with or without registration
+- Adsense and other CPC/CPM ready
+- Premium and refreshing themes
+- Professional support to give your website a completely different interface and feel.
 
 **_Update_** [Custom fields](/docs/custom-fields-create-custom-fields) are now available with our  [premium themes](https://selfhosted.yclas.com/), ready for you to customize according to your preferences.

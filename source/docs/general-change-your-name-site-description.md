@@ -15,11 +15,11 @@ The site name carries the identity of your whole website and it is complimented 
 
 **Whenever you are editing these fields, make sure to:**
 
--   Check that the site name is the correct title of your website – this will be publicly displayed online.
--   Check that your description matches your website’s content and purpose.
--   Take care and avoid grammatical errors, misleading/irrelevant input, plagiarism, etc.
--   Keep the length of the description field under the max (indicated by the tool tip – 160 characters).
--   Add a few keywords in the description – this could affect your SEO (Search Engine Optimization) analytics.
+- Check that the site name is the correct title of your website – this will be publicly displayed online.
+- Check that your description matches your website’s content and purpose.
+- Take care and avoid grammatical errors, misleading/irrelevant input, plagiarism, etc.
+- Keep the length of the description field under the max (indicated by the tool tip – 160 characters).
+- Add a few keywords in the description – this could affect your SEO (Search Engine Optimization) analytics.
 
 ### How to change them step-by-step:
 
@@ -33,10 +33,10 @@ The site name carries the identity of your whole website and it is complimented 
 
 Although the site's name and description are important elements in your website content, remember that you can always **add more content** to your site with the following tools  🛠️.
 
--   [Overview of widgets](/docs/widgets-overview-of-widgets)
--   [Creating a blog](/docs/plugins-create-a-blog)
--   [Add an FAQ section](/docs/plugins-FAQ-system)
--   [Add a forums section](/docs/plugins-forum-section)
+- [Overview of widgets](/docs/widgets-overview-of-widgets)
+- [Creating a blog](/docs/plugins-create-a-blog)
+- [Add an FAQ section](/docs/plugins-FAQ-system)
+- [Add a forums section](/docs/plugins-forum-section)
 
 We recommend these tools but there's plenty of other options.
 

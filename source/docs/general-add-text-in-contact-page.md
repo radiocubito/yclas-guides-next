@@ -11,8 +11,8 @@ Instead of having a plain contact form on your website’s contact page, now you
 
 To do this, just  follow these simple steps:
 
--   **Create a new Page**. In the  _description_  field, add the content you want to display on the contact page. If you don’t know how to create a new page, check our documentation on [How to add new pages](/docs/content-add-pages).
--   On  **Settings**  ->  **General**,  **Contact page content**, choose this page.
+- **Create a new Page**. In the  _description_  field, add the content you want to display on the contact page. If you don’t know how to create a new page, check our documentation on [How to add new pages](/docs/content-add-pages).
+- On  **Settings**  ->  **General**,  **Contact page content**, choose this page.
 
 ![](/assets/images/contact%20page%20final.png)
 - **Save** the changes, and you are ready.

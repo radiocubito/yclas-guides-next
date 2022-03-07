@@ -8,8 +8,8 @@ section: content
 # How to add map on the homepage?
 
 Content:
--   Prerequisites
--   Configure Google Maps on homepage
+- Prerequisites
+- Configure Google Maps on homepage
 
 Here we present another cool thing that you can do on your site. You can place a  **full width Google map**  at your homepage like this:
 
@@ -17,7 +17,7 @@ Here we present another cool thing that you can do on your site. You can place a
 
 ## Prerequisites
 
--   [Google Maps](/docs/publish-options-configure-google-maps-settings)  configured.
+- [Google Maps](/docs/publish-options-configure-google-maps-settings)  configured.
 
 ## Configure Google Maps on homepage
 

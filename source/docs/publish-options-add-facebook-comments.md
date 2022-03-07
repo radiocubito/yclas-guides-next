@@ -8,8 +8,8 @@ section: content
 # How to add Facebook comments?
 
 Content:
--   Facebook side
--   Yclas side
+- Facebook side
+- Yclas side
 
 This feature requires  two steps  one on  **Facebook side**  and one on  **Yclas side**:
 

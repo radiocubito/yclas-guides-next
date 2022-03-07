@@ -7,10 +7,10 @@ section: content
 
 # How to Auto Post to Social Media
 Content:
--   Only Featured Ads
--   Twitter
--   Facebook
--   Instagram
+- Only Featured Ads
+- Twitter
+- Facebook
+- Instagram
 
 
 Save a lot of time with this feature.
@@ -79,25 +79,25 @@ Facebook auto post allows you to configure your site to automatically post to a 
 
 **If you want to post to your Facebook Page**
 
--   Click on  **Get Token**  and select  **Get User Access Token**. “Get Token” button is changed to your page name.
--   Select the permissions as indicated below and press  **Get Access Token**:
+- Click on  **Get Token**  and select  **Get User Access Token**. “Get Token” button is changed to your page name.
+- Select the permissions as indicated below and press  **Get Access Token**:
 
 ![](/assets/images/sc8.png)
 
--   Press  **Get Token**  again and select your Facebook page.
--   Click on your page name (the same button) and select  **Request publish_pages**.
--   Got to the step 8.
+- Press  **Get Token**  again and select your Facebook page.
+- Click on your page name (the same button) and select  **Request publish_pages**.
+- Got to the step 8.
 
 **If you want to post to your personal Facebook page**
 
--   Click on  **Get Token**  and select  **Get User Access Token**.
--   Check the fields as described in the image below, click the  **Get Access Token**  button again and select your Facebook page
+- Click on  **Get Token**  and select  **Get User Access Token**.
+- Check the fields as described in the image below, click the  **Get Access Token**  button again and select your Facebook page
 
 ![](/assets/images/sc9.png)
 **If you want to post to your Facebook group**
 
--   Click on  **Get Token**  and select  **Get User Access Token**.
--   Check the fields as described in the image below, click the  **Get Access Token**  button again and select your Facebook page.
+- Click on  **Get Token**  and select  **Get User Access Token**.
+- Check the fields as described in the image below, click the  **Get Access Token**  button again and select your Facebook page.
 
 ![](/assets/images/sc10.png)
 

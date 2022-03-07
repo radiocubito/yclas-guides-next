@@ -9,10 +9,10 @@ section: content
 
 Content:
 
- -   Client login
- -   Open a ticket
- -   Replying to a ticket
- -   What does support cover
+ - Client login
+ - Open a ticket
+ - Replying to a ticket
+ - What does support cover
 
 
 ## Yclas
@@ -52,10 +52,10 @@ We will always try to help to you as much as we can as we love helping new busin
 
 Support does **not** include:
 
--   Mentoring for technologies CSS, PHP, HTML, JavaScript or other technologies used in our software.
--   Sign up or support for third party services.
--   Customization of software or themes.
--   Configuration of your server or system
+- Mentoring for technologies CSS, PHP, HTML, JavaScript or other technologies used in our software.
+- Sign up or support for third party services.
+- Customization of software or themes.
+- Configuration of your server or system
 
 
 <iframe width="100%" height="400px" src="https://www.youtube.com/embed/O1-Xqis4dJE" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

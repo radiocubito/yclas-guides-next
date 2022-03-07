@@ -7,8 +7,8 @@ section: content
 
 # Auto-Data API 🚗
 Content:
--   Configuration
--   How it works
+- Configuration
+- How it works
 
 Auto-Data API can be used in a car dealer website, a marketplace, or any classifieds website where people can buy and sell cars.
 

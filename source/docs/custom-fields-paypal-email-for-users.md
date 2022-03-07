@@ -18,10 +18,10 @@ The new feature  is that you have the option to **specify the PayPal email addre
 
 ### How it works
 
--   If you don’t use any of the above ways, then user’s email will be used as PayPal email address.
--   If you add an extra field on the Publish New form, this email address will be used as PayPal email address.
+- If you don’t use any of the above ways, then user’s email will be used as PayPal email address.
+- If you add an extra field on the Publish New form, this email address will be used as PayPal email address.
  -  If you add an extra field on the Users Registration form, this email address will be used as PayPal email address.
--   If you use both ways, then email address on Publish New will be used as PayPal email address.
+- If you use both ways, then email address on Publish New will be used as PayPal email address.
 
 
 ### Add an extra field on the users registration form.

@@ -23,15 +23,15 @@ This is an an example of our demo in different languages:  [English](http://demo
 
 **Pros**:
 
--   Easy to activate.
--   Share the same users and ads database.
--   The same domain.
--   The same theme license.
+- Easy to activate.
+- Share the same users and ads database.
+- The same domain.
+- The same theme license.
 
 **Cons:**
 
--   Ads don’t have language attribute, this means you can not filter by language.
--   Categories and locations are not by language either, so once you write a category name it would be the same for all languages.
+- Ads don’t have language attribute, this means you can not filter by language.
+- Categories and locations are not by language either, so once you write a category name it would be the same for all languages.
 
 **I don’t like this option at all**. As a better alternatives and also better for SEO, we recommend the  **3 other options**. How to configure:
 
@@ -48,17 +48,17 @@ This is probably the best option, imagine you have: MyDomain.com, and you want t
 
 **Pros**:
 
--   Better SEO per domain language, THIS MAKES A HUGE difference.
--   You can use the same design.
--   Users are not confused nor lost between languages.
--   If you want, you can add a localized server for the domain extension, so the domain is in the language of the country.
+- Better SEO per domain language, THIS MAKES A HUGE difference.
+- You can use the same design.
+- Users are not confused nor lost between languages.
+- If you want, you can add a localized server for the domain extension, so the domain is in the language of the country.
 
 **Cons:**
 
--   You need a license for each domain for your premium theme.
--   You need different domain names (money expenses).
--   Separate administration of the site, software updates and moderation.
--   Probably more expenses on hosting.
+- You need a license for each domain for your premium theme.
+- You need different domain names (money expenses).
+- Separate administration of the site, software updates and moderation.
+- Probably more expenses on hosting.
 
 
 *This guide is only for Yclas Self-hosted*

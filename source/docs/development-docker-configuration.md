@@ -12,17 +12,17 @@ The following guide describes how you can use a docker image to install Yclas Se
 
 ### What is installed
 
--   Official Ubuntu Server 14.04 LTS (Trusty Tahr) builds
--   Apache2
-    -   PHP 7
-    -   cURL
-    -   GD
-    -   mysqli
-    -   mcrypt
-    -   apcu
--   MySQL 5.5
--   phpmyadmin
--   Installation file for the latest Yclas Self Hosted
+- Official Ubuntu Server 14.04 LTS (Trusty Tahr) builds
+- Apache2
+    - PHP 7
+    - cURL
+    - GD
+    - mysqli
+    - mcrypt
+    - apcu
+- MySQL 5.5
+- phpmyadmin
+- Installation file for the latest Yclas Self Hosted
 
 ### Instructions
 

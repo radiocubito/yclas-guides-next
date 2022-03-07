@@ -11,21 +11,21 @@ When you create or edit the Share Widget, you can see the field called  **Social
 
 Here’s a list with all the available social media. Next to each social media you will see the keyword you need to type:
 
--   **Whatsapp**: whatsapp
--   **Facebook**: facebook
--   **Twitter**: twitter
--   **LinkedIn**: linkedin
--   **Pinterest**: pinterest
--   **Google+**: googleplus
--   **vkontakte**: vkontakte
--   **Odnoklassniki**: odnoklassniki
--   **Tumblr**: tumblr
--   **Reddit**: reddit
--   **Stumbleupon**: stumbleupon
--   **Digg**: digg
--   **Flipboard**: flipboard
--   **Email**: email
--   **Print**: print
+- **Whatsapp**: whatsapp
+- **Facebook**: facebook
+- **Twitter**: twitter
+- **LinkedIn**: linkedin
+- **Pinterest**: pinterest
+- **Google+**: googleplus
+- **vkontakte**: vkontakte
+- **Odnoklassniki**: odnoklassniki
+- **Tumblr**: tumblr
+- **Reddit**: reddit
+- **Stumbleupon**: stumbleupon
+- **Digg**: digg
+- **Flipboard**: flipboard
+- **Email**: email
+- **Print**: print
 
 *Note: *W*hatsapp buttons appear only on mobile devices*
 

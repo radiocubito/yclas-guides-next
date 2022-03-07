@@ -7,8 +7,8 @@ section: content
 
 # Automatic emails sent to users 📧
 Content:
--   Available templates of emails
--   Set Email from
+- Available templates of emails
+- Set Email from
 
 When a user of your classified site does certain actions, e.g. register, post an ad or request to change the password, he receives an  **automatic email for confirmation**. 
 

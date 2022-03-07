@@ -8,11 +8,11 @@ section: content
 # How to Move a Classifieds Site From HTTPS to HTTPS. 
 
 Content:
--   What is HTTPS and why should I use it?
--   What tasks will you need to do?
-    -   Get an SSL certificate and install it on your server.
-    -   Go to your website’s panel to make necessary system changes.
-    -   Force a redirect from HTTP to HTTPS.
+- What is HTTPS and why should I use it?
+- What tasks will you need to do?
+    - Get an SSL certificate and install it on your server.
+    - Go to your website’s panel to make necessary system changes.
+    - Force a redirect from HTTP to HTTPS.
 
 
 In this guide, we will show you how to enable HTTPS on your classifieds site with ease.
@@ -60,10 +60,10 @@ Once you have completed this, proceed to the next step.
 
 ### Force a redirect from HTTP to HTTPS
 
--   Log into your website’s cPanel.
--   Click on File Manager (and tick to show hidden files).
--   Locate your .htaccess file in the public_html directory.
--   Open the .htaccess file for editing and add the following code on the top:
+- Log into your website’s cPanel.
+- Click on File Manager (and tick to show hidden files).
+- Locate your .htaccess file in the public_html directory.
+- Open the .htaccess file for editing and add the following code on the top:
     
     ```
       RewriteEngine On

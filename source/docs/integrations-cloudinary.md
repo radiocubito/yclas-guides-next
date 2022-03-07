@@ -11,9 +11,9 @@ This feature allows sellers to add videos to their ads.
 
 ## Prerequisites
 
--   A Cloudinary account which is created and configured.
--   The Video custom field needs to be created.
--   Seller can ad videos to their ads while creating them.
+- A Cloudinary account which is created and configured.
+- The Video custom field needs to be created.
+- Seller can ad videos to their ads while creating them.
 
 ## Create the Video field
 

@@ -8,11 +8,11 @@ section: content
 # Understanding Yclas Self-hosted Themes
 
 Content:
--   Theme Architecture
--   HTML
--   File Linking
--   Styles
--   JavaScript
+- Theme Architecture
+- HTML
+- File Linking
+- Styles
+- JavaScript
 
 
 This guide is written to help you understand how to  **manage your way around our themes**,  **modify a theme**  and, perhaps,  **create your own theme.**  In the following sections we explaine theme architecture, HTML structure, file linking, styles and javascript.
@@ -32,50 +32,50 @@ Yclas Self Hosted software comes with s default theme, this theme is basic with 
 
 /themes/default/
 
--   /css (all markup styles)
-    -   styles.css
-    -   (…)
--   /img (placeholder for your style images)
-    -   favicon.ico
+- /css (all markup styles)
+    - styles.css
+    - (…)
+- /img (placeholder for your style images)
+    - favicon.ico
 
 (Update 2.1.4, now favicon is at public/yclas/images)
 
--   (…)
--   /js (placeholder for your plugins and custom js/jquery code)
-    -   oc-panel (javascript files for admin panel)
-        -   crud
-        -   stats
-            -   dashboard.js (jquery script for stats)
-        -   (…) list of specific js files for some major functionalities of admin theme
-    -   theme.init.php
-    -   new.js
-    -   (…) rest of the plugins
--   /view (front end php markup files)
-    -   oc-panel (all view php files for admin panel)
-    -   pages (main content views)
-        -   ad (advertisement views)
-            -   disqus.php
-            -   listing.php
-            -   map.php
-            -   new.php
-            -   single.php
-        -   auth (authentication files)
-            -   login.php
-            -   login-form.php
-            -   (…)
-        -   blog (same as ad)
-        -   error (page error style)
-            -   404.php
-            -   500.php
-        -   contact.php
-        -   home.php
-        -   maps.php
-        -   userprofile.php
-    -   footer.php
-    -   header.php
-    -   main.php
-    -   (…)
--   init.php
+- (…)
+- /js (placeholder for your plugins and custom js/jquery code)
+    - oc-panel (javascript files for admin panel)
+        - crud
+        - stats
+            - dashboard.js (jquery script for stats)
+        - (…) list of specific js files for some major functionalities of admin theme
+    - theme.init.php
+    - new.js
+    - (…) rest of the plugins
+- /view (front end php markup files)
+    - oc-panel (all view php files for admin panel)
+    - pages (main content views)
+        - ad (advertisement views)
+            - disqus.php
+            - listing.php
+            - map.php
+            - new.php
+            - single.php
+        - auth (authentication files)
+            - login.php
+            - login-form.php
+            - (…)
+        - blog (same as ad)
+        - error (page error style)
+            - 404.php
+            - 500.php
+        - contact.php
+        - home.php
+        - maps.php
+        - userprofile.php
+    - footer.php
+    - header.php
+    - main.php
+    - (…)
+- init.php
 
 Now we have a general overview of the files. Let’s talk about how everything is put together. Yclas have admin theme and front end (user) theme.  **Admin views**  can be found in default/views/oc-panel folder.
 

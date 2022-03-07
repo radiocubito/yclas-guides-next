@@ -7,16 +7,16 @@ section: content
 
 # How to use Coupon System
 Content:
--   How to create coupons
-    -   Create single coupon
-    -   Bulk creation
-    -   Import coupons
--   Edit Coupons
--   How to use coupons
-    -   On the checkout page
-    -   From widget coupons
-    -   Add Coupon Name in any URL
--   Export coupons
+- How to create coupons
+    - Create single coupon
+    - Bulk creation
+    - Import coupons
+- Edit Coupons
+- How to use coupons
+    - On the checkout page
+    - From widget coupons
+    - Add Coupon Name in any URL
+- Export coupons
 
 This new tool allows you to give special discounts to customers to post on paid categories, top up or upgrade their ads to feature.
 
@@ -36,13 +36,13 @@ Fill the fields and click  **Submit**.
 ![coupons2](https://user-images.githubusercontent.com/55290441/80603249-d6840780-8a38-11ea-9800-e25af3934b54.png)
 
 
--   **Name->**  It must be unique, cannot be repeated.
--   **Id Product->**  Any means will work for any product. If you choose a product, then the coupon will work only for that product.
--   **Discount Amount->**  (If Fixed discount is selected) Fixed amount to be discounted, ex. 3 (will discount 3$ from the total).
--   **Discount Percentage->**  (If Percentage discount is selected) Percentage of discount, ex. 50 (will remove 3$ from a $6 order).
--   **Number Coupons->**  Number of times that unique coupon can be used.
+- **Name->**  It must be unique, cannot be repeated.
+- **Id Product->**  Any means will work for any product. If you choose a product, then the coupon will work only for that product.
+- **Discount Amount->**  (If Fixed discount is selected) Fixed amount to be discounted, ex. 3 (will discount 3$ from the total).
+- **Discount Percentage->**  (If Percentage discount is selected) Percentage of discount, ex. 50 (will remove 3$ from a $6 order).
+- **Number Coupons->**  Number of times that unique coupon can be used.
 
--   **Valid until->**  Until when can you use that coupon.
+- **Valid until->**  Until when can you use that coupon.
 
 ![coupons3](https://user-images.githubusercontent.com/55290441/80603252-d71c9e00-8a38-11ea-8902-b46ac219162b.png)
 ![coupons4](https://user-images.githubusercontent.com/55290441/80603254-d71c9e00-8a38-11ea-9ef5-5ac5eebcea3b.png)

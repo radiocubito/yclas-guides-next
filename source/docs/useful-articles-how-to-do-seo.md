@@ -7,11 +7,11 @@ section: content
 
 # How to do SEO for Classifieds Website
 Content:
--   Search Engine Optimization for Classifieds Websites
--   Image alt text
--    H1 tags
--   Meta descriptions
--   Recommendations for your site SEO
+- Search Engine Optimization for Classifieds Websites
+- Image alt text
+-  H1 tags
+- Meta descriptions
+- Recommendations for your site SEO
 
 This is a highly important topic, that drove a lot of interest and I am excited to respond and provide information. 
 In this guide, I will be talking about how  [Yclas](http://yclas.com/)  optimizes your website for search engines (*automatically* ) and also what can you do to make your content better in this regard.
@@ -107,22 +107,22 @@ The meta description is the line of text that shows under your website in the se
 
 We tried our best to have Yclas set your meta descriptions as automatically as possible, so here is a list of how Yclas assigns a meta description for each page:
 
--   **Homepage:**  Site name” official homepage, get your post listed now.
--   **/all:**  List of all postings in “site name”
--   **/all/location:**  If (location description is empty) then (List of all postings in “Location”) else (location description)
--   **/oc-panel/auth/login:**  login to “site name”
--   **/oc-panel/auth/register:**  Create a new profile at “sitename”
--   **/oc-panel/auth/forgot:**  Here you can reset your password if you forgot it
--   **/category:**  If (category description is empty) then (All “name of category” in “name of website”) else (insert category description)
--   **/category/ad:**  “Ad name” in “category name” on “site name”
--   **/Blog:**  “site name” blog section
--   **/Forum:**  “site name” community forums
--   **FAQ:**  “site name” frequently asked questions
--   **Contact:**  Contact “site name”
--   **Search:**  Search in “site name”
--   **/forum/topic:**  “Topic name” in “site name” forums
--   **/pagename:**  This is free for the user to add with the html editor
--   **/blog/post:**  This is free for the user to add with the html editor
+- **Homepage:**  Site name” official homepage, get your post listed now.
+- **/all:**  List of all postings in “site name”
+- **/all/location:**  If (location description is empty) then (List of all postings in “Location”) else (location description)
+- **/oc-panel/auth/login:**  login to “site name”
+- **/oc-panel/auth/register:**  Create a new profile at “sitename”
+- **/oc-panel/auth/forgot:**  Here you can reset your password if you forgot it
+- **/category:**  If (category description is empty) then (All “name of category” in “name of website”) else (insert category description)
+- **/category/ad:**  “Ad name” in “category name” on “site name”
+- **/Blog:**  “site name” blog section
+- **/Forum:**  “site name” community forums
+- **FAQ:**  “site name” frequently asked questions
+- **Contact:**  Contact “site name”
+- **Search:**  Search in “site name”
+- **/forum/topic:**  “Topic name” in “site name” forums
+- **/pagename:**  This is free for the user to add with the html editor
+- **/blog/post:**  This is free for the user to add with the html editor
 
 ## Recommendations for your site SEO
 

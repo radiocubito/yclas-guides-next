@@ -21,8 +21,8 @@ To enable this feature, you need to  **follow these steps:**
 
 **Tips:**
 
--   If you want this field to be mandatory, you can check  **Required**.
--   You can make this field private by checking  **Admin Privileged**. This option will make the field visible and editable only by the website administrator.
+- If you want this field to be mandatory, you can check  **Required**.
+- You can make this field private by checking  **Admin Privileged**. This option will make the field visible and editable only by the website administrator.
 
   
 

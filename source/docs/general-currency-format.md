@@ -7,8 +7,8 @@ section: content
 
 # How to set the currency format? 💵
 
--   How to do it
--   List of currency formats
+- How to do it
+- List of currency formats
 
 
 One of the most commonly asked question by our users is how to deal with the  currency in which prices are displayed. 
@@ -25,227 +25,227 @@ You can go to  **Settings**  >  **General**  >  **Regional configuration**  and 
 
 If a currency you want to use is not listed below, feel free to contact our support team let them know.
 
--   **US Dollar**  
+- **US Dollar**
     
--   **Pound Sterling**  
+- **Pound Sterling**
     
--   **Euro**  
+- **Euro**
     
--   **Swiss Franc**  
+- **Swiss Franc**
     
--   **Japan, Yen**  
+- **Japan, Yen**
     
--   **Canadian Dollar**  
+- **Canadian Dollar**
     
--   **Australian Dollar**  
+- **Australian Dollar**
     
--   **Euro in spanish format**  
+- **Euro in spanish format**
     
--   **Norwegian Krone**  
+- **Norwegian Krone**
     
--   **Algerian Dinar**  
+- **Algerian Dinar**
     
--   **Argentine Peso**  
+- **Argentine Peso**
     
--   **Armenian Dram**  
+- **Armenian Dram**
     
--   **Aruban Guilder**  
+- **Aruban Guilder**
     
--   **Bahamian Dollar**  
+- **Bahamian Dollar**
     
--   **Bahraini Dinar**  
+- **Bahraini Dinar**
     
--   **Bangladesh, Taka**  
+- **Bangladesh, Taka**
     
--   **Belize Dollar**  
+- **Belize Dollar**
     
--   **Bermudian Dollar**  
+- **Bermudian Dollar**
     
--   **Bolivia, Boliviano**  
+- **Bolivia, Boliviano**
     
--   **Bosnia and Herzegovina, Convertible Marks**  
+- **Bosnia and Herzegovina, Convertible Marks**
     
--   **Botswana, Pula**  
+- **Botswana, Pula**
     
--   **Brazilian Real**  
+- **Brazilian Real**
     
--   **Brunei Dollar**  
+- **Brunei Dollar**
     
--   **Bitcoin**  
+- **Bitcoin**
     
--   **Cayman Islands Dollar**  
+- **Cayman Islands Dollar**
     
--   **Chilean Peso**  
+- **Chilean Peso**
     
--   **China Yuan Renminbi**  
+- **China Yuan Renminbi**
     
--   **Colombian Peso**  
+- **Colombian Peso**
     
--   **Costa Rican Colon**  
+- **Costa Rican Colon**
     
--   **Croatian Kuna**  
+- **Croatian Kuna**
     
--   **Cuban Convertible Peso**  
+- **Cuban Convertible Peso**
     
--   **Cuban Peso**  
+- **Cuban Peso**
     
--   **Cyprus Pound**  
+- **Cyprus Pound**
     
--   **Czech Koruna**  
+- **Czech Koruna**
     
--   **XPF CFP franc**  
+- **XPF CFP franc**
     
--   **Danish Krone**  
+- **Danish Krone**
     
--   **Dominican Peso**  
+- **Dominican Peso**
     
--   **East Caribbean Dollar**  
+- **East Caribbean Dollar**
     
--   **Egyptian Pound**  
+- **Egyptian Pound**
     
--   **El Salvador Colon**  
+- **El Salvador Colon**
     
--   **Ethiopean Birr**  
+- **Ethiopean Birr**
     
--   **Old Ghana, Cedi**  
+- **Old Ghana, Cedi**
     
--   **Ghana, Cedi**  
+- **Ghana, Cedi**
     
--   **Gibraltar Pound**  
+- **Gibraltar Pound**
     
--   **Guatemala, Quetzal**  
+- **Guatemala, Quetzal**
     
--   **Honduras, Lempira**  
+- **Honduras, Lempira**
     
--   **Hong Kong Dollar**  
+- **Hong Kong Dollar**
     
--   **Hungary, Forint**  
+- **Hungary, Forint**
     
--   **Iceland Krona**  
+- **Iceland Krona**
     
--   **Indian Rupee ₹**  
+- **Indian Rupee ₹**
     
--   **Indonesia, Rupiah**  
+- **Indonesia, Rupiah**
     
--   **Iranian Rial**  
+- **Iranian Rial**
     
--   **Jamaican Dollar**  
+- **Jamaican Dollar**
     
--   **Jordanian Dinar**  
+- **Jordanian Dinar**
     
--   **Kazakhstani Tenge**  
+- **Kazakhstani Tenge**
     
--   **Kenyan Shilling**  
+- **Kenyan Shilling**
     
--   **Kuwaiti Dinar**  
+- **Kuwaiti Dinar**
     
--   **Latvian Lats**  
+- **Latvian Lats**
     
--   **Sri Lankan Rupee**  
+- **Sri Lankan Rupee**
     
--   **Lebanese Pound**  
+- **Lebanese Pound**
     
--   **Lithuanian Litas**  
+- **Lithuanian Litas**
     
--   **Moroccan Dirham**  
+- **Moroccan Dirham**
     
--   **Macedonia, Denar**  
+- **Macedonia, Denar**
     
--   **Malaysian Ringgit**  
+- **Malaysian Ringgit**
     
--   **Maltese Lira**  
+- **Maltese Lira**
     
--   **Mauritius Rupee**  
+- **Mauritius Rupee**
     
--   **Mexican Peso**  
+- **Mexican Peso**
     
--   **Mozambique Metical**  
+- **Mozambique Metical**
     
--   **Nepalese Rupee**  
+- **Nepalese Rupee**
     
--   **Nigerian Naira**  
+- **Nigerian Naira**
     
--   **Netherlands Antillian Guilder**  
+- **Netherlands Antillian Guilder**
     
--   **New Israeli Shekel ₪**  
+- **New Israeli Shekel ₪**
     
--   **New Turkish Lira**  
+- **New Turkish Lira**
     
--   **New Zealand Dollar**  
+- **New Zealand Dollar**
     
--   **Pakistan Rupee**  
+- **Pakistan Rupee**
     
--   **Paraguay Guarani**  
+- **Paraguay Guarani**
     
--   **Peru, Nuevo Sol**  
+- **Peru, Nuevo Sol**
     
--   **Peso Uruguayo**  
+- **Peso Uruguayo**
     
--   **Philippine Peso**  
+- **Philippine Peso**
     
--   **Poland, Zloty**  
+- **Poland, Zloty**
     
--   **Rial Omani**  
+- **Rial Omani**
     
--   **Romania, New Leu**  
+- **Romania, New Leu**
     
--   **Romania, Old Leu**  
+- **Romania, Old Leu**
     
--   **Russian Ruble**  
+- **Russian Ruble**
     
--   **Saudi Riyal**  
+- **Saudi Riyal**
     
--   **Singapore Dollar**  
+- **Singapore Dollar**
     
--   **Slovak Koruna**  
+- **Slovak Koruna**
     
--   **Slovenia, Tolar**  
+- **Slovenia, Tolar**
     
--   **South Africa, Rand**  
+- **South Africa, Rand**
     
--   **South Korea, Won ₩**  
+- **South Korea, Won ₩**
     
--   **Swaziland, Lilangeni**  
+- **Swaziland, Lilangeni**
     
--   **Swedish Krona**  
+- **Swedish Krona**
     
--   **Tanzanian Shilling**  
+- **Tanzanian Shilling**
     
--   **Thailand, Baht ฿**  
+- **Thailand, Baht ฿**
     
--   **Tonga, Paanga**  
+- **Tonga, Paanga**
     
--   **UAE Dirham**  
+- **UAE Dirham**
     
--   **Ukraine, Hryvnia**  
+- **Ukraine, Hryvnia**
     
--   **Ugandan Shilling**  
+- **Ugandan Shilling**
     
--   **Vanuatu, Vatu**  
+- **Vanuatu, Vatu**
     
--   **Venezuela Bolivares Fuertes**  
+- **Venezuela Bolivares Fuertes**
     
--   **Venezuela, Bolivar**  
+- **Venezuela, Bolivar**
     
--   **Viet Nam, Dong ₫**  
+- **Viet Nam, Dong ₫**
     
--   **West African CFA Franc**  
+- **West African CFA Franc**
     
--   **Zambian Kwacha**  
+- **Zambian Kwacha**
     
--   **Zimbabwe Dollar**  
+- **Zimbabwe Dollar**
     
--   **Default**  (to use your chosen locale currency)  
+- **Default**  (to use your chosen locale currency)
     
--   **Without currency sign**  
+- **Without currency sign**
     
--   **One decimal digit**  
+- **One decimal digit**
     
--   **Two decimal digits**  
+- **Two decimal digits**
     
--   **Three decimal digits**  
+- **Three decimal digits**
     
--   **Four decimal digits**
+- **Four decimal digits**
 
 
 <iframe width="100%" height="400px" src="https://www.youtube.com/embed/Nk83q1HlCYc" title="Yclas video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
