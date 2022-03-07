@@ -8,11 +8,12 @@ section: content
 # How to promote a classifieds website for free?
 
 Content:
--   WOM & social media marketing
--   Media exposure
--   Interacting with potential returning users
--   Give a personal touch and exist on many platforms
--   How Yclas helps you with this
+
+- WOM & social media marketing
+- Media exposure
+- Interacting with potential returning users
+- Give a personal touch and exist on many platforms
+- How Yclas helps you with this
 
 You got your classified ads website ready to work and you’re thinking about the next step? How can you compete with others who might already have their websites triving in your targeted niche? Let's look at the best ways to promote your classified site with focus on non-conventional techniques rather than on paid advertising:
 
@@ -20,10 +21,10 @@ You got your classified ads website ready to work and you’re thinking about th
 
 Spreading word of mouth strategies changed a lot since the existence of social media. Now, you have a lot of powerful tools to get your site right at your targeted users screens. Though there are some rules you might want to consider when developing your strategy in spreading the word on your website:
 
--   Make sure you know where your users are. Is Facebook their popular social media platform? Or are they active on Twitter?
--   Make it easy for them to spread the word; add social media like buttons or integrate a social log in into your classifieds website (this is available in our  [premium themes](/docs/themes-configuration-of-premuim-themes)
--   Give them a reason to share. Of course, “free” is the most popular word among classifieds websites, but that is not enough to convince users to share your website. Adding useful content or having something unique on your website will give them motive to share it.
--   Track referrals, keep checking who is referring to your website and try to find who has the most impact in increasing traffic, then make use of that information.
+- Make sure you know where your users are. Is Facebook their popular social media platform? Or are they active on Twitter?
+- Make it easy for them to spread the word; add social media like buttons or integrate a social log in into your classifieds website (this is available in our  [premium themes](/docs/themes-configuration-of-premuim-themes)
+- Give them a reason to share. Of course, “free” is the most popular word among classifieds websites, but that is not enough to convince users to share your website. Adding useful content or having something unique on your website will give them motive to share it.
+- Track referrals, keep checking who is referring to your website and try to find who has the most impact in increasing traffic, then make use of that information.
 
 ### Media exposure
 
