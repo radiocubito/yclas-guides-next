@@ -15,3 +15,29 @@ hljs.registerLanguage('yaml', require('highlight.js/lib/languages/yaml'));
 document.querySelectorAll('pre code').forEach((block) => {
     hljs.highlightBlock(block);
 });
+
+function currentURL() {
+    return window.location.href;
+}
+
+function docsifyPage() {
+    var items = currentURL().split('#', 2);
+
+    if (items.length < 2) {
+        return null;
+    }
+
+    return items[1];
+}
+
+function redirectFromDocsifyPage() {
+    var page = docsifyPage();
+
+    if (page) {
+        window.location.href = '/docs' + page.toLowerCase();
+    }
+}
+
+if (docsifyPage()) {
+    redirectFromDocsifyPage();
+}
